@@ -1,0 +1,407 @@
+{
+  "id": "s8-geo-sch",
+  "title": "Georgian Language & Literature — Grade 8 Scholarship",
+  "titleKa": "ქართული ენა და ლიტერატურა — VIII კლასი (საგრანტო)",
+  "division": "secondary",
+  "track": "scholarship",
+  "grade": "8",
+  "subject": "georgian",
+  "language": "ka",
+  "durationMinutes": 80,
+  "instructions": "გამოცდა ქართულ ენასა და ლიტერატურაში. დრო: 1 საათი 20 წუთი.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "ტესტი",
+      "instructions": null,
+      "passage": null,
+      "image": null
+    },
+    {
+      "id": "s2",
+      "title": "ესე",
+      "instructions": "ყურადღებით წაიკითხეთ ტექსტი.",
+      "passage": "**ლმობიერი მონადირე და ირმის გონიერება** — ვაჟა-ფშაველა\n\nოცი ენკენისთვე იყო. გამიხარდიმ მთელი სამი დღე უყარაულა ტყიან მაღლობებზე, რომ სადმე გაეგონა ირმის ყვირილი. გაიგონა კიდევაც, განთიადისას მიჰყვა ყვირილზე, მაგრამ ვერაფერს გახდა. დანაღვლიანებული დაბრუნდა, თუმც იმედს არა ჰკარგავდა.\n\nმთიდან დაბლა დაეშვა. ჩავიდა არაგვის პირზე. სადაც მთიულეთის არაგვი ფშავისას ერთვის, მაღალი კოშკი დგას სალ კლდეზე, ფშავის არაგვის მარჯვენა ნაპირას. კოშკს გვერდზე სიცხეში მოსაჩრდილებელი მაღალი იფნები და ცაცხვები უდგას. გამიხარდიმ ამ ადგილს მიაშურა დასასვენებლად. გამიხარდიმ ვერცხლის სალტეებით მორთული, მამაპაპური თოფი ცაცხვზე მიაყუდა, მოიხსნა საგზლიანი გუდა და ჩამოკიდა ცაცხვის ტოტზე, თვითონ ჩავიდა არაგვზე წყლის დასალევად. როცა დაბრუნდა, რას ხედავს? — გამოუგდია მგელს ფური-ირემი და მოსდევს უკან, როგორც გაგეშილი მწევარი. საცაა, უნდა მიეწიოს. გამიხარდიმ თოფი მოიმარჯვა, ხეს მოეფარა და გაფაციცებით ადევნებდა თვალს მგელს და იმის სადავლოს. ირემი პირდაპირ წყალს ეცა. ფონი როდი მოძებნა, შევიდა წყალში კარგა შორს, თითქმის გაანახევრა არაგვი, მისცა მკერდი აღმა და გაჩერდა. მგელიც მიჰყვა. მაგრამ ფეხებს ვერ უწვდენდა დედამიწას, ჩქარა არაგვმა აითრია და ქვევით წაიღო. ირემი გამობრუნდა, აჰყვა წყალს, შეცურა უფრო ღრმა ალაგს; ირმის მკერდით ორად გაპობილი არაგვი ყვიროდა, ღრიალებდა. ირემი კი იდგა ერთ ადგილს გაჩერებული და ელოდა ბედისწერის განჩინებას.\n\nმგელი მაინც გამოვიდა წყლიდან და შეჰყვა მდინარის ნაპირს; გაუსწორდა რა ირემს, შეცურა კვალად; მაგრამ წყალმა, ვიდრე ირემთან მიაღწევდა, აითრია და ისევ ქვევით წაიღო. ირემი გამობრუნდა უკან, გამოვიდა მშრალზე, შეიარა ცოტა ადგილი, ისევ წყალში შეცურდა და გაჩერდა. მგელიც გამოვიდა მდინარიდან და გასწია ისევ ირმისაკენ. მაგრამ ახლა წინანდებურად აღარ მოიქცა. გამოცდილებას მგლისთვის ჭკუა ესწავლებინა: ირემს ზემოდან მოუარა და იქიდან დააპირა იერიშის მიტანა. ახლა კი ვეღარ გადაურჩებოდა ირემი მგელს. გამიხარდის გულმა ვეღარ გაუძლო, გაუწყდა მოთმინების ძაფი. დაუმიზნა მგელს თოფი და ესროლა. მგელმა წყალში ჩააფარა თავი და დაიკარგა სამუდამოდ. ირემი კი იდგა გაჩერებული, ვერ გაეგო, რა მოხდა; იდგა წყალში გაყუჩებული და თვალი იქით ეჭირა, საიდანაც მგელს მოელოდა.\n\nგამიხარდიმ თოფი გატენა და მიაყუდა იქვე ხეზე. ხოლო მოკლულ მგელს ორი სიტყვა გაატანა საგძლად: „შე რჯულძაღლო, შენა!..“ ირემს არ დანახვებია, თოფს როგორ ესროდა. ირემი კარგა ხანს იდგა წყალში და ელოდა თავის მტერს. ბოლოს გამოვიდა, აღარაფრის შიში ჰქონდა, — მგელი აღარსად სჩანდა და გაკურცხლა ტყისაკენ.\n\n„არ მოგკლავ, წადი მშვიდობით, ღმერთმა ხელი მოგიმართოს!“ — მიაყოლა გამიხარდიმ ირემს კვალდაკვალ და გამოსწია შინისკენ გახარებულმა, რომ მადლი ჰქმნა, — მოითმინა და ირემს თოფი არ ესროლა.\n\n— ღმერთს შენთვის ლუკმა გადმოუგდია და შენ უარი გიყვია. ესროდი, შე კაი კაცო, რაღა ცოდვა და რაღა მადლი?! რა მომათმენინებდა, — იქვე დავაწვენდი, — ეტყოდნენ ხოლმე გამიხარდის კაცები, როცა მგლის და ირმის ამბავს უამბობდა ხალხს ყრილობაში, ქორწილში ან ხატობაში.\n\n— ღმერთმა დამიფაროს, მაგას როგორ ამბობთ?! განა იმიტომ გავაგდებინე მგელს პირიდან, ახლა მე ვქცეულიყავ მგლად? არა. ჩემი ჭკუა მაგას არ მეუბნება. ეგ რამ გათქმევინათ? — ეტყოდა პასუხად გამიხარდი და თან დინჯად ჩიბუხს აბოლებდა.\n\n— უთუოდ არც ტყუის, კაცმა რომ გულისხმა გაავლოს მაგის სიტყვას: მართლაც, დიდ ცოდვას იზამდა, რომ მოეკლა; იქნებ დღესაც ცოცხალია ის ირემი და ლოცავს თავის მხსნელს.\n\n**ლექსიკონი:**\n\n**ენკენისთვე** — სექტემბერი\n\n**აუგი** — დასაგმობი, საძრახისი\n\n**იფანი, ცაცხვი** — ხეები\n\n**სალტე** — ლითონის რკალი\n\n**სადავლო** — ნადავლი\n\n**ფონი** — მდინარეში ადგილი, სადაც წყალი თხელია\n\n**განჩინება** — განაჩენი\n\n**ჩააფარა** — აქ: ჩაყო, ჩამალა\n\n**ხატობა** — ხატის დღეობა, ხატის დღესასწაული\n\n**გულის ხმა გაავლოს მაგის სიტყვას** — რომ ჩაუფიქრდეს მის სიტყვას\n\n**გაგეშილი** — დაგეშილი, გაწვრთნილი\n\n**ფური-ირემი** — დედალი ირემი",
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "sectionId": "s1",
+      "number": "1",
+      "type": "multiple_choice",
+      "prompt": "რომელია კუმშვადი სახელი:",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "კვალი",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "კოცონი",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "მერცხალი",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "გედი",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q2",
+      "sectionId": "s1",
+      "number": "2",
+      "type": "multiple_choice",
+      "prompt": "რომელია მართებულად დაწერილი:",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "მე-10-ეში",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "21-ეში",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "95-ზე",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "მე-345",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q3",
+      "sectionId": "s1",
+      "number": "3",
+      "type": "multiple_choice",
+      "prompt": "ჩამოთვლილთაგან რომელია გარდამავალი ზმნა:",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "ესაუბრება",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "უთანხმდება",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "უქსოვს",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "იძინებს",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q4",
+      "sectionId": "s1",
+      "number": "4",
+      "type": "multiple_choice",
+      "prompt": "შემოხაზეთ სათავისო ქცევის ფორმა:",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "მიწერს",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "ითბობს",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "უყვება",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "აწებებს",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q5",
+      "sectionId": "s1",
+      "number": "5",
+      "type": "multiple_choice",
+      "prompt": "რომელ ზმნაში არაა სწორად გამოყენებული კონტაქტის ნიშანი:",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "ბებია შეშას შვილიშვილს აპობიებდა.",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "ამ საკითხზე მოსწავლეებს ყურადღება გაამახვილებინეს.",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "კაცი ბოსტანს მუშას აბარვინებს.",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "დედამ მკერავს კაბა შეაკერვინა.",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q6",
+      "sectionId": "s1",
+      "number": "6",
+      "type": "multiple_choice",
+      "prompt": "ამ მიწის ბედი ჩემი ბედია,\nმის ბეჭზე ბეჭით ვთიბავ ბალახებს,\nმე თუნდა არ ვთქვა მთები გეტყვიან,\nრაც მაწუხებს და რაიც მალაღებს.\n\nრომელ სტრიქონში აკლია მძიმე:",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "1-ლ",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "მე-3",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "მე-2",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "მე-4",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q7",
+      "sectionId": "s1",
+      "number": "7",
+      "type": "multiple_choice",
+      "prompt": "რომელია უმართებულო დებულება:",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "მსგავსი მნიშვნელობისა და განსხვავებული ბგერითი შედგენილობის სიტყვებს ომონიმები ჰქვია.",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "სიტყვა არის ბგერათა ისეთი თანმიმდევრობა, რომელსაც მნიშვნელობა აქვს.",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "საპირისპირო მნიშვნელობის სიტყვებს ანტონიმები ჰქვია.",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "ენაში არსებულ სიტყვათა მარაგს ლექსიკა ჰქვია.",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q8",
+      "sectionId": "s1",
+      "number": "8",
+      "type": "multiple_choice",
+      "prompt": "რომელია სინონიმი სიტყვისა „ანჩხლი“:",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "მშიშარა",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "ზარმაცი",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "კაპასა",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "თავნება",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q9",
+      "sectionId": "s1",
+      "number": "9",
+      "type": "multiple_choice",
+      "prompt": "ჩამოთვლილი სიტყვებიდან რომელია ომონიმი:",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "თეფში",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "ჯამი",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "ჭიქა",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "კოვზი",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q10",
+      "sectionId": "s1",
+      "number": "10",
+      "type": "multiple_choice",
+      "prompt": "განმარტეთ ფრაზეოლოგიზმი — „თვალის მოტყუება“:",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "წაძინება",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "შეხედვა",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "მინიშნება",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "დათვალიერება",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q11",
+      "sectionId": "s2",
+      "number": "11",
+      "type": "open_response",
+      "prompt": "დაწერეთ ესე (მინიმუმ 170 სიტყვა): შეაფასეთ მონადირის საქციელი და გამოკვეთეთ, რა არის ავტორის მთავარი სათქმელი.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "ესე პასუხობს დავალებას: შეფასებულია მონადირის (გამიხარდის) საქციელი და გამოკვეთილია ავტორის მთავარი სათქმელი (ცოდვა-მადლი, თანაგრძნობა, სიცოცხლის პატივისცემა).\nმსჯელობა დასაბუთებულია ტექსტიდან მოხმობილი ეპიზოდებით/არგუმენტებით.\nტექსტი ლოგიკურად არის აგებული, აზრები თანმიმდევრულია; დაცულია მოცულობა (მინიმუმ 170 სიტყვა).\nდაცულია ქართული ენის ორთოგრაფიული, პუნქტუაციური და სტილისტური ნორმები.",
+      "paperOnly": false
+    }
+  ],
+  "published": true,
+  "aiRules": null,
+  "importNotes": [
+    "Source prints no point values; every question defaulted to 1 point (total 11). Teacher should reweight, especially the essay (min 170 words) which is currently worth 1 point like each MC item.",
+    "The essay task is unnumbered in the source; it was assigned display number 11.",
+    "No point values are printed anywhere in the source, so every question defaulted to 1 point (total 11); the essay (q11) almost certainly carries more weight than the MC items — teacher should set real weights.",
+    "Source has no part names; two sections were created ('ტესტი' for questions 1-10 and 'ესე' for the reading passage + essay) so the passage attaches to the essay task.",
+    "Q2 key set to B (21-ეში) on the reading that all options test ordinal-numeral spelling; option C (95-ზე) is also correctly written if read as a cardinal — teacher should verify.",
+    "Q5 key set to A (აპობიებდა — should be აპობინებდა); worth a quick teacher check since causative-marker items can be subtle.",
+    "Glossary entry 'აუგი' is defined but the word does not appear in the passage text (kept as in source).",
+    "Cover header lines (class/name/surname/date blanks) were skipped per guide; duration taken from cover: 1 hour 20 minutes = 80 minutes."
+  ],
+  "verified": true
+}

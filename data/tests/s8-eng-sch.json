@@ -1,0 +1,309 @@
+{
+  "id": "s8-eng-sch",
+  "title": "English Paper 1 — Stage 8",
+  "titleKa": null,
+  "division": "secondary",
+  "track": "scholarship",
+  "grade": "8",
+  "subject": "english",
+  "language": "en",
+  "durationMinutes": 70,
+  "instructions": "**INSTRUCTIONS**\n\n- Answer **all** questions.\n- Write your answer to each question in the space provided.\n- You should pay attention to punctuation, spelling and handwriting.\n\n**INFORMATION**\n\n- The total mark for this paper is 50.\n- The number of marks for each question or part question is shown in brackets [ ].\n- Suggestions for how long to spend on each section are given in the booklet.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A: Reading",
+      "instructions": "Spend 35 minutes on this section.\n\nRead the **text**, an article about the history of sneakers (shown below with line numbers in brackets), and answer Questions 1–10.",
+      "passage": "**Text for Section A, an extract from *The History of Sneakers* by Naomi Braithwaite**\n\n### The humble sneaker: a symbol of our times\n\n**Your best foot forward**\n\n*(lines 4–7)* Sneakers (or trainers if you’re British!), once a symbol of athleticism, have transcended their primary function to become commercial and fashionable objects of desire. From sportswear and street style to catwalk fashion, sneakers have made their mark as the most sought-after commodities.\n\n*(lines 8–11)* The global sneaker market, valued at approximately US$79 billion in 2020, is predicted to reach US$120 billion by 2026. With such huge growth, it is unsurprising that they are considered BIG business. Such are the strides in the sneaker industry that the shoe has become the undisputed cultural symbol of our times.\n\n**Comfort is king**\n\n*(lines 13–15)* The last couple of decades have seen a huge shift in how sneakers are worn. Donning a pair is no longer frowned upon in the workplace and they are even becoming socially acceptable on more formal occasions.\n\n*(lines 16–19)* The continued dominance of the athleisure trend has had a significant impact on the growing sales of sneakers – along with the pursuit of comfort. This has grown in recent years with more people working from home and prioritising comfort, resulting in higher sales of loungewear, athleisure and flat shoes, like sneakers.\n\n*(lines 20–22)* As such, sneakers have moved from being niche products to become coveted as fashionable objects. Footwear is now the biggest-selling category in the online luxury market and sneakers have made a significant contribution to this growth.\n\n**Popularity of outdoor pursuits**\n\n*(lines 24–31)* The earliest sports shoes were created in the middle of the 19th century when it was discovered that canvas uppers could be bonded to rubber soles. Known as sandshoes, they caught on with the increasing popularity of outdoor leisure pursuits such as beach excursions. By the end of the 19th century, sporting activities had become popular, in particular lawn tennis, resulting in the need for more specialised shoes. Around 1892, the US Rubber Company developed rubber and canvas shoes called keds. By 1917, keds – or sneakers as they became known – began to be mass produced. (They got their nickname because the rubber soles were so quiet compared to other contemporary shoes.)\n\n**From tennis to track**\n\n*(lines 33–38)* Two companies shaped the sneaker’s evolution from tennis to track shoe. The first company, founded by Adi Dassler in Germany in 1924 and which later became known as Adidas, utilised canvas and rubber to develop light-weight spiked running shoes. In 1936, sprinter Jesse Owens wore Dassler’s spikes at the Olympics. Following Owens' four gold medals, Dassler shoes became renowned in the sporting world. They soon became the most popular athletic shoe globally and business boomed.\n\n*(lines 39–42)* The second company to shape the sneaker’s future was Nike Inc. In 1972, Nike’s first commercial design, the Cortez, was a cushioned running shoe. The public demand for this shoe surged after its use by the US Olympic athletes. Coinciding with a running craze across America, Nike sales reached US $800 000 in the first year of release.\n\n**Contemporary to cool**\n\n*(lines 44–47)* During the first half of the 20th century, sports shoes were worn mostly to play sports. But in the 1950s, teens in America began wearing them as fashion statements. This fad really took off after James Dean appeared in sneakers in the cult teenage movie *Rebel Without a Cause* (1955).\n\n*(lines 48–57)* The popularity of sneakers soared again in the 70s and 80s with the emergence of the hip-hop music scene. Famous rappers such as Public Enemy made brightly coloured tracksuits and sneakers all the rage. Then, with the launch of Nike Air Jordans in 1984, sneakers were not only fashionable but became desirable status items – a phenomenon boosted by celebrity endorsements. Over the next four decades, new technologies developed from advances in space technology were used to help improve the performance of sneakers. One brand of sneaker, as well as being super light-weight and durable, had air pumped into them to make them fit more snugly. In another brand, little pockets of gas were added to create better cushioning. Of course, innovations like these come at a cost: athletic shoes have shot up in price!\n\n**The commercialisation of cool**\n\n*(lines 59–66)* In the 2020s, sneakers continue to grow in popularity. This is due, in part, to the resell culture. The rise of ‘sneakerheads’, people who collect and trade sneakers, has ensured that they maintain cult status. How does this work? Well, big brands routinely release limited edition shoes associated with a celebrity, hip-hop star or athlete. You would not believe the lengths people go to to get their hands on a pair of these rare shoes! And with good reason. They have a retail value of between US$190 and US$240 but are reselling for between US$1695 to US$6118. This lucrative sneaker resale market has created new kinds of sneaker enthusiasts who are generating significant hype along with personal income.\n\n*(lines 67–68)* From sport to fashion, sneakers dominate today’s consumer market. Yet remarkably, despite mainstream adoption, sneakers retain their coolness as cultural icons.",
+      "image": null
+    },
+    {
+      "id": "s2",
+      "title": "Section B: Writing",
+      "instructions": "Spend 35 minutes on this section.",
+      "passage": null,
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "sectionId": "s1",
+      "number": "1(a)",
+      "type": "short_answer",
+      "prompt": "Look at lines 4–11.\n\nGive **one** word or phrase from the text that describes the original purpose of sneakers.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "a symbol of athleticism",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q2",
+      "sectionId": "s1",
+      "number": "1(b)",
+      "type": "open_response",
+      "prompt": "Look at lines 4–11.\n\nExplain the meaning of *strides* as it is used here and why it is appropriate in the context of the article.\n\nMeaning here:\n\nAppropriate in this article because:",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 2,
+      "criteria": "1 mark for the meaning: 'strides' here means big steps forward / significant progress or advances (in the sneaker industry).\n1 mark for appropriateness: it is a play on words — a stride is literally a (walking) step, which fits an article about shoes/footwear.",
+      "paperOnly": false
+    },
+    {
+      "id": "q3",
+      "sectionId": "s1",
+      "number": "2",
+      "type": "short_answer",
+      "prompt": "Look at lines 13–22. Give **one** word which means ‘putting on’.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "Donning",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q4",
+      "sectionId": "s1",
+      "number": "3(a)",
+      "type": "short_answer",
+      "prompt": "Look at lines 24–31.\n\nWhat was the breakthrough which led to the production of casual footwear?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "The discovery that canvas uppers could be bonded to rubber soles",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q5",
+      "sectionId": "s1",
+      "number": "3(b)",
+      "type": "multiple_choice",
+      "prompt": "Look at lines 24–31.\n\nWhy are dashes ( – ) used here? Tick (✓) **one** box.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "to give an example",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "to give the exact name",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "to give extra information",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "to give a simpler explanation",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q6",
+      "sectionId": "s1",
+      "number": "3(c)",
+      "type": "open_response",
+      "prompt": "Look at lines 24–31.\n\nWhat impact does the writer create by using dashes instead of brackets?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "1 mark for a valid impact, e.g. the dashes make the extra information stand out / emphasise it / draw the reader's attention to it, whereas brackets would make it seem less important; dashes also feel more informal/conversational.",
+      "paperOnly": false
+    },
+    {
+      "id": "q7",
+      "sectionId": "s1",
+      "number": "4(a)",
+      "type": "short_answer",
+      "prompt": "Look at lines 33–42.\n\nWhat does the verb *shaped* mean as it is used here?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "influenced / determined the development of",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q8",
+      "sectionId": "s1",
+      "number": "4(b)",
+      "type": "short_answer",
+      "prompt": "Look at lines 33–42.\n\nGive **one** verb from the text which means ‘made effective use of’.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "utilised",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q9",
+      "sectionId": "s1",
+      "number": "5",
+      "type": "open_response",
+      "prompt": "Look at lines 59–68. Why is *‘sneakerheads’* in inverted commas?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "1 mark for recognising that 'sneakerheads' is an invented / informal / slang term (a nickname coined for these collectors), not a standard word, so the inverted commas show it is a made-up or borrowed label being introduced by the writer.",
+      "paperOnly": false
+    },
+    {
+      "id": "q10",
+      "sectionId": "s1",
+      "number": "6(a)",
+      "type": "multiple_choice",
+      "prompt": "What literary feature has the writer used in each of the subheadings? Tick (✓) **one** box.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "metaphor",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "oxymoron",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "alliteration",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "assonance",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q11",
+      "sectionId": "s1",
+      "number": "6(b)",
+      "type": "open_response",
+      "prompt": "What overall effect does the writer create by using the same literary technique in each of the subheadings?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "1 mark for a valid overall effect, e.g. it creates a consistent pattern that holds the article together / makes the subheadings catchy and memorable / creates a light-hearted, playful, informal tone that engages the reader.",
+      "paperOnly": false
+    },
+    {
+      "id": "q12",
+      "sectionId": "s1",
+      "number": "7",
+      "type": "open_response",
+      "prompt": "Give **two** features of informal language used in the text. Give a quotation from the text to support your answer.\n\nFeature of informal language 1:\n\nQuotation 1:\n\nFeature of informal language 2:\n\nQuotation 2:",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 4,
+      "criteria": "1 mark for each correctly named feature of informal language (max 2), e.g. exclamations / direct address to the reader ('you') / rhetorical questions / contractions ('you're') / colloquial or chatty expressions ('all the rage', 'Well, ...') / asides in brackets.\n1 mark for each supporting quotation from the text that actually shows the named feature (max 2), e.g. 'or trainers if you're British!', 'How does this work? Well, ...', 'You would not believe the lengths people go to...', 'athletic shoes have shot up in price!'.\nThe quotation must match its feature to earn the mark.",
+      "paperOnly": false
+    },
+    {
+      "id": "q13",
+      "sectionId": "s1",
+      "number": "8",
+      "type": "open_response",
+      "prompt": "In the first section (Your best foot forward), sneakers are described as *fashionable objects of desire* (line 5). This idea is repeated throughout the text. Complete the table below with quotations from the text giving a similar idea from different sections.\n\n| Section | Quotation |\n| --- | --- |\n| Your best foot forward | *fashionable objects of desire* |\n| Comfort is king | |\n| Contemporary to cool | |\n| The commercialisation of cool | |",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 3,
+      "criteria": "1 mark for a correct quotation from each named section conveying that sneakers are fashionable/desirable (max 3):\n- Comfort is king: e.g. 'coveted as fashionable objects' (or 'biggest-selling category in the online luxury market').\n- Contemporary to cool: e.g. 'fashion statements' or 'desirable status items'.\n- The commercialisation of cool: e.g. 'maintain cult status', 'the lengths people go to to get their hands on a pair of these rare shoes', or 'retain their coolness as cultural icons'.\nThe words must be quoted from the correct section.",
+      "paperOnly": false
+    },
+    {
+      "id": "q14",
+      "sectionId": "s1",
+      "number": "9",
+      "type": "open_response",
+      "prompt": "Look at lines 33–42. How did the Olympics influence the development of sneakers? Write a summary of the main events in no more than **40 words**.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 2,
+      "criteria": "Up to 2 marks for a summary covering the two main Olympic events: (1) Jesse Owens wore Dassler's spiked shoes at the 1936 Olympics and after his four gold medals Dassler/Adidas shoes became renowned and popular worldwide; (2) demand for Nike's Cortez surged after US Olympic athletes used it in 1972, boosting Nike's sales.\nThe summary should be in the student's own words where possible and no more than 40 words; deduct for grossly exceeding the limit.",
+      "paperOnly": false
+    },
+    {
+      "id": "q15",
+      "sectionId": "s1",
+      "number": "10",
+      "type": "open_response",
+      "prompt": "Do you think fashionable sneakers are worth the money people pay for them? State **Yes** or **No**.\n\nExplain your answer by giving **two** reasons. Support each reason with evidence from the text.\n\nReason 1:\n\nEvidence 1:\n\nReason 2:\n\nEvidence 2:",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 4,
+      "criteria": "Either Yes or No is acceptable; marks are for the quality of support.\n1 mark for each valid reason consistent with the chosen view (max 2).\n1 mark for each piece of supporting evidence drawn from the text that backs up its reason (max 2), e.g. comfort, technology/innovation, status and resale value, or conversely inflated prices ('athletic shoes have shot up in price', reselling for US$1695–US$6118).",
+      "paperOnly": false
+    },
+    {
+      "id": "q16",
+      "sectionId": "s2",
+      "number": "11",
+      "type": "open_response",
+      "prompt": "Your English teacher has asked you to write an article for your school website describing how your experience of learning at school has changed over the years.\n\nYou should consider:\n\n- ways of learning (individually, pairs, groups)\n- how your teachers work and interact with students\n- homework (the type and amount)\n- your targets/goals.\n\nWrite your article.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 25,
+      "criteria": "Content and ideas: describes how the experience of learning has changed over the years, addressing the bullet points (ways of learning, teachers' interaction, homework, targets/goals) with relevant development and detail.\nText type and audience: reads as an article for a school website — engaging headline/opening, suitable register and direct engagement with the school audience.\nStructure and organisation: clear paragraphs, logical sequence (then vs now), effective linking and a rounded conclusion.\nLanguage: varied vocabulary and sentence structures used for effect.\nAccuracy: correct grammar, punctuation and spelling; errors do not impede communication.",
+      "paperOnly": false
+    }
+  ],
+  "published": true,
+  "aiRules": null,
+  "importNotes": [
+    "Q10 (q15): source has a tick-box for Yes/No folded into the typed response as 'State Yes or No' — teacher may prefer a separate choice control",
+    "Q1 (q1) answerKey 'a symbol of athleticism' — teacher may also want to accept the single word 'athleticism' or 'sportswear' as near-miss variants",
+    "The reading text was in a separate insert with 5-line margin numbering; it is embedded as the Section A passage with paragraph-level line-range markers, e.g. (lines 4-7), so line-reference questions remain answerable.",
+    "Q10 originally had a Yes/No tick-box plus explanation lines; it was folded into a single 4-point open_response asking the student to state Yes or No and give two supported reasons (either choice acceptable).",
+    "Q8's completion table was converted to a markdown table inside the prompt; students type the three quotations instead of writing in cells.",
+    "Q11 (Writing, 25 marks) had a 'Space for your plan' box and blank writing pages (pages 6-8); the plan space was dropped for digital delivery.",
+    "Q11 has no published rubric in the source; the 25-mark grading criteria were written based on standard Cambridge Lower Secondary article-writing descriptors and should be reviewed by the teacher.",
+    "Answer keys for interpretation questions (1b, 3c, 5, 6b, 7, 8, 9) are modeled as grading criteria rather than exact keys; the short_answer keys for 1(a), 2, 3(a), 4(a), 4(b) were derived from the passage and should be spot-checked."
+  ],
+  "verified": true
+}

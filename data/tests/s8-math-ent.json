@@ -1,0 +1,612 @@
+{
+  "id": "s8-math-ent",
+  "title": "Mathematics — Grade 8 Entrance",
+  "titleKa": null,
+  "division": "secondary",
+  "track": "entrance",
+  "grade": "8",
+  "subject": "math",
+  "language": "en",
+  "durationMinutes": 90,
+  "instructions": null,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Test",
+      "instructions": null,
+      "passage": null,
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "sectionId": "s1",
+      "number": "1",
+      "type": "multiple_choice",
+      "prompt": "Choose the part of a circle that is **not** a straight line.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "diameter",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "chord",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "radius",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "circumference",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "tangent",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "D",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q2",
+      "sectionId": "s1",
+      "number": "2",
+      "type": "short_answer",
+      "prompt": "Work out.\n\n–6 × –13",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "78",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q3",
+      "sectionId": "s1",
+      "number": "3",
+      "type": "multiple_choice",
+      "prompt": "Choose the letter that is the subject of the formula   πdh + 2πr² = A.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "d",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "h",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "r",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "A",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "D",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q4",
+      "sectionId": "s1",
+      "number": "4",
+      "type": "open_response",
+      "prompt": "The diagram shows a pair of parallel lines with a straight line crossing them and some angles marked with letters.\n\nComplete these sentences with the correct letters.\n\nAngles ______ and ______ are alternate angles.\n\nAngles ______ and ______ are corresponding angles.\n\nAngles ______ and ______ are vertically opposite angles.",
+      "image": "/assets/s8-math-ent/figures/p01-fig1.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 2,
+      "criteria": "Alternate angles: d and e. Corresponding angles: a and e (also accept c and d). Vertically opposite angles: c and e (also accept a and d). Award 2 marks for all three sentences correct; 1 mark for exactly two correct; otherwise 0.",
+      "paperOnly": false
+    },
+    {
+      "id": "q5a",
+      "sectionId": "s1",
+      "number": "5(i)",
+      "type": "short_answer",
+      "prompt": "Complete the calculation with the correct whole number.\n\n13⁰ = ______",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "1",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q5b",
+      "sectionId": "s1",
+      "number": "5(ii)",
+      "type": "short_answer",
+      "prompt": "Complete the calculation with the correct whole number.\n\n(2³)² = ______",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "64",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q5c",
+      "sectionId": "s1",
+      "number": "5(iii)",
+      "type": "short_answer",
+      "prompt": "Complete the calculation with the correct whole number.\n\n11¹⁵ ÷ 11¹³ = ______",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "121",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q6",
+      "sectionId": "s1",
+      "number": "6",
+      "type": "short_answer",
+      "prompt": "The diagram shows a parallelogram (NOT TO SCALE) with base 6.5 cm and perpendicular height 4 cm.\n\nWork out the area of the parallelogram, in cm².",
+      "image": "/assets/s8-math-ent/figures/p02-fig1.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "26",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q7",
+      "sectionId": "s1",
+      "number": "7",
+      "type": "short_answer",
+      "prompt": "Naomi draws a regular polygon with exactly 13 lines of symmetry.\n\nWrite down the order of rotational symmetry of her polygon.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "13",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q8",
+      "sectionId": "s1",
+      "number": "8",
+      "type": "multiple_choice",
+      "prompt": "The diagram shows the first four patterns in a sequence made with square tiles.\n\nChoose the exact number of tiles that could make a pattern in this sequence.",
+      "image": "/assets/s8-math-ent/page-03.png",
+      "choices": [
+        {
+          "id": "A",
+          "text": "32 tiles",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "64 tiles",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "96 tiles",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "602 tiles",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q9",
+      "sectionId": "s1",
+      "number": "9",
+      "type": "multiple_choice",
+      "prompt": "Mike and Carlos share some money in the ratio   2 : 5\n\nChoose the correct statement.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "Mike gets 2/5 of the money.",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Mike gets 5/2 of the money.",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Mike gets 2/7 of the money.",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Mike gets 2/3 of the money.",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q10",
+      "sectionId": "s1",
+      "number": "10",
+      "type": "short_answer",
+      "prompt": "The diagram shows a triangle ABC (NOT TO SCALE), with angle C = 61° and angle A = 42°.\n\nABD is a straight line.\n\nFind angle CBD, in degrees.",
+      "image": "/assets/s8-math-ent/figures/p04-fig1.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "103",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q11a",
+      "sectionId": "s1",
+      "number": "11(a)",
+      "type": "short_answer",
+      "prompt": "The nth term of a sequence is   n/2 + 5\n\nWork out the 6th term of the sequence.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "8",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q11b",
+      "sectionId": "s1",
+      "number": "11(b)",
+      "type": "short_answer",
+      "prompt": "Here are the first five terms of a different sequence.\n\n2,     8,     14,     20,     26\n\nFind the nth term of this sequence.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "6n − 4",
+      "points": 2,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q12",
+      "sectionId": "s1",
+      "number": "12",
+      "type": "multiple_choice",
+      "prompt": "Here are the names of some quadrilaterals.\n\nChoose the correct word from the list to complete this statement.\n\nAll rectangles are ______ .",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "squares",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "parallelograms",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "rhombuses",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "kites",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q13a",
+      "sectionId": "s1",
+      "number": "13(a)",
+      "type": "open_response",
+      "prompt": "Oliver writes this calculation.\n\n1 + 2 × 5² = 75\n\nState whether Oliver is correct or **not** correct, and explain your answer.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "Award 1 mark for stating Oliver is not correct WITH a valid explanation based on the order of operations, e.g. the index and multiplication must be done before the addition: 5² = 25, 2 × 25 = 50, 1 + 50 = 51 (not 75). Simply saying 'not correct' with no valid reasoning scores 0.",
+      "paperOnly": false
+    },
+    {
+      "id": "q13b",
+      "sectionId": "s1",
+      "number": "13(b)",
+      "type": "short_answer",
+      "prompt": "Work out.\n\n√(3² × 2³ + 28)",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "10",
+      "points": 2,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q14",
+      "sectionId": "s1",
+      "number": "14",
+      "type": "open_response",
+      "prompt": "Draw a bearing of 285° from point X. The diagram shows point X with a line pointing North.\n\n[This is a drawing task. If you cannot draw, describe in words the direction of the line you would draw, e.g. how many degrees and in which direction from North.]",
+      "image": "/assets/s8-math-ent/page-06.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "Award 1 mark for a line (or clear description of a line) from X at a bearing of 285°, i.e. 285° measured clockwise from North — equivalently 75° anticlockwise from North, pointing up and to the left (west-north-west direction). Accept a drawn angle within about ±2°.",
+      "paperOnly": true
+    },
+    {
+      "id": "q15",
+      "sectionId": "s1",
+      "number": "15",
+      "type": "short_answer",
+      "prompt": "Work out.\n\n5 7/12 − 3 3/4\n\nGive your answer as a mixed number in its simplest form.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "1 5/6",
+      "points": 3,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q16",
+      "sectionId": "s1",
+      "number": "16",
+      "type": "short_answer",
+      "prompt": "M is the point (1, 3).\n\nM is the midpoint of the line AB.\n\nComplete the coordinates for A and B.\n\nA = ( −2 , ___ )\n\nB = ( ___ , 7 )",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "A = (−2, −1), B = (4, 7)",
+      "points": 2,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q17",
+      "sectionId": "s1",
+      "number": "17",
+      "type": "short_answer",
+      "prompt": "Here is a mathematical statement.\n\n56 kilometres  +  4.3 miles  =  x  miles\n\nWork out the value of x.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "39.3",
+      "points": 2,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q18a",
+      "sectionId": "s1",
+      "number": "18(i)",
+      "type": "short_answer",
+      "prompt": "Find the value of the expression when   x = −2   and   y = 5\n\n4(y − x) = ______",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "28",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q18b",
+      "sectionId": "s1",
+      "number": "18(ii)",
+      "type": "short_answer",
+      "prompt": "Find the value of the expression when   x = −2   and   y = 5\n\n10y − 3x² = ______",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "38",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q19",
+      "sectionId": "s1",
+      "number": "19",
+      "type": "open_response",
+      "prompt": "Jamila has a 6-digit number.\n\nTwo of the digits in her number are hidden:\n\n4 ■ ■ 3 5 6\n\nFor each of Jamila's statements, say whether it **must be true**, **could be true** or **must be false**.\n\n1. My number is divisible by 4\n2. My number is divisible by 5\n3. My number is divisible by 8\n4. My number is divisible by 9",
+      "image": "/assets/s8-math-ent/page-08.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 2,
+      "criteria": "Correct answers: divisible by 4 — must be true (last two digits 56 are divisible by 4); divisible by 5 — must be false (the number ends in 6); divisible by 8 — must be false (last three digits 356 are not divisible by 8); divisible by 9 — could be true (digit sum is 18 + the two hidden digits, which may or may not be a multiple of 9). Award 2 marks for all four correct; 1 mark for two or three correct; otherwise 0.",
+      "paperOnly": false
+    },
+    {
+      "id": "q20a",
+      "sectionId": "s1",
+      "number": "20(i)",
+      "type": "short_answer",
+      "prompt": "Complete the table for   y = 2x − 1\n\n| x | −2 |    | 2 |\n|---|----|----|---|\n| y |    | −3 |   |\n\nGive the three missing values: y when x = −2, x when y = −3, and y when x = 2.",
+      "image": "/assets/s8-math-ent/figures/p09-fig1.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "y = −5 (when x = −2); x = −1 (when y = −3); y = 3 (when x = 2)",
+      "points": 2,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q20b",
+      "sectionId": "s1",
+      "number": "20(ii)",
+      "type": "open_response",
+      "prompt": "Draw the graph of   y = 2x − 1   on the grid.\n\n[This is a drawing task. If you cannot draw, describe the line in words, e.g. which points it passes through.]",
+      "image": "/assets/s8-math-ent/figures/p09-fig2.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "Award 1 mark for a correct straight line for y = 2x − 1 drawn (or clearly described) from x = −2 to x = 2, passing through the points (−2, −5), (−1, −3), (0, −1), (1, 1) and (2, 3).",
+      "paperOnly": true
+    },
+    {
+      "id": "q21",
+      "sectionId": "s1",
+      "number": "21",
+      "type": "open_response",
+      "prompt": "Eva says, 'The highest common factor of 36 and 60 is 6'\n\nShow that she is **not** correct.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "Award 1 mark for showing that 12 is a common factor of 36 and 60 that is greater than 6 (e.g. 36 = 12 × 3 and 60 = 12 × 5, so the HCF is 12, not 6). Any valid demonstration that the HCF is 12 earns the mark.",
+      "paperOnly": false
+    },
+    {
+      "id": "q22",
+      "sectionId": "s1",
+      "number": "22",
+      "type": "short_answer",
+      "prompt": "The diagram shows a tessellation of four parallelograms with no lines of symmetry. Two angles are marked x° and y°.\n\nWrite down a possible pair of values for x and y, in the form x = ..., y = ...",
+      "image": "/assets/s8-math-ent/figures/p10-fig1.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "x = 120, y = 60 (accept any pair with x + y = 180 and x ≠ 90, x obtuse)",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q23",
+      "sectionId": "s1",
+      "number": "23",
+      "type": "short_answer",
+      "prompt": "Factorise.\n\n12x² + 18x − 30xy",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "6x(2x + 3 − 5y)",
+      "points": 2,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q24",
+      "sectionId": "s1",
+      "number": "24",
+      "type": "short_answer",
+      "prompt": "Complete each box with the correct power.\n\n48 × 150 = 2^□ × 3^□ × 5^□\n\nGive the three powers in order (the power of 2, the power of 3, the power of 5).",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "5, 2, 2 (i.e. 48 × 150 = 2⁵ × 3² × 5²)",
+      "points": 2,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q25a",
+      "sectionId": "s1",
+      "number": "25(a)",
+      "type": "open_response",
+      "prompt": "These are the lengths, in centimetres, for a sample of 10 freshwater fish.\n\n6.9        7.6        7.8        6        5.7        6.5        5.1        7.2        7.1        7.8\n\nComplete the stem-and-leaf diagram for this information, and give the key.\n\n[Type your stem-and-leaf diagram, one stem per line, e.g. \"5 | ...\", and state the key.]",
+      "image": "/assets/s8-math-ent/page-11.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 3,
+      "criteria": "Correct diagram: stems 5, 6, 7 with ordered leaves — 5 | 1 7;  6 | 0 5 9;  7 | 1 2 6 8 8. Award marks for: all 10 values included as correct leaves (1), leaves written in order within each stem (1), a correct key such as '5 | 1 means 5.1 cm' including the unit (1).",
+      "paperOnly": false
+    },
+    {
+      "id": "q25b",
+      "sectionId": "s1",
+      "number": "25(b)",
+      "type": "open_response",
+      "prompt": "The lengths, in centimetres, of the sample of 10 freshwater fish were:\n\n6.9        7.6        7.8        6        5.7        6.5        5.1        7.2        7.1        7.8\n\nThe table shows information about the lengths of 10 **saltwater** fish in a different sample.\n\n|        | Saltwater |\n|--------|-----------|\n| Median | 8.4 cm    |\n| Range  | 5.8 cm    |\n\nWrite **two** comparisons between the distribution of the lengths of the freshwater fish and the distribution of the lengths of the saltwater fish.\n\nGive your comparisons in context.\n\nYou **must** include the statistics you use.",
+      "image": "/assets/s8-math-ent/figures/p11-fig2.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 4,
+      "criteria": "Expected statistics for the freshwater fish: median = 7.0 cm and range = 7.8 − 5.1 = 2.7 cm. Award up to 2 marks per comparison: (1) a median comparison in context, e.g. the saltwater fish are on average longer because their median (8.4 cm) is greater than the freshwater median (7.0 cm); (2) a spread comparison in context, e.g. the saltwater fish lengths are more spread out / more varied because their range (5.8 cm) is greater than the freshwater range (2.7 cm). For each comparison: 1 mark for the correctly calculated freshwater statistic compared with the saltwater value, 1 mark for the correct interpretation in context (longer on average / more variable). Statistics must be stated to earn full marks.",
+      "paperOnly": false
+    },
+    {
+      "id": "q26",
+      "sectionId": "s1",
+      "number": "26",
+      "type": "short_answer",
+      "prompt": "Square ABCD has a side length of 5 units. In the diagram, B is the top-left vertex, C the top-right, A the bottom-left and D the bottom-right.\n\nABCD is drawn on a grid so that C is at (16, 11).\n\nABCD is then translated 4 left and 2 down.\n\nFind the coordinates of vertices A and B after this translation, in the form A = (..., ...), B = (..., ...)",
+      "image": "/assets/s8-math-ent/page-12.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "A = (7, 4), B = (7, 9)",
+      "points": 2,
+      "criteria": null,
+      "paperOnly": false
+    }
+  ],
+  "published": true,
+  "aiRules": null,
+  "importNotes": [
+    "Q20 prints a single [3] for table + graph; the JSON allocates 2 (table) + 1 (graph) — teacher may prefer a different split.",
+    "Q14 and Q20(ii) are drawing tasks marked paperOnly with a describe-in-words fallback; teacher should decide how to mark typed descriptions.",
+    "Duration (90 min) comes from the source filename '1.5 hours' — no cover page was present in the extraction to confirm instructions or total marks.",
+    "No cover page in the source PDF (paper starts at Q1); no printed duration or total — 90 minutes taken from the source filename '1.5 hours', and points sum to 50 from printed per-question marks.",
+    "Q5 [3] and Q18 [2] each print one combined mark for multiple blanks; split into sub-parts 5(i)-(iii) and 18(i)-(ii) at 1 point each for auto-marking.",
+    "Q20 [3] combines completing a table and drawing a graph; split into 20(i) table (short answer, 2 pts) and 20(ii) graph (paper-only, 1 pt) — the 2/1 mark split is assumed, please verify against the mark scheme.",
+    "Q19 tick-table (must be true / could be true / must be false, 4 rows, [2]) converted to a single open-response with grading criteria (4 correct = 2, 2-3 correct = 1).",
+    "Q4 has multiple valid letter pairs: corresponding can be a&e or c&d, vertically opposite c&e or a&d — criteria list both; please confirm against mark scheme.",
+    "Q22 has no unique answer (any x + y = 180 with x obtuse); answerKey gives an example, AI checker should accept any valid pair.",
+    "Q14 (draw a bearing) and Q20(ii) (draw a graph) are paper-only drawing tasks; prompts ask students to describe their answer in words if they cannot draw.",
+    "Q8, Q14, Q19, Q25(a) and Q26 use full page renders (page-03/06/08/11/12.png) because the needed figures were not auto-cropped; the Q26 page render (and Q19's) unavoidably also shows the blank answer lines.",
+    "Q6 figure crop (p02-fig1.png) loses the '6.5 cm' base label, so both measurements are restated in the prompt."
+  ],
+  "verified": true
+}

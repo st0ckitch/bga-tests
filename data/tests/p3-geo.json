@@ -1,0 +1,380 @@
+{
+  "id": "p3-geo",
+  "title": "Georgian — Grade 3 Entrance",
+  "titleKa": "ქართული — III კლასი",
+  "division": "primary",
+  "track": "entrance",
+  "grade": "3",
+  "subject": "georgian",
+  "language": "ka",
+  "durationMinutes": 60,
+  "instructions": "ყურადღებით წაიკითხე ტექსტი და შეასრულე დავალებები.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "ტესტი",
+      "instructions": null,
+      "passage": "**პატარა წრუწუნა**\n\nსოროდან გამოცუნცულდა პატარა წრუწუნა. ეზოში გაბედულად გაძვრა-გამოძვრა, მაგრამ ცოტა ხანში გულგახეთქილი უკანვე შევარდა.\n\n— რა დაგემართა, სად იყავი? — ჰკითხა დედა თაგვმა.\n\n— ეზოს დასათვალიერებლად.\n\n— მერე, რამ შეგაშინა?\n\n— იქ ორი მხეცი ვნახე. ერთი ძალიან საშიში იყო: თავზე ხერხი ადგას, თვალებს აბრიალებს და მოკაუჭებული ნისკარტი აქვს. რომ შემომხედა, ისე დაიყვირა, რომ გული გამისკდა.\n\n— შვილო, ეგ მხეცი არაა, მამალია, მაგისი როგორ შეგეშინდა. ის არაფერს დაგიშავებს. — უთხრა დედამ.\n\n— მეორე მხეცი კი ძალიან საყვარელია. მრგვალი თავი და დიდი თვალები აქვს. გრძელ, ფაფუკ კუდს ლამაზად იქნევს. ულვაშები და ფუმფულა ბეწვი აქვს. ახლოს რომ მივედი, კლანჭები გამოუჩნდა და შემეშინდა.\n\n— ვაიმე, შვილო, ეს ხომ კატაა! არასდროს მიუახლოვდე, თორემ თუ დაგიჭირა, ვეღარც დაუძვრები კლანჭებიდან. — დაარიგა დედამ თავისი პატარა, ცნობისმოყვარე წრუწუნა.",
+      "image": "/assets/p3-geo/figures/p01-img16.jpeg"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "sectionId": "s1",
+      "number": "1.1",
+      "type": "multiple_choice",
+      "prompt": "სად ცხოვრობს წრუწუნა?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "ფუღუროში",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "სოროში",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "ეზოში",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "მინდორში",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q2",
+      "sectionId": "s1",
+      "number": "1.2",
+      "type": "multiple_choice",
+      "prompt": "რატომ გავიდა წრუწუნა ეზოში?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "საკვების მოსაძებნად",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "მეგობრებთან სათამაშოდ",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "ეზოს დასათვალიერებლად",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "დედის მოსაძებნად",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q3",
+      "sectionId": "s1",
+      "number": "2.1",
+      "type": "multiple_choice",
+      "prompt": "ტყუილია თუ მართალი?\n\n„მამალი საშიში ცხოველია.“",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "ტყუილი",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "მართალი",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q4",
+      "sectionId": "s1",
+      "number": "2.2",
+      "type": "multiple_choice",
+      "prompt": "ტყუილია თუ მართალი?\n\n„კატას კლანჭები აქვს.“",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "ტყუილი",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "მართალი",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q5",
+      "sectionId": "s1",
+      "number": "2.3",
+      "type": "multiple_choice",
+      "prompt": "ტყუილია თუ მართალი?\n\n„დედა თაგვმა შვილს უთხრა, რომ მამალი ძალიან საშიშია.“",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "ტყუილი",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "მართალი",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q6",
+      "sectionId": "s1",
+      "number": "3.1",
+      "type": "multiple_choice",
+      "prompt": "ჩამოთვლილი სიტყვებიდან რომელი შეეფერება მამალს და რომელი კატას?\n\n„ულვაშები“",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "მამალი",
+          "image": "/assets/p3-geo/figures/p03-img35.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "კატა",
+          "image": "/assets/p3-geo/figures/p03-img36.jpeg"
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q7",
+      "sectionId": "s1",
+      "number": "3.2",
+      "type": "multiple_choice",
+      "prompt": "ჩამოთვლილი სიტყვებიდან რომელი შეეფერება მამალს და რომელი კატას?\n\n„კლანჭები“",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "მამალი",
+          "image": "/assets/p3-geo/figures/p03-img35.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "კატა",
+          "image": "/assets/p3-geo/figures/p03-img36.jpeg"
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q8",
+      "sectionId": "s1",
+      "number": "3.3",
+      "type": "multiple_choice",
+      "prompt": "ჩამოთვლილი სიტყვებიდან რომელი შეეფერება მამალს და რომელი კატას?\n\n„ფაფუკი კუდი“",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "მამალი",
+          "image": "/assets/p3-geo/figures/p03-img35.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "კატა",
+          "image": "/assets/p3-geo/figures/p03-img36.jpeg"
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q9",
+      "sectionId": "s1",
+      "number": "3.4",
+      "type": "multiple_choice",
+      "prompt": "ჩამოთვლილი სიტყვებიდან რომელი შეეფერება მამალს და რომელი კატას?\n\n„ფუმფულა ბეწვი“",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "მამალი",
+          "image": "/assets/p3-geo/figures/p03-img35.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "კატა",
+          "image": "/assets/p3-geo/figures/p03-img36.jpeg"
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q10",
+      "sectionId": "s1",
+      "number": "3.5",
+      "type": "multiple_choice",
+      "prompt": "ჩამოთვლილი სიტყვებიდან რომელი შეეფერება მამალს და რომელი კატას?\n\n„თავზე ხერხი ადგას.“",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "მამალი",
+          "image": "/assets/p3-geo/figures/p03-img35.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "კატა",
+          "image": "/assets/p3-geo/figures/p03-img36.jpeg"
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q11",
+      "sectionId": "s1",
+      "number": "3.6",
+      "type": "multiple_choice",
+      "prompt": "ჩამოთვლილი სიტყვებიდან რომელი შეეფერება მამალს და რომელი კატას?\n\n„მოკაუჭებული ნისკარტი აქვს.“",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "მამალი",
+          "image": "/assets/p3-geo/figures/p03-img35.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "კატა",
+          "image": "/assets/p3-geo/figures/p03-img36.jpeg"
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q12",
+      "sectionId": "s1",
+      "number": "4",
+      "type": "open_response",
+      "prompt": "დაწერე, რატომ არ შეეშინდა თავიდან წრუწუნას კატის?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "პასუხი ეყრდნობა ტექსტს: კატა წრუწუნას თავიდან საყვარელი/უწყინარი მოეჩვენა — მრგვალი თავი, დიდი თვალები, ფაფუკი კუდი, ულვაშები და ფუმფულა ბეწვი ჰქონდა (შეეშინდა მხოლოდ მაშინ, როცა კლანჭები გამოუჩნდა).\nსაკმარისია აზრის სწორად გადმოცემა საკუთარი სიტყვებით; მართლწერის წვრილმანი შეცდომები ქულას არ აკლებს.",
+      "paperOnly": false
+    },
+    {
+      "id": "q13",
+      "sectionId": "s1",
+      "number": "5",
+      "type": "multiple_choice",
+      "prompt": "რა არის ამ იგავის მთავარი სათქმელი? შეარჩიე და მონიშნე ერთი პასუხი:",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "ყველა ცხოველი ჩვენს მეგობრად უნდა მივიჩნიოთ;",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "ერთი შეხედვით არ უნდა გადაწყვიტო, რა არის საშიში და რა არა;",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "მამალი უფრო საშიშია, ვიდრე კატა;",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "ეზოში გასვლა ყოველთვის სახიფათოა.",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    }
+  ],
+  "published": true,
+  "aiRules": null,
+  "importNotes": [
+    "Source prints no per-question marks; all 13 questions defaulted to 1 point (total 13) — teacher should confirm weighting.",
+    "Duration not stated in the source; 60 minutes assumed (primary-level default).",
+    "No marks/points are printed anywhere in the source; every question was set to 1 point (total 13).",
+    "No duration is given on the paper; defaulted to 60 minutes (primary division).",
+    "Task 1 has two unlabeled bullet sub-questions; numbered 1.1 and 1.2.",
+    "Task 2 (true/false table) worked-example row 'წრუწუნამ ნახა ძაღლი და კატა.' (pre-marked ტყუილი) was dropped as a sample; the remaining 3 rows became two-option MC (ტყუილი/მართალი) numbered 2.1–2.3.",
+    "Task 3 (connect-with-lines matching, 6 words/phrases vs rooster/cat pictures) was converted to six two-option MC questions (მამალი/კატა) numbered 3.1–3.6, with the rooster (figures/p03-img35.jpeg) and cat (figures/p03-img36.jpeg) images attached to the choices.",
+    "Decorative mouse illustration figures/p01-img16.jpeg attached as the section/passage image; figures/p02-fig1.png is just a render of the task-2 table and was not attached."
+  ],
+  "verified": true
+}

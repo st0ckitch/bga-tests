@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+
+# runtime data — student attempts and local settings (may hold an API key) stay off git
+data/attempts/*
+!data/attempts/.gitkeep
+data/settings.json

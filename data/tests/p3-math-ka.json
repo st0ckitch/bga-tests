@@ -1,0 +1,340 @@
+{
+  "id": "p3-math-ka",
+  "title": "Mathematics — Grade 3 Entrance",
+  "titleKa": "მათემატიკა — III კლასში მისაღები ტესტი",
+  "division": "primary",
+  "track": "entrance",
+  "grade": "3",
+  "subject": "math",
+  "language": "ka",
+  "durationMinutes": 60,
+  "instructions": null,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "ტესტი",
+      "instructions": null,
+      "passage": null,
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "sectionId": "s1",
+      "number": "1",
+      "type": "multiple_choice",
+      "prompt": "რომელია **რვაას ორმოცდათვრამეტის** ციფრული ჩანაწერი?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "838",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "588",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "848",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "858",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "D",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q2",
+      "sectionId": "s1",
+      "number": "2ა",
+      "type": "short_answer",
+      "prompt": "შეასრულე მოქმედება შენთვის ნაცნობი ხერხით:\n\n369 + 435 =",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "804",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q3",
+      "sectionId": "s1",
+      "number": "2ბ",
+      "type": "short_answer",
+      "prompt": "შეასრულე მოქმედება შენთვის ნაცნობი ხერხით:\n\n931 – 678 =",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "253",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q4",
+      "sectionId": "s1",
+      "number": "3",
+      "type": "multiple_choice",
+      "prompt": "მოცემულია ტოლობა: ⬜ ∙ 7 = 51 + 5. რა რიცხვი უნდა ეწეროს ცარიელ უჯრაში?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "9",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "7",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "8",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "6",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q5",
+      "sectionId": "s1",
+      "number": "4",
+      "type": "multiple_choice",
+      "prompt": "რა აქვთ **საერთო** ნახაზზე გამოსახულ ყველა **სამკუთხედს**?",
+      "image": "/assets/p3-math-ka/media/q4-triangles.png",
+      "choices": [
+        {
+          "id": "A",
+          "text": "მხოლოდ ერთი წვერო",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "მხოლოდ ერთი გვერდი",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "ერთი წვერო და ერთი გვერდი",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "ორი გვერდი",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q6",
+      "sectionId": "s1",
+      "number": "5",
+      "type": "multiple_choice",
+      "prompt": "ნახაზზე გამოსახულია პატარა კუბიკები და მათგან შედგენილი კედლები. თითოეული კედელი 100 კუბიკისაგან შედგება. სულ რამდენი პატარა კუბიკია ამ ნახატზე?",
+      "image": "/assets/p3-math-ka/media/q5-composite.png",
+      "choices": [
+        {
+          "id": "A",
+          "text": "რვაას ოცი",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "ორას ოთხმოცი",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "ორას რვა",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "ოცდარვა",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q7",
+      "sectionId": "s1",
+      "number": "6",
+      "type": "short_answer",
+      "prompt": "მარიმ პირველ დღეს ივარჯიშა 18 წუთი, მეორე დღეს – 25 წუთი. იგი ყოველდღიურად თანაბრად უმატებს ვარჯიშის ხანგრძლივობას. რამდენი წუთი ივარჯიშებს მარი მესამე დღეს?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "32",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q8",
+      "sectionId": "s1",
+      "number": "7",
+      "type": "multiple_choice",
+      "prompt": "დააკვირდი სახაზავს და გაარკვიე, რის ტოლია ნახაზზე მოცემული კვადრატის გვერდის სიგრძე.",
+      "image": "/assets/p3-math-ka/media/image3.png",
+      "choices": [
+        {
+          "id": "A",
+          "text": "3 სმ",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "3 სმ 5 მმ",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "3 სმ 2 მმ",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "37 მმ",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "D",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q9",
+      "sectionId": "s1",
+      "number": "8",
+      "type": "multiple_choice",
+      "prompt": "მოიფიქრე, რომელი ორი რიცხვი აგრძელებს რიგს კანონზომიერად:\n\n4, 9, 7, 12, 10, 15, 13, ____, ____",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "14, 17",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "18, 14",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "17, 14",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "18, 16",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "D",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q10",
+      "sectionId": "s1",
+      "number": "9",
+      "type": "short_answer",
+      "prompt": "ნინომ და ნატამ შეაგროვეს ნიჟარები. ნინომ შეაგროვა 125 ნიჟარა, რაც ნატას ნიჟარებზე 32-ით მეტია. სულ რამდენი ნიჟარა შეაგროვეს ერთად?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "218",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q11",
+      "sectionId": "s1",
+      "number": "10",
+      "type": "multiple_choice",
+      "prompt": "რით ჰგავს სამკუთხედი კვადრატს? შემოხაზე სწორი პასუხი.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "ტოლი რაოდენობის გვერდები აქვთ;",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "ტოლი რაოდენობის წვეროები აქვთ;",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "კვადრატის და სამკუთხედის გვერდები მრუდი წირებია;",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "ორივეს საზღვარი მხოლოდ მონაკვეთებისგან შედგება.",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "D",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    }
+  ],
+  "published": true,
+  "aiRules": null,
+  "importNotes": [
+    "Duration not stated in source; 60 minutes is the guide's primary-school default",
+    "No per-question marks printed in source; 1 point each assumed (total 11)",
+    "q4-triangles.png and q5-composite.png are re-renders reconstructed from the DOCX vector data, not original rasters — worth a quick teacher glance",
+    "Q6/Q9 (word problems) are auto-marked short_answer accepting only the number; source provided working space, so partial-credit for method is not captured",
+    "No point values are printed anywhere in the source; every question was assigned 1 point (total 11) — verify against the official marking scheme.",
+    "Duration is not stated in the document; defaulted to 60 minutes (primary division).",
+    "Q3 (source no. 3): the empty-box symbol was lost in DOCX extraction (text read '. 7 = 51 +5'); prompt reconstructed as '⬜ ∙ 7 = 51 + 5' — arithmetic (56 ÷ 7 = 8) matches choice გ, but verify against the original.",
+    "Q4 (source no. 4) refers to a drawing of triangles, but no such figure exists in the extracted media (only the cube wall, a single cube, and the ruler image were embedded); the question has no image and correctChoiceId was left null.",
+    "Q5 (source no. 5): the original layout showed two wall images plus 8 separate small-cube images; adapted for digital delivery by attaching one wall image and stating the counts (2 walls, 8 loose cubes) in the prompt — the counting-from-picture step is partly given away, verify wording.",
+    "Source questions 2, 6 and 9 had printed grid working spaces and answer lines; converted to typed short-answer fields (working space dropped).",
+    "Choices were printed in two-column layout (ა/გ over ბ/დ); reordered to A–D preserving the original letter labels' values."
+  ],
+  "verified": true
+}

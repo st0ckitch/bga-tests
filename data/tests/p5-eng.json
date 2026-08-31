@@ -1,0 +1,607 @@
+{
+  "id": "p5-eng",
+  "title": "English — Grade 5 Placement Test",
+  "titleKa": null,
+  "division": "primary",
+  "track": "entrance",
+  "grade": "5",
+  "subject": "english",
+  "language": "en",
+  "durationMinutes": 60,
+  "instructions": null,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Reading",
+      "instructions": "Read the text about ants, then complete Activities 1–6 below.",
+      "passage": "Have you ever spent any time watching what goes on around an anthill? If not, you really should. Even though ants are tiny insects, they are truly amazing creatures.\n\nAnts are kind of like humans, because they live in big \"ant cities\" that are called \"colonies.\" In the colonies, thousands of ants work together to build a shelter, find food and protect their young. Ants live in a system of underground tunnels that they work hard to dig out. In these tunnels, there are special rooms for storing food and nurseries for baby ants. Some ants are in charge of keeping the colony clean. These ants have to pick up all the garbage from the colony and bring it to a garbage pile outside the colony. Do you think all that lifting might be too much for a little ant? Think again. Even though they are so small, ants can lift up to 20 times their own weight. That's about as much as a 10 year-old boy lifting a small car.\n\nThe entrance to their underground world is what we call an \"anthill.\" The anthill is a small pile of sand and dirt that thousands of ants work together to build. In the middle is a little hole through which the ants can climb down into their underground city. Imagine trying to organize such a task! You'd think that ants must be very good communicators.\n\nThe tricky part about ants is that they can't talk. But this doesn't stop these little creatures. Ants communicate by releasing different chemicals from their bodies for other ants to smell. For instance, if an ant finds a piece of food, it will send out a chemical signal that says \"there is food here.\" The other ants will follow their noses toward the pile of food until it is all gone. On the other hand, if there is something dangerous around, ants will send a chemical signal that says \"stay away.\" Each colony of ants has its own special smell. This way ants can tell if there are intruders among them.\n\nThe most important job for ants is to protect the Queen. Each ant colony has a Queen, the ant who lays the eggs. Queen ants can live up to fifteen years!\n\nBesides bothering us on picnics, ants pose a few other problems for humans. Some ants like to build their nests in wood, which can then cause our homes or porches to rot. But on the other hand, ants help to keep our soil healthy because the holes that they dig allow air and water to get down into the earth. So next time you see a trail of ants or the top of an anthill, stop and think about how amazing these little creatures are and what their lives must be like.",
+      "image": null
+    },
+    {
+      "id": "s2",
+      "title": "Writing",
+      "instructions": null,
+      "passage": null,
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "sectionId": "s1",
+      "number": "1.1",
+      "type": "multiple_choice",
+      "prompt": "Activity 1 — Read the sentence and choose TRUE or FALSE (example: \"Ants have nurseries for baby ants.\" — TRUE):\n\nAnts communicate by making sounds.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "TRUE",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "FALSE",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q2",
+      "sectionId": "s1",
+      "number": "1.2",
+      "type": "multiple_choice",
+      "prompt": "Activity 1 — Read the sentence and choose TRUE or FALSE:\n\nAnts live in colonies.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "TRUE",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "FALSE",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q3",
+      "sectionId": "s1",
+      "number": "1.3",
+      "type": "multiple_choice",
+      "prompt": "Activity 1 — Read the sentence and choose TRUE or FALSE:\n\nAnts help to keep soil healthy.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "TRUE",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "FALSE",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q4",
+      "sectionId": "s1",
+      "number": "1.4",
+      "type": "multiple_choice",
+      "prompt": "Activity 1 — Read the sentence and choose TRUE or FALSE:\n\nAll ants smell the same.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "TRUE",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "FALSE",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q5",
+      "sectionId": "s1",
+      "number": "1.5",
+      "type": "multiple_choice",
+      "prompt": "Activity 1 — Read the sentence and choose TRUE or FALSE:\n\nAnts can lift cars.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "TRUE",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "FALSE",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q6",
+      "sectionId": "s1",
+      "number": "1.6",
+      "type": "multiple_choice",
+      "prompt": "Activity 1 — Read the sentence and choose TRUE or FALSE:\n\nEach ant colony has fifteen queens.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "TRUE",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "FALSE",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q7",
+      "sectionId": "s1",
+      "number": "2.1",
+      "type": "short_answer",
+      "prompt": "Activity 2 — Read the story and answer.\n\n**Which three behaviors of ants show that they are hard-working?** Write the letters of the three correct options, separated by commas (e.g. a, b, d).\n\na) They work together to build shelter, find food and protect their young\nb) Thousands of ants work to build the anthill and tunnels\nc) The ants clean out the garbage from their colony\nd) The ants communicate with smells",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "a, b, c",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q8",
+      "sectionId": "s1",
+      "number": "2.2",
+      "type": "multiple_choice",
+      "prompt": "Activity 2 — Read the story and choose the correct answer.\n\n**What would probably happen if the Queen ant suddenly died?**",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "The colony might die out",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "There would be no more eggs",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "There would be no more new ants",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "The ants will starve",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q9",
+      "sectionId": "s1",
+      "number": "2.3",
+      "type": "multiple_choice",
+      "prompt": "Activity 2 — Read the story and choose the correct answer.\n\n**Which statement is an OPINION, not a FACT?**",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "Queen ants can live up to fifteen years",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Some ants are in charge of keeping the colony clean",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Ants are amazing little creatures",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Each colony of ants has its own special smell",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q10",
+      "sectionId": "s1",
+      "number": "3.1",
+      "type": "multiple_choice",
+      "prompt": "Activity 3 — Match the event (cause) with its effect. (Example: \"Because ants keep their colony clean,\" → \"there is a pile of garbage outside the anthill.\")\n\n**Because ants communicate with smells, ...**",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "they can tell other ants where there is food or danger.",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "air and water can get into the soil.",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "she is the ant who lays the eggs.",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q11",
+      "sectionId": "s1",
+      "number": "3.2",
+      "type": "multiple_choice",
+      "prompt": "Activity 3 — Match the event (cause) with its effect.\n\n**Because ants dig holes, ...**",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "they can tell other ants where there is food or danger.",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "air and water can get into the soil.",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "she is the ant who lays the eggs.",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q12",
+      "sectionId": "s1",
+      "number": "3.3",
+      "type": "multiple_choice",
+      "prompt": "Activity 3 — Match the event (cause) with its effect.\n\n**Because ant colonies have one Queen, ...**",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "they can tell other ants where there is food or danger.",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "air and water can get into the soil.",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "she is the ant who lays the eggs.",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q13",
+      "sectionId": "s1",
+      "number": "5.1",
+      "type": "short_answer",
+      "prompt": "Activity 5 — Complete the sentence with the base or root word of the word in brackets. (Example: Ants **communicate** by releasing or sending out smells to other ants. (communicators))\n\nThe parents of the new baby prepared a ____________. (nurseries)",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "nursery",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q14",
+      "sectionId": "s1",
+      "number": "5.2",
+      "type": "short_answer",
+      "prompt": "Activity 5 — Complete the sentence with the base or root word of the word in brackets.\n\nWhen you see an anthill you know it holds a ___________ of ants. (colonies)",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "colony",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q15",
+      "sectionId": "s1",
+      "number": "5.3",
+      "type": "short_answer",
+      "prompt": "Activity 5 — Complete the sentence with the base or root word of the word in brackets.\n\nAnts can smell ______________. (dangerous)",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "danger",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q16",
+      "sectionId": "s1",
+      "number": "5.4",
+      "type": "short_answer",
+      "prompt": "Activity 5 — Complete the sentence with the base or root word of the word in brackets.\n\nYou should not _____________ into other people's spaces. (intruders)",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "intrude",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q17",
+      "sectionId": "s1",
+      "number": "5.5",
+      "type": "short_answer",
+      "prompt": "Activity 5 — Complete the sentence with the base or root word of the word in brackets.\n\nAn ant __________ is made of many tunnels. (cities)",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "city",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q18",
+      "sectionId": "s1",
+      "number": "6.1a",
+      "type": "multiple_choice",
+      "prompt": "Activity 6 — Look at the word in bold and decide whether it is used as a NOUN or a VERB. (Example: The ants **work** together to build tunnels. — VERB; The **work** of the ants is hard. — NOUN)\n\nThe anthill is a small **pile** of sand.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "NOUN",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "VERB",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 0.5,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q19",
+      "sectionId": "s1",
+      "number": "6.1b",
+      "type": "multiple_choice",
+      "prompt": "Activity 6 — Look at the word in bold and decide whether it is used as a NOUN or a VERB.\n\nThe ants **pile** the sand over the hole.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "NOUN",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "VERB",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 0.5,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q20",
+      "sectionId": "s1",
+      "number": "6.2a",
+      "type": "multiple_choice",
+      "prompt": "Activity 6 — Look at the word in bold and decide whether it is used as a NOUN or a VERB.\n\nThe **smell** of the garbage is awful.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "NOUN",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "VERB",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 0.5,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q21",
+      "sectionId": "s1",
+      "number": "6.2b",
+      "type": "multiple_choice",
+      "prompt": "Activity 6 — Look at the word in bold and decide whether it is used as a NOUN or a VERB.\n\nI can **smell** the garbage.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "NOUN",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "VERB",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 0.5,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q22",
+      "sectionId": "s1",
+      "number": "6.3a",
+      "type": "multiple_choice",
+      "prompt": "Activity 6 — Look at the word in bold and decide whether it is used as a NOUN or a VERB.\n\nI see a **trail** of ants on the ground.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "NOUN",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "VERB",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 0.5,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q23",
+      "sectionId": "s1",
+      "number": "6.3b",
+      "type": "multiple_choice",
+      "prompt": "Activity 6 — Look at the word in bold and decide whether it is used as a NOUN or a VERB.\n\nThe ants **trail** after each other along the ground.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "NOUN",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "VERB",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 0.5,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q24",
+      "sectionId": "s2",
+      "number": "1",
+      "type": "open_response",
+      "prompt": "Answer the following questions in at least 7 sentences. Feel free to write more if you can.\n\n1. **If you have a chance to meet an ant, what questions will you ask it?**\n2. **Give some suggestions to ants on how they can live better.**\n3. **Have you ever seen ants in life? Share your experience with ants.**\n4. **Use 3 adjectives to describe ants.**",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 10,
+      "criteria": "Content (up to 4 pts): the response addresses all four questions — questions to ask an ant, suggestions for ants, personal experience with ants, and exactly 3 adjectives describing ants.\nLength (1 pt): at least 7 complete sentences.\nGrammar and spelling (up to 3 pts): mostly correct sentence structure, verb forms, and spelling; minor errors do not block meaning.\nVocabulary and coherence (up to 2 pts): appropriate word choice for Grade 5 and logically connected ideas.",
+      "paperOnly": false
+    }
+  ],
+  "published": true,
+  "aiRules": null,
+  "importNotes": [
+    "Per-question marks are not printed in the source (only Writing '10 points' and 'Total: 30'); 1 pt per item with 0.5 per Activity 6 sub-item is inferred and sums exactly to the printed 30 — teacher should confirm the distribution",
+    "Source has no Activity 4 (numbering jumps from Activity 3 to Activity 5) — nothing is missing from the JSON, but worth confirming against the original file",
+    "Duration is not printed anywhere; 60 minutes is the guide's primary-school default",
+    "Activity 2 Q2 key 'A' (colony might die out) is the best single answer but options b/c are also defensible consequences — teacher may want to allow alternatives",
+    "No duration printed anywhere in the source; defaulted to 60 minutes (primary division).",
+    "No per-question marks printed except the Writing task's '(10 points)'. Assumed 1 point per numbered item (6+3+3+5+3 reading items + 10 writing = 30, matching the printed 'Total mark: ___ / 30').",
+    "Activity 6: each numbered item contains two NOUN/VERB sentences; split each into two 0.5-point multiple-choice questions (q18-q23) so the total stays at 30 — check whether the platform supports fractional points.",
+    "Activity 2 question 1 ('Which three behaviors...') requires selecting three options; converted to short_answer with answerKey 'a, b, c' since the schema supports only one correctChoiceId — worth teacher review.",
+    "Activity 2 question 2 key set to A ('The colony might die out') as the standard prediction answer, but options B and C are also literally true consequences — teacher should confirm.",
+    "Activity 3 is a draw-a-line matching exercise; converted to multiple-choice per guide (choices are the three effect clauses; the example's effect was excluded).",
+    "Source skips Activity 4 (numbering goes 3 to 5); nothing appears to be missing, likely a source numbering error.",
+    "Fixed obvious source typos: 'amazing lisle creatures' -> 'little' (Activity 2 choice C), 'cause our holes or porches to rot' -> 'homes', 'the ant who lays on the eggs' -> 'lays the eggs' (passage).",
+    "All 5 media images are small red annotation marks (boxes/ellipse/line) showing example answers in the DOCX; ignored as decorative — no question needs a figure.",
+    "Writing task's four bullet questions are answered as one combined 10-point essay (single answer-line block and single mark in source)."
+  ],
+  "verified": true
+}

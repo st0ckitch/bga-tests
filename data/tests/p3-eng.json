@@ -1,0 +1,976 @@
+{
+  "id": "p3-eng",
+  "title": "English — Year 3 Placement Test",
+  "titleKa": null,
+  "division": "primary",
+  "track": "entrance",
+  "grade": "3",
+  "subject": "english",
+  "language": "en",
+  "durationMinutes": 60,
+  "instructions": null,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Task 1 — Reading",
+      "instructions": "Read the text and answer the reading comprehension questions.",
+      "passage": "**Memories of my first day at school**\n\nI remember my first day at school very well. I knew the school quite well because my older sister, Sandy, went there and every day, dad and I met her at the school gate after school. Every day, she ran out of the school with her friends. She often carried a painting. I felt jealous. I wanted to paint too!\n\nI was five years old when I started school. Most children in my class started school in September, but I started school in January, when I was five years old, because my birthday is in December. Three other kids started school on the same day as me. I was excited about my first day. I had my new uniform: a black skirt, a white t-shirt and green jumper, and a new red bag. When we arrived that day, a teacher met the new children at the school gate. Dad hugged me and said goodbye. I stood with the other children. I didn't talk to them because I was too nervous. Then, Mrs Wilson took us to our classroom. All the other children were already there. They looked at us when we entered the room. When thirty children looked at me, I started to cry!\n\nBut I wasn't upset for long. I sat with the other children on the carpet and the class teacher, Miss Holland, read us a story. Later, we drew pictures with coloured pencils, and at break time, I made friends with a girl called Megan. At the end of the day, I ran to the school gate with Megan and my picture, just like Sandy always did.",
+      "image": null
+    },
+    {
+      "id": "s2",
+      "title": "Task 2 — Writing",
+      "instructions": null,
+      "passage": null,
+      "image": null
+    },
+    {
+      "id": "s3",
+      "title": "Task 3 — Use of English",
+      "instructions": "Read the text and choose the correct answer for each gap.",
+      "passage": "Hi John,\n\nHow are you doing? I (1) ______ to you from Tulum, a wonderful place on the Caribbean coast of Mexico. I (2) ______ here with my family six days ago. We arrived (3) ______ Wednesday morning, and we (4) ______ for one more week.\n\nWe (5) ______ in a fantastic hotel on the beach. The hotel is (6) ______ than most hotels in Europe, and the weather is very nice. There aren't (7) ______ tourists at the moment, because it's the low season, and that is perfect, because I don't like (8) ______ tourists. I like to relax (9) ______ on the beach.\n\nYesterday we rented a car and we (10) ______ to different spots along the coast. I saw some of (11) ______ views in Mexico.\n\n(12) ______ Saturday we're going to buy some souvenirs and finally on Sunday we're coming back home.\n\nI'll tell you everything when I come back. Would you like to have dinner with (13) ______ one day?\n\nI want to thank you for taking care of my cat. I hope you aren't having (14) ______ problems. She (15) ______ a bit annoying sometimes.\n\nBye for now!\n\nKate.",
+      "image": null
+    },
+    {
+      "id": "s4",
+      "title": "Task 4 — Look and Read",
+      "instructions": "Look and read. Choose the correct words. The words are: a dentist, a milkshake, coffee, a nurse, a farmer, a shower, a lamp, a salad.\n\n**Example:** This person helps people who aren't well in hospital. — *a nurse*",
+      "passage": null,
+      "image": "/assets/p3-eng/media/task4-cards.png"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "sectionId": "s1",
+      "number": "1",
+      "type": "multiple_choice",
+      "prompt": "The writer was jealous of Sandy because she ______ at school.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "learned to write",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "painted pictures",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "had many friends",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q2",
+      "sectionId": "s1",
+      "number": "2",
+      "type": "multiple_choice",
+      "prompt": "The writer started school in ______.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "September",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "December",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "January",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q3",
+      "sectionId": "s1",
+      "number": "3",
+      "type": "multiple_choice",
+      "prompt": "The writer and ______ other children started school that day.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "three",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "five",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "thirty",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q4",
+      "sectionId": "s1",
+      "number": "4",
+      "type": "multiple_choice",
+      "prompt": "Before the writer started school, she felt ______.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "excited",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "nervous",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "upset",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q5",
+      "sectionId": "s1",
+      "number": "5",
+      "type": "multiple_choice",
+      "prompt": "The writer started to cry when ______.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "her father left",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "she entered the school",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "other children looked at her",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q6",
+      "sectionId": "s1",
+      "number": "6",
+      "type": "multiple_choice",
+      "prompt": "On the first day, the writer ______.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "learned to read",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "listened to a story",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "painted a picture",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q7",
+      "sectionId": "s2",
+      "number": "1",
+      "type": "open_response",
+      "prompt": "Please write about your first day at school.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "Content: the text is about the student's first day at school and includes several relevant ideas (feelings, people, activities).\nOrganisation: sentences are connected and the text can be followed easily.\nGrammar: simple past/present sentences are mostly correct for Year 3 level.\nVocabulary and spelling: appropriate school-related words, spelling errors do not block understanding.",
+      "paperOnly": false
+    },
+    {
+      "id": "q8",
+      "sectionId": "s3",
+      "number": "1",
+      "type": "multiple_choice",
+      "prompt": "Gap 1: \"How are you doing? I (1) ______ to you from Tulum, a wonderful place on the Caribbean coast of Mexico.\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "'m writing",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "'ve written",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "write",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q9",
+      "sectionId": "s3",
+      "number": "2",
+      "type": "multiple_choice",
+      "prompt": "Gap 2: \"I (2) ______ here with my family six days ago.\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "travel",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "travelled",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "'m travelling",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q10",
+      "sectionId": "s3",
+      "number": "3",
+      "type": "multiple_choice",
+      "prompt": "Gap 3: \"We arrived (3) ______ Wednesday morning.\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "at",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "in",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "on",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q11",
+      "sectionId": "s3",
+      "number": "4",
+      "type": "multiple_choice",
+      "prompt": "Gap 4: \"... and we (4) ______ for one more week.\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "will stay",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "stay",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "'re going to stay",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q12",
+      "sectionId": "s3",
+      "number": "5",
+      "type": "multiple_choice",
+      "prompt": "Gap 5: \"We (5) ______ in a fantastic hotel on the beach.\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "are staying",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "stayed",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "stay",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q13",
+      "sectionId": "s3",
+      "number": "6",
+      "type": "multiple_choice",
+      "prompt": "Gap 6: \"The hotel is (6) ______ than most hotels in Europe.\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "more cheap",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "the cheapest",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "cheaper",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q14",
+      "sectionId": "s3",
+      "number": "7",
+      "type": "multiple_choice",
+      "prompt": "Gap 7: \"There aren't (7) ______ tourists at the moment, because it's the low season.\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "much",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "some",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "many",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q15",
+      "sectionId": "s3",
+      "number": "8",
+      "type": "multiple_choice",
+      "prompt": "Gap 8: \"... because I don't like (8) ______ tourists.\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "a",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "– (nothing)",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "the",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q16",
+      "sectionId": "s3",
+      "number": "9",
+      "type": "multiple_choice",
+      "prompt": "Gap 9: \"I like to relax (9) ______ on the beach.\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "quiet",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "quieter",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "quietly",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q17",
+      "sectionId": "s3",
+      "number": "10",
+      "type": "multiple_choice",
+      "prompt": "Gap 10: \"Yesterday we rented a car and we (10) ______ to different spots along the coast.\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "were drive",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "drived",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "drove",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q18",
+      "sectionId": "s3",
+      "number": "11",
+      "type": "multiple_choice",
+      "prompt": "Gap 11: \"I saw some of (11) ______ views in Mexico.\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "the most amazing",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "the more amazing",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "the amazingest",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q19",
+      "sectionId": "s3",
+      "number": "12",
+      "type": "multiple_choice",
+      "prompt": "Gap 12: \"(12) ______ Saturday we're going to buy some souvenirs and finally on Sunday we're coming back home.\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "Next",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "On the next",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "The next",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q20",
+      "sectionId": "s3",
+      "number": "13",
+      "type": "multiple_choice",
+      "prompt": "Gap 13: \"Would you like to have dinner with (13) ______ one day?\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "I",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "my",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "me",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q21",
+      "sectionId": "s3",
+      "number": "14",
+      "type": "multiple_choice",
+      "prompt": "Gap 14: \"I hope you aren't having (14) ______ problems.\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "some",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "no",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "any",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q22",
+      "sectionId": "s3",
+      "number": "15",
+      "type": "multiple_choice",
+      "prompt": "Gap 15: \"She (15) ______ a bit annoying sometimes.\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "can be",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "can to be",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "cans be",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q23",
+      "sectionId": "s4",
+      "number": "1",
+      "type": "multiple_choice",
+      "prompt": "This has lots of green vegetables in it, but you don't cook it.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "a dentist",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "a milkshake",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "coffee",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "a nurse",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "a farmer",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "a shower",
+          "image": null
+        },
+        {
+          "id": "G",
+          "text": "a lamp",
+          "image": null
+        },
+        {
+          "id": "H",
+          "text": "a salad",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "H",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q24",
+      "sectionId": "s4",
+      "number": "2",
+      "type": "multiple_choice",
+      "prompt": "You stand under this when you want to wash.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "a dentist",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "a milkshake",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "coffee",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "a nurse",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "a farmer",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "a shower",
+          "image": null
+        },
+        {
+          "id": "G",
+          "text": "a lamp",
+          "image": null
+        },
+        {
+          "id": "H",
+          "text": "a salad",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "F",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q25",
+      "sectionId": "s4",
+      "number": "3",
+      "type": "multiple_choice",
+      "prompt": "This person works outside in the fields.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "a dentist",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "a milkshake",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "coffee",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "a nurse",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "a farmer",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "a shower",
+          "image": null
+        },
+        {
+          "id": "G",
+          "text": "a lamp",
+          "image": null
+        },
+        {
+          "id": "H",
+          "text": "a salad",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "E",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q26",
+      "sectionId": "s4",
+      "number": "4",
+      "type": "multiple_choice",
+      "prompt": "Some people put milk in this brown drink.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "a dentist",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "a milkshake",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "coffee",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "a nurse",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "a farmer",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "a shower",
+          "image": null
+        },
+        {
+          "id": "G",
+          "text": "a lamp",
+          "image": null
+        },
+        {
+          "id": "H",
+          "text": "a salad",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q27",
+      "sectionId": "s4",
+      "number": "5",
+      "type": "multiple_choice",
+      "prompt": "This person helps people when their teeth hurt.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "a dentist",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "a milkshake",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "coffee",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "a nurse",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "a farmer",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "a shower",
+          "image": null
+        },
+        {
+          "id": "G",
+          "text": "a lamp",
+          "image": null
+        },
+        {
+          "id": "H",
+          "text": "a salad",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    }
+  ],
+  "published": true,
+  "aiRules": null,
+  "importNotes": [
+    "Source prints no marks; every question defaulted to 1 point (total 27) — teacher should confirm weighting, especially the Task 2 writing task at 1 point vs the 26 objective items",
+    "Duration not stated in source; 60 minutes assumed per primary-division default",
+    "No marks are printed anywhere in the source; every question was assigned 1 point (total 27). The Task 2 writing task in particular likely deserves more weight — teacher should review the point values.",
+    "No duration on the cover; defaulted to 60 minutes (primary division).",
+    "Task 4 ('Look and read. Choose the correct words and write them on the lines') was converted to multiple choice with the 8 picture-word-bank options as choices; original answers were handwritten on lines. Its questions 1-5 were transcribed from media/image4.png.",
+    "Task 4's picture word bank spans two images (media/image2.png with 6 pictures, media/image1.png with 'a lamp' and 'a salad'); only media/image2.png is attached at section level since the schema allows one image, but all 8 words appear as text in the choices and in the section instructions.",
+    "Task 3 cloze text had extraction artifacts (duplicated gap numbers, options 'I my me' leaked inline near gap 13, inconsistent option capitalization from list formatting); cleaned up while preserving wording. Gap 8 option B is a dash meaning 'no word', rendered as '– (nothing)'.",
+    "All 26 MC answer keys were solved and pre-filled by the parser; no official answer key was present in the source, so teacher review is recommended."
+  ],
+  "verified": true
+}

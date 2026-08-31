@@ -1,0 +1,440 @@
+{
+  "id": "p2-eng",
+  "title": "English — Grade 2 Entrance",
+  "titleKa": null,
+  "division": "primary",
+  "track": "entrance",
+  "grade": "2",
+  "subject": "english",
+  "language": "en",
+  "durationMinutes": 60,
+  "instructions": null,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Test",
+      "instructions": null,
+      "passage": null,
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "sectionId": "s1",
+      "number": "1",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct missing word:\n\nMy friend .... three best friends. They play together every day.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "have",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "had",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "has",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q2",
+      "sectionId": "s1",
+      "number": "2",
+      "type": "multiple_choice",
+      "prompt": "Add the correct punctuation mark to the following sentence:\n\nCan I draw a rainbow",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "?",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": ".",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "!",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q3",
+      "sectionId": "s1",
+      "number": "3",
+      "type": "short_answer",
+      "prompt": "Find all the capital letters in the following sentence: [Type the capital letters you find, separated by commas.]\n\nMy sister has two dogs, Jack and Bubu.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "M, J, B",
+      "points": 3,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q4",
+      "sectionId": "s1",
+      "number": "4",
+      "type": "open_response",
+      "prompt": "Write your name below:",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 3,
+      "criteria": "The student writes their own name.\n1 point: the name begins with a capital letter.\n1 point: the rest of the name is written in lowercase letters (no random capitals).\n1 point: the name is written completely and legibly (no missing letters).",
+      "paperOnly": false
+    },
+    {
+      "id": "q5",
+      "sectionId": "s1",
+      "number": "5.1",
+      "type": "multiple_choice",
+      "prompt": "Look and read. Put a tick (√) if the sentence matches the picture or a cross (×) if it does not.\n\n**These are books.**",
+      "image": "/assets/p2-eng/media/image10.jpg",
+      "choices": [
+        {
+          "id": "A",
+          "text": "√ (tick)",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "× (cross)",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q6",
+      "sectionId": "s1",
+      "number": "5.2",
+      "type": "multiple_choice",
+      "prompt": "Look and read. Put a tick (√) if the sentence matches the picture or a cross (×) if it does not.\n\n**This is a window.**",
+      "image": "/assets/p2-eng/media/image11.jpg",
+      "choices": [
+        {
+          "id": "A",
+          "text": "√ (tick)",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "× (cross)",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q7",
+      "sectionId": "s1",
+      "number": "5.3",
+      "type": "multiple_choice",
+      "prompt": "Look and read. Put a tick (√) if the sentence matches the picture or a cross (×) if it does not.\n\n**This is a water bottle.**",
+      "image": "/assets/p2-eng/media/image12.jpg",
+      "choices": [
+        {
+          "id": "A",
+          "text": "√ (tick)",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "× (cross)",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q8",
+      "sectionId": "s1",
+      "number": "6.1",
+      "type": "multiple_choice",
+      "prompt": "Look at the picture and read. Write **yes** or **no**.\n\nExamples: \"The mom and the child are looking through the window.\" — no. \"You can see an armchair in the room.\" — yes.\n\n**The dad is in the room.**",
+      "image": "/assets/p2-eng/media/image13.jpg",
+      "choices": [
+        {
+          "id": "A",
+          "text": "yes",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "no",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q9",
+      "sectionId": "s1",
+      "number": "6.2",
+      "type": "multiple_choice",
+      "prompt": "Look at the picture and read. Write **yes** or **no**.\n\n**There is a green armchair in the room.**",
+      "image": "/assets/p2-eng/media/image13.jpg",
+      "choices": [
+        {
+          "id": "A",
+          "text": "yes",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "no",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q10",
+      "sectionId": "s1",
+      "number": "6.3",
+      "type": "multiple_choice",
+      "prompt": "Look at the picture and read. Write **yes** or **no**.\n\n**The child is sitting.**",
+      "image": "/assets/p2-eng/media/image13.jpg",
+      "choices": [
+        {
+          "id": "A",
+          "text": "yes",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "no",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q11",
+      "sectionId": "s1",
+      "number": "6.4",
+      "type": "multiple_choice",
+      "prompt": "Look at the picture and read. Write **yes** or **no**.\n\n**You can see books in the room.**",
+      "image": "/assets/p2-eng/media/image13.jpg",
+      "choices": [
+        {
+          "id": "A",
+          "text": "yes",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "no",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q12",
+      "sectionId": "s1",
+      "number": "7.1",
+      "type": "multiple_choice",
+      "prompt": "Read the sentence and use the picture to decide whether it is **True** or **False**.\n\n**The cat has a hat.**",
+      "image": "/assets/p2-eng/media/image14.png",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q13",
+      "sectionId": "s1",
+      "number": "7.2",
+      "type": "multiple_choice",
+      "prompt": "Read the sentence and use the picture to decide whether it is **True** or **False**.\n\n**A rat is in the pan.**",
+      "image": "/assets/p2-eng/media/image14.png",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q14",
+      "sectionId": "s1",
+      "number": "7.3",
+      "type": "multiple_choice",
+      "prompt": "Read the sentence and use the picture to decide whether it is **True** or **False**.\n\n**The man has a net.**",
+      "image": "/assets/p2-eng/media/image14.png",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q15",
+      "sectionId": "s1",
+      "number": "7.4",
+      "type": "multiple_choice",
+      "prompt": "Read the sentence and use the picture to decide whether it is **True** or **False**.\n\n**The man has a bag on his back.**",
+      "image": "/assets/p2-eng/media/image14.png",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q16",
+      "sectionId": "s1",
+      "number": "7.5",
+      "type": "multiple_choice",
+      "prompt": "Read the sentence and use the picture to decide whether it is **True** or **False**.\n\n**The can is in the pan.**",
+      "image": "/assets/p2-eng/media/image14.png",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q17",
+      "sectionId": "s1",
+      "number": "8",
+      "type": "open_response",
+      "prompt": "Write about your mom:",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 3,
+      "criteria": "1 point: the student writes at least one complete, relevant sentence about their mom.\n1 point: ideas are understandable and on topic (e.g. what she looks like, what she does, why the student loves her).\n1 point: basic grammar, capitalization, and spelling appropriate for Grade 2 (sentence starts with a capital letter, ends with a full stop).",
+      "paperOnly": false
+    }
+  ],
+  "published": true,
+  "aiRules": null,
+  "importNotes": [
+    "Source footer says 'Total: /20 points' but the printed per-question marks sum to 23 (1+1+3+3+3+4+5+3); teacher must decide which is authoritative.",
+    "Q4 'Write your name' (3 pts) grades handwriting features (capital first letter, lowercase rest, legibility) that a typed answer cannot fully demonstrate — teacher review advised.",
+    "Q3 'circle the capital letters' was adapted to typing the letters (answerKey 'M, J, B'); accept any order/format of the three letters.",
+    "Printed per-question marks sum to 23 but the cover footer says 'Total: /20' — a human should confirm which is intended.",
+    "Test duration is not stated anywhere in the document; defaulted to 60 minutes (primary).",
+    "Q4 'Write your name below' (3 points) was a handwriting task on guide lines in the source; adapted for typed input with criteria on capitalization/completeness — handwriting formation itself cannot be assessed digitally.",
+    "Q3 'Circle all capital letters' adapted to typing the capital letters (answer key: M, J, B).",
+    "Q5 (3 pts), Q6 (4 pts), Q7 (5 pts) were split into 1-point sub-questions; per-item marks were not printed individually but item counts match the totals.",
+    "Q6.3 'The child is sitting' keyed as 'no' — in the photo the child appears to be standing at the table while the mom sits; worth a quick teacher check.",
+    "Q7 statements were transcribed from the worksheet image (media/image14.png); the person in the picture has a beard and holds a net, a rat sits in the pan, the bag is on the floor, and the can is on the counter — keys set accordingly (False, True, True, False, False)."
+  ],
+  "verified": true
+}

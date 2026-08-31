@@ -1,0 +1,719 @@
+{
+  "id": "s9-sci-ent",
+  "title": "Science — Grade 9 Entrance",
+  "titleKa": null,
+  "division": "secondary",
+  "track": "entrance",
+  "grade": "9",
+  "subject": "science",
+  "language": "en",
+  "durationMinutes": 45,
+  "instructions": "Answer **all** questions.\n\nWrite your answer to each question in the space provided.\n\nYou should show all your working on the question paper.\n\nThe total mark for this paper is 50. The number of marks for each question or part question is shown in brackets [ ].",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Test",
+      "instructions": null,
+      "passage": null,
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "sectionId": "s1",
+      "number": "1(a)(i)",
+      "type": "short_answer",
+      "prompt": "Look at the diagram of part of the cross-section of a plant leaf (labelled: upper layer, palisade layer, spongy layer, lower layer, vein, stoma).\n\nThe palisade layer contains many chloroplasts.\n\nWhat process happens inside chloroplasts?",
+      "image": "/assets/s9-sci-ent/page-02.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "photosynthesis",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q2",
+      "sectionId": "s1",
+      "number": "1(a)(ii)",
+      "type": "short_answer",
+      "prompt": "The diagram shows part of the cross-section of a plant leaf.\n\nName **two** gases exchanged through the stoma.",
+      "image": "/assets/s9-sci-ent/page-02.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "carbon dioxide and oxygen (water vapour also accepted)",
+      "points": 2,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q3",
+      "sectionId": "s1",
+      "number": "1(b)",
+      "type": "short_answer",
+      "prompt": "Chloroplasts contain chlorophyll.\n\nWhat is the function of chlorophyll?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "it absorbs light (energy) for photosynthesis",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q4",
+      "sectionId": "s1",
+      "number": "2(a)",
+      "type": "open_response",
+      "prompt": "The diagram shows a model of the atomic structure of a sodium atom and a chlorine atom.\n\nA sodium atom and a chlorine atom react together to make a sodium ion, Na⁺, and a chloride ion, Cl⁻.\n\nDescribe how a sodium atom and a chlorine atom become charged ions.\n\nsodium atom …\n\nchlorine atom …",
+      "image": "/assets/s9-sci-ent/page-03.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 2,
+      "criteria": "1 mark: sodium atom loses one electron (from its outer shell) to become a positive ion Na+.\n1 mark: chlorine atom gains one electron to become a negative ion Cl-.\nDo not award marks for answers about losing/gaining protons.",
+      "paperOnly": false
+    },
+    {
+      "id": "q5",
+      "sectionId": "s1",
+      "number": "2(b)",
+      "type": "open_response",
+      "prompt": "Describe how ions are held together in an ionic compound.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 2,
+      "criteria": "1 mark: (strong electrostatic) attraction between ions.\n1 mark: attraction is between oppositely charged ions / positive and negative ions attract each other.",
+      "paperOnly": false
+    },
+    {
+      "id": "q6",
+      "sectionId": "s1",
+      "number": "3.1",
+      "type": "multiple_choice",
+      "prompt": "This question is about thermal transfer.\n\nDecide if the sentence is **true** or **false**.\n\n\"Heat is the word used to measure how hot an object is.\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "true",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "false",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 0.5,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q7",
+      "sectionId": "s1",
+      "number": "3.2",
+      "type": "multiple_choice",
+      "prompt": "This question is about thermal transfer.\n\nDecide if the sentence is **true** or **false**.\n\n\"Thermal energy is measured in °C.\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "true",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "false",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 0.5,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q8",
+      "sectionId": "s1",
+      "number": "3.3",
+      "type": "multiple_choice",
+      "prompt": "This question is about thermal transfer.\n\nDecide if the sentence is **true** or **false**.\n\n\"When thermal energy is transferred, more thermal energy is created.\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "true",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "false",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 0.5,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q9",
+      "sectionId": "s1",
+      "number": "3.4",
+      "type": "multiple_choice",
+      "prompt": "This question is about thermal transfer.\n\nDecide if the sentence is **true** or **false**.\n\n\"Thermal energy always transfers from hotter objects to colder objects.\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "true",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "false",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 0.5,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q10",
+      "sectionId": "s1",
+      "number": "3.5",
+      "type": "multiple_choice",
+      "prompt": "This question is about thermal transfer.\n\nDecide if the sentence is **true** or **false**.\n\n\"Heat dissipation happens when thermal energy transfers from a hotter region to a colder region.\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "true",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "false",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 0.5,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q11",
+      "sectionId": "s1",
+      "number": "3.6",
+      "type": "multiple_choice",
+      "prompt": "This question is about thermal transfer.\n\nDecide if the sentence is **true** or **false**.\n\n\"A liquid is a good thermal energy conductor.\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "true",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "false",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 0.5,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q12",
+      "sectionId": "s1",
+      "number": "3.7",
+      "type": "multiple_choice",
+      "prompt": "This question is about thermal transfer.\n\nDecide if the sentence is **true** or **false**.\n\n\"Convection happens in liquids and gases only.\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "true",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "false",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 0.5,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q13",
+      "sectionId": "s1",
+      "number": "3.8",
+      "type": "multiple_choice",
+      "prompt": "This question is about thermal transfer.\n\nDecide if the sentence is **true** or **false**.\n\n\"Radiation needs particles to transfer thermal energy.\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "true",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "false",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 0.5,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q14",
+      "sectionId": "s1",
+      "number": "4(a)",
+      "type": "short_answer",
+      "prompt": "Look at the diagram of a model of the Earth's crust and upper mantle. X marks a gap in the crust, and circular arrows are drawn in the upper mantle.\n\nName **one** event that happens at X.",
+      "image": "/assets/s9-sci-ent/page-05.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "volcanic eruption (accept: earthquake)",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q15",
+      "sectionId": "s1",
+      "number": "4(b)",
+      "type": "short_answer",
+      "prompt": "Look at the diagram of a model of the Earth's crust and upper mantle.\n\nWhat do the arrows on the diagram represent?",
+      "image": "/assets/s9-sci-ent/page-05.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "convection currents (in the mantle)",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q16",
+      "sectionId": "s1",
+      "number": "5",
+      "type": "open_response",
+      "prompt": "The diagram shows a circuit with two lamps (a cell connected to two lamps in parallel).\n\nComplete the circuit diagram to show how to measure the voltage across one of the lamps.\n\n[This is a drawing task on paper. If answering digitally, describe in words what you would add to the circuit and where.]",
+      "image": "/assets/s9-sci-ent/figures/p06-fig1.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 2,
+      "criteria": "1 mark: a voltmeter (correct symbol: circle with V) is added.\n1 mark: the voltmeter is connected in parallel across one of the lamps.",
+      "paperOnly": true
+    },
+    {
+      "id": "q17",
+      "sectionId": "s1",
+      "number": "6(a)",
+      "type": "short_answer",
+      "prompt": "Safia is making a salt called copper chloride.\n\nShe adds insoluble copper carbonate to dilute hydrochloric acid.\n\nWater and carbon dioxide are also produced.\n\nWrite the word equation for this reaction.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "copper carbonate + hydrochloric acid → copper chloride + water + carbon dioxide",
+      "points": 2,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q18",
+      "sectionId": "s1",
+      "number": "6(b)",
+      "type": "open_response",
+      "prompt": "Complete the information about the method Safia uses to make copper chloride.\n\nSafia:\n\n- adds excess copper carbonate to dilute hydrochloric acid\n- separates the excess copper carbonate from the reaction mixture by (1) ______\n- pours the filtrate into an evaporating basin\n- obtains a saturated solution from the filtrate by (2) ______\n- leaves the saturated solution in a warm place to (3) ______ .",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 3,
+      "criteria": "1 mark for each correctly completed gap:\nGap 1: filtering / filtration.\nGap 2: evaporating (some of the) water / heating to evaporate water.\nGap 3: crystallise / form crystals (allow: evaporate slowly so crystals form).",
+      "paperOnly": false
+    },
+    {
+      "id": "q19",
+      "sectionId": "s1",
+      "number": "6(c)",
+      "type": "short_answer",
+      "prompt": "Suggest **one** piece of safety equipment Safia uses when making copper chloride.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "safety goggles (accept: gloves, lab coat/apron)",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q20",
+      "sectionId": "s1",
+      "number": "7(a)",
+      "type": "open_response",
+      "prompt": "Mike investigates the temperature of a classroom every day for five days.\n\nLook at the table of his results.\n\n| day | temperature in °C |\n|-----|-------------------|\n| 1 | 21.0 |\n| 2 | 21.5 |\n| 3 | 22.3 |\n| 4 | 21.8 |\n| 5 | 22.4 |\n\nMike starts to plot the results in a bar chart (the axes are drawn: temperature in °C from 20.0 to 23.0, and days 1 to 5).\n\nComplete his bar chart.\n\n[This is a drawing task on paper. If answering digitally, describe the height of each bar you would draw.]",
+      "image": "/assets/s9-sci-ent/page-08.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 2,
+      "criteria": "2 marks: all five bars plotted/described at the correct heights (day 1 = 21.0, day 2 = 21.5, day 3 = 22.3, day 4 = 21.8, day 5 = 22.4).\n1 mark: at least three bars correct.",
+      "paperOnly": true
+    },
+    {
+      "id": "q21",
+      "sectionId": "s1",
+      "number": "7(b)",
+      "type": "open_response",
+      "prompt": "Carlos tells Mike to measure the temperature twice each day at the same time of day.\n\nExplain why this improves the investigation.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "1 mark: repeat readings allow him to check repeatability / identify anomalous results / calculate a mean, making the results more reliable (measuring at the same time each day makes it a fair comparison).",
+      "paperOnly": false
+    },
+    {
+      "id": "q22",
+      "sectionId": "s1",
+      "number": "8",
+      "type": "open_response",
+      "prompt": "Scientists think the Moon was formed during a collision between the Earth and another small planet.\n\nThis is called the collision theory for the formation of the Moon.\n\nDescribe **three** reasons why rocks collected from the Moon support this collision theory.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 3,
+      "criteria": "1 mark for each of three reasons, e.g.:\n- Moon rocks have a similar composition to rocks on Earth (contain the same elements/minerals).\n- Moon rocks are the same age as Earth rocks / about 4.5 billion years old.\n- Moon rocks show evidence of having been melted (molten) — consistent with the heat of a collision.",
+      "paperOnly": false
+    },
+    {
+      "id": "q23",
+      "sectionId": "s1",
+      "number": "9(a)",
+      "type": "multiple_choice",
+      "prompt": "The diagram shows the genetic material inside an animal cell. Look at parts A, B, C, D and E (A = cell, B = nucleus, C = coiled strand, D = X-shaped structure, E = a bracketed section of the strand).\n\nCircle the letter that shows a chromosome.",
+      "image": "/assets/s9-sci-ent/page-10.png",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "B",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "C",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "D",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "E",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "D",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q24",
+      "sectionId": "s1",
+      "number": "9(b)",
+      "type": "multiple_choice",
+      "prompt": "The diagram shows the genetic material inside an animal cell. Look at parts A, B, C, D and E.\n\nCircle the letter that controls a single characteristic such as eye colour.",
+      "image": "/assets/s9-sci-ent/page-10.png",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "B",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "C",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "D",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "E",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "E",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q25",
+      "sectionId": "s1",
+      "number": "9(c)",
+      "type": "short_answer",
+      "prompt": "Write down the name of the chemical that is in a chromosome.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "DNA (deoxyribonucleic acid)",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q26",
+      "sectionId": "s1",
+      "number": "10",
+      "type": "open_response",
+      "prompt": "Ahmed wants to find the density of dry sand.\n\nThe dry sand has a mass of 150 g and a volume of 100 cm³.\n\nCalculate the density of the dry sand.\n\nInclude the unit of density in your answer.\n\ndensity = ______  unit ______",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 3,
+      "criteria": "1 mark: correct method — density = mass ÷ volume = 150 ÷ 100.\n1 mark: correct answer — 1.5.\n1 mark: correct unit — g/cm³.",
+      "paperOnly": false
+    },
+    {
+      "id": "q27",
+      "sectionId": "s1",
+      "number": "11(a)",
+      "type": "open_response",
+      "prompt": "Mia investigates an electrical circuit.\n\nShe makes this prediction:\n\n'Adding more lamps into a series circuit does **not** change the current in the circuit.'\n\nTick (✓) to show if Mia's prediction is correct: yes / no.\n\nGive a reason for your answer.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "1 mark: 'no' ticked WITH a correct reason — adding more lamps in series increases the resistance of the circuit, so the current decreases. No mark for 'no' without a valid reason.",
+      "paperOnly": false
+    },
+    {
+      "id": "q28",
+      "sectionId": "s1",
+      "number": "11(b)",
+      "type": "open_response",
+      "prompt": "The current flowing through a lamp is 4.5 A.\n\nThe voltage across the lamp is 1.5 V.\n\nCalculate the resistance of the lamp.\n\nresistance = ______ Ω",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 2,
+      "criteria": "1 mark: correct method — resistance = voltage ÷ current = 1.5 ÷ 4.5.\n1 mark: correct answer — 0.33 Ω (accept 0.3 Ω or 1/3 Ω).",
+      "paperOnly": false
+    },
+    {
+      "id": "q29",
+      "sectionId": "s1",
+      "number": "12(a)",
+      "type": "open_response",
+      "prompt": "A scientist develops a model about climate change.\n\nThe scientist makes this prediction in 2013:\n\n'By the year 2100 the average temperature at the Earth's surface will rise by 1.5 °C.'\n\nThe same scientist changes the prediction in 2023:\n\n'By the year 2100 the average temperature at the Earth's surface will rise by 2.5 °C.'\n\nSuggest **two** reasons why the scientist changes the prediction.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 2,
+      "criteria": "1 mark each for two sensible reasons, e.g.:\n- new/more data or evidence has been collected since 2013.\n- the model has been improved / better technology or methods are available.\n- conditions have changed, e.g. greenhouse gas emissions increased faster than expected.",
+      "paperOnly": false
+    },
+    {
+      "id": "q30",
+      "sectionId": "s1",
+      "number": "12(b)(i)",
+      "type": "short_answer",
+      "prompt": "The scientist plans an investigation to monitor air temperature during a period of one year.\n\nThe scientist uses a thermometer to measure air temperature.\n\nLook at the diagram showing part of the thermometer.\n\nWhat is the temperature reading on the thermometer? (Answer in °C.)",
+      "image": "/assets/s9-sci-ent/figures/p14-fig1.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "22.8",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q31",
+      "sectionId": "s1",
+      "number": "12(b)(ii)",
+      "type": "multiple_choice",
+      "prompt": "The scientist plans an investigation to monitor air temperature during a period of one year.\n\nTick (✓) which plan gives the most appropriate evidence for the investigation.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "Measure the air temperature every day for one year.",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Measure the air temperature once a month for one year.",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Measure the air temperature once a week for one year.",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Measure the air temperature twice a day for one year.",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "D",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q32",
+      "sectionId": "s1",
+      "number": "13(a)(i)",
+      "type": "open_response",
+      "prompt": "Pierre investigates how a lack of magnesium affects plants.\n\nThe diagram shows the equipment he uses: two plants held by cotton wool in lidded beakers. The control solution contains all the dissolved minerals a plant needs. The test solution contains all the dissolved minerals a plant needs but **not** magnesium.\n\nPierre measures the chlorophyll content in the leaves of both plants every day.\n\nPierre uses pure water to make the control solution and the test solution.\n\nExplain why Pierre uses pure water and **not** water from a tap.",
+      "image": "/assets/s9-sci-ent/page-16.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "1 mark: tap water (may) contain dissolved minerals (e.g. magnesium), which would affect the results / mean the mineral content is not controlled, so the test would not be fair.",
+      "paperOnly": false
+    },
+    {
+      "id": "q33",
+      "sectionId": "s1",
+      "number": "13(a)(ii)",
+      "type": "open_response",
+      "prompt": "Pierre investigates how a lack of magnesium affects plants. He measures the chlorophyll content in the leaves of a plant in a control solution (all minerals) and a plant in a test solution (all minerals but no magnesium) every day.\n\nLook at a graph of his results (chlorophyll content of leaves in micrograms against time in days, for the control solution and the test solution).\n\nWrite down **two** conclusions about how magnesium affects the chlorophyll content of leaves.",
+      "image": "/assets/s9-sci-ent/page-17.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 2,
+      "criteria": "1 mark each for two conclusions consistent with the graph, e.g.:\n- with magnesium (control) the chlorophyll content increases more / is higher than without magnesium.\n- without magnesium the chlorophyll content stays (almost) constant / stops increasing after about day 5.\n- magnesium is needed to make chlorophyll.",
+      "paperOnly": false
+    },
+    {
+      "id": "q34",
+      "sectionId": "s1",
+      "number": "13(b)",
+      "type": "open_response",
+      "prompt": "Three solutions contain different percentages of minerals.\n\n| | solution A | solution B | solution C |\n|---|---|---|---|\n| nitrates | 2.0% | 6.0% | 4.0% |\n| magnesium | 1.0% | 0.2% | 1.2% |\n\nWhich solution increases photosynthesis the most?\n\nExplain why.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "1 mark: solution C chosen WITH the explanation that it contains the most magnesium, and magnesium is needed to make chlorophyll, which absorbs light for photosynthesis.",
+      "paperOnly": false
+    },
+    {
+      "id": "q35",
+      "sectionId": "s1",
+      "number": "14(a)",
+      "type": "open_response",
+      "prompt": "Angelique makes an electrical circuit with a buzzer and a lamp.\n\nDraw the standard electrical symbol for a buzzer.\n\n[This is a drawing task on paper. If answering digitally, describe the symbol in words.]",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "1 mark: correct standard buzzer symbol — a half-circle (semicircle) on its flat side with two connecting leads.",
+      "paperOnly": true
+    },
+    {
+      "id": "q36",
+      "sectionId": "s1",
+      "number": "14(b)",
+      "type": "open_response",
+      "prompt": "Angelique uses an electrical component to control the brightness of the lamp.\n\nDraw the standard electrical symbol for this component.\n\n[This is a drawing task on paper. If answering digitally, name the component and describe its symbol in words.]",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "1 mark: correct standard symbol for a variable resistor — a rectangle with a diagonal arrow through it.",
+      "paperOnly": true
+    },
+    {
+      "id": "q37",
+      "sectionId": "s1",
+      "number": "15",
+      "type": "open_response",
+      "prompt": "Polar bears live in the Arctic.\n\nTheir main habitat is sea ice.\n\nPolar bears use the sea ice when they are hunting for food.\n\nThis sea ice is melting.\n\nSuggest how sea ice melting affects the polar bear population.\n\nGive **two** reasons for your answer.\n\npolar bear population …\n\nreason 1 …\n\nreason 2 …",
+      "image": "/assets/s9-sci-ent/figures/p19-fig1.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 3,
+      "criteria": "1 mark: the polar bear population decreases.\n1 mark each for two reasons, e.g.:\n- less sea ice to hunt from, so less food / bears starve.\n- loss of habitat / living space.\n- bears must swim further, using more energy.\n- fewer bears survive to reproduce, so fewer offspring.",
+      "paperOnly": false
+    }
+  ],
+  "published": true,
+  "aiRules": null,
+  "importNotes": [
+    "Q3 [4 marks] true/false table was split into 8 items at 0.5 points each to keep the printed total of 50 — teacher may prefer different weighting",
+    "Q12(b)(ii) key set to 'twice a day for one year' (D); 'every day' (A) is also arguable — confirm against the official mark scheme",
+    "Q5, 7(a), 14(a), 14(b) are drawing tasks marked paperOnly with describe-in-words fallbacks; digital answers need teacher/AI grading",
+    "The Periodic Table on page 20 is not attached anywhere (no question requires it and the platform has no slot for reference material)",
+    "Q3 true/false table: 8 statements share a printed [4] mark, so each statement was given 0.5 points to keep the total at 50 — the platform must support half-point questions, or a human should regroup them.",
+    "Q12(b)(ii): correct choice set to D ('twice a day for one year') as the most frequent/most appropriate sampling plan; mark scheme not available, worth confirming against the official key.",
+    "Q12(b)(i): thermometer read as 22.8 °C from the page render; verify against the mark scheme.",
+    "Q4(a): answer key 'volcanic eruption' with earthquake as accepted alternative — X is a gap in the crust above diverging convection currents; both are plausible keys.",
+    "Drawing tasks (Q5 voltmeter, Q7(a) bar chart, Q14(a)/(b) circuit symbols) are marked paperOnly with a note telling students to describe their answer in words if answering digitally.",
+    "Several auto-cropped figures lost their text labels, so full page renders (page-02/03/05/08/10/16/17.png) were attached instead; these include answer lines from the original paper.",
+    "The last page is a reference Periodic Table (page-20.png); it is mentioned in the general instructions but not attached to any question.",
+    "Q1(a)(ii) asks for two gases as one short_answer worth 2 points; auto-marking may need AI tolerance for order/synonyms (accepts water vapour)."
+  ],
+  "verified": true
+}

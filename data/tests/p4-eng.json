@@ -1,0 +1,616 @@
+{
+  "id": "p4-eng",
+  "title": "English — Year 4 Placement",
+  "titleKa": null,
+  "division": "primary",
+  "track": "entrance",
+  "grade": "4",
+  "subject": "english",
+  "language": "en",
+  "durationMinutes": 60,
+  "instructions": null,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Tasks 1–2. Reading: Can dolphins talk?",
+      "instructions": "Read the text, then choose the letter of the best answer for each question.\n\n**Example:** Dolphins talk with ______.\n\na. words  b. their hands  **c. sounds** ✓",
+      "passage": "**Can dolphins talk?**\n\nMaybe they can't talk with words, but they talk with sounds. They show feelings with sounds.\n\nDolphins travel in a group. We call a group of fish a \"school.\" They don't study, but they travel together. Dolphins are mammals, not fish, but they swim together in a school.\n\nDolphins talk to the other dolphins in the school. They give information. They tell when they are happy or sad or afraid. They say \"Welcome\" when a dolphin comes back to the school. They talk when they play.\n\nThey make a few sounds above water. They make many more sounds under water. People cannot hear these sounds because the sounds are very, very high. Scientists make tapes of the sounds and study them.\n\nSometimes people catch dolphins for a large aquarium. (An aquarium is a zoo for fish.) People can watch the dolphins in a show. Dolphins don't like to be away from their school in an aquarium. They are sad and lonely.\n\nThere are many stories about dolphins. They help people. Sometimes they save somebody's life. Dolphin meat is good, but people don't like to kill them. They say that dolphins bring good luck. Many people believe this.",
+      "image": null
+    },
+    {
+      "id": "s2",
+      "title": "Task 3. Noun or Verb",
+      "instructions": "Look at the marked word in each sentence and then choose whether it is used as a **NOUN** or a **VERB**.\n\n**Example:**\nPeople cannot hear these sounds because the **sounds** are very, very high. — **NOUN**\nPeople cannot hear these sounds because they **sound** very, very high. — **VERB**",
+      "passage": null,
+      "image": null
+    },
+    {
+      "id": "s3",
+      "title": "Activity 4. Choose the right words",
+      "instructions": "Read the text. Choose the right word for each gap.\n\n**Example:** Dolphins are like small whales and some of them have ______ than 100 teeth! (many / **more** / most)",
+      "passage": "**Dolphins**\n\nDolphins are like small whales and some of them have **more** *(Example)* than 100 teeth! Dolphins don't need to drink because (1) ______ is lots of water in the fish that they eat.\n\nDolphins sometimes play (2) ______ people in the water and they swim in front of boats too.\n\nDolphins (3) ______ in the sea in families and the parents teach (4) ______ babies to catch fish. They learn very quickly!\n\nDolphins can't say words, (5) ______ they can 'sing' and 'talk'. They're very clever!",
+      "image": "/assets/p4-eng/media/image4.png"
+    },
+    {
+      "id": "s4",
+      "title": "Activity 5. Writing",
+      "instructions": "Look at the three pictures. Write about this story. Write 20 or more words.",
+      "passage": "*This story is about a penguin family. The penguins are hungry….*\n\n**Now you continue the story.**",
+      "image": "/assets/p4-eng/media/image3.png"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "sectionId": "s1",
+      "number": "1",
+      "type": "multiple_choice",
+      "prompt": "Dolphins talk when they ______.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "play",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "listen",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "show",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q2",
+      "sectionId": "s1",
+      "number": "2",
+      "type": "multiple_choice",
+      "prompt": "They make more sounds ______.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "above water",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "under water",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "in schools",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q3",
+      "sectionId": "s1",
+      "number": "3",
+      "type": "multiple_choice",
+      "prompt": "People can't hear these sounds because they are very, very ______.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "high",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "soft",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "low",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q4",
+      "sectionId": "s1",
+      "number": "4",
+      "type": "multiple_choice",
+      "prompt": "Dolphins like to be ______.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "at an aquarium",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "in their school",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "lonely",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q5",
+      "sectionId": "s1",
+      "number": "5",
+      "type": "multiple_choice",
+      "prompt": "Dolphins show feelings with ______.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "sound",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "body language",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "color changes",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q6",
+      "sectionId": "s1",
+      "number": "6",
+      "type": "multiple_choice",
+      "prompt": "People call a group of fish a ______.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "herd",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "school",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "pack",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q7",
+      "sectionId": "s1",
+      "number": "7",
+      "type": "multiple_choice",
+      "prompt": "Dolphins are ______.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "fish",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "reptiles",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "mammals",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q8",
+      "sectionId": "s1",
+      "number": "8",
+      "type": "multiple_choice",
+      "prompt": "Which statement is an **OPINION**, **not** a **FACT**?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "Dolphins travel in a group.",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Dolphins are mammals.",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Dolphins always bring good luck.",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "A dolphin can talk with sounds.",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q9",
+      "sectionId": "s2",
+      "number": "1a",
+      "type": "multiple_choice",
+      "prompt": "Dolphins **talk** to the other dolphins in the school.\n\nIs the marked word a NOUN or a VERB?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "NOUN",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "VERB",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q10",
+      "sectionId": "s2",
+      "number": "1b",
+      "type": "multiple_choice",
+      "prompt": "Dolphins have a special **talk** with other dolphins in the school.\n\nIs the marked word a NOUN or a VERB?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "NOUN",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "VERB",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q11",
+      "sectionId": "s2",
+      "number": "2a",
+      "type": "multiple_choice",
+      "prompt": "People can watch the dolphins in a **show**.\n\nIs the marked word a NOUN or a VERB?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "NOUN",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "VERB",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q12",
+      "sectionId": "s2",
+      "number": "2b",
+      "type": "multiple_choice",
+      "prompt": "The dolphins **show** their skills.\n\nIs the marked word a NOUN or a VERB?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "NOUN",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "VERB",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q13",
+      "sectionId": "s2",
+      "number": "3a",
+      "type": "multiple_choice",
+      "prompt": "Dolphins **help** people by leading them in the water.\n\nIs the marked word a NOUN or a VERB?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "NOUN",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "VERB",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q14",
+      "sectionId": "s2",
+      "number": "3b",
+      "type": "multiple_choice",
+      "prompt": "Dolphin's **help** was important in saving the swimmer.\n\nIs the marked word a NOUN or a VERB?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "NOUN",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "VERB",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q15",
+      "sectionId": "s3",
+      "number": "1",
+      "type": "multiple_choice",
+      "prompt": "Gap 1: Dolphins don't need to drink because (1) ______ is lots of water in the fish that they eat.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "where",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "here",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "there",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q16",
+      "sectionId": "s3",
+      "number": "2",
+      "type": "multiple_choice",
+      "prompt": "Gap 2: Dolphins sometimes play (2) ______ people in the water and they swim in front of boats too.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "to",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "with",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "from",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q17",
+      "sectionId": "s3",
+      "number": "3",
+      "type": "multiple_choice",
+      "prompt": "Gap 3: Dolphins (3) ______ in the sea in families.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "lived",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "living",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "live",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q18",
+      "sectionId": "s3",
+      "number": "4",
+      "type": "multiple_choice",
+      "prompt": "Gap 4: The parents teach (4) ______ babies to catch fish. They learn very quickly!",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "they",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "them",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "their",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q19",
+      "sectionId": "s3",
+      "number": "5",
+      "type": "multiple_choice",
+      "prompt": "Gap 5: Dolphins can't say words, (5) ______ they can 'sing' and 'talk'. They're very clever!",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "but",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "and",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "or",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q20",
+      "sectionId": "s4",
+      "number": "1",
+      "type": "open_response",
+      "prompt": "Look at the three pictures. Write about this story. Write 20 or more words.\n\n*This story is about a penguin family. The penguins are hungry….*\n\n**Now you continue the story.**",
+      "image": "/assets/p4-eng/media/image3.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "Award the point if the student writes 20 or more words continuing the story shown in the pictures (a fisherman comes, goes fishing, catches fish and the hungry penguins get food — any reasonable version of these events is fine).\nThe writing must be on topic (penguins / fisherman / fishing) and mostly understandable.\nAccept minor spelling and grammar errors typical for Year 4; do not penalise them if meaning is clear.\nGive 0 points if the text is under 20 words, off topic, or incomprehensible.",
+      "paperOnly": false
+    }
+  ],
+  "published": true,
+  "aiRules": null,
+  "importNotes": [
+    "Source prints no point values; every question defaulted to 1 point (total 20) — teacher may want to weight the Activity 5 writing task higher than 1 point",
+    "Test duration not stated in source; 60 minutes assumed (primary default)",
+    "No marks are printed anywhere in the source, so every question was set to 1 point (total 20). The Activity 5 writing task is therefore worth only 1 point — teacher may want to reweight it.",
+    "No duration on the cover; defaulted to 60 minutes (primary).",
+    "Activity 4 gapped text and its word options exist only as images (media/image4.png, media/image2.png); the text and the three options per gap were transcribed from the images and modeled as multiple_choice questions — worth a quick visual check against image4/image2.",
+    "Task 3's two unnumbered 'sounds/sound' sentences carry a circled-answer mark in the source and were treated as the worked example, not as questions.",
+    "media/image1.png and media/image7.png are tiny circle/check marks next to examples (decorative) and were not attached to any question.",
+    "Task 3 asks students to look at the 'underlined' word; underlining was rendered as bold in the prompts and instructions reworded to 'marked word'."
+  ],
+  "verified": true
+}

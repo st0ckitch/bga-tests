@@ -1,0 +1,153 @@
+{
+  "id": "s9-eng-sch",
+  "title": "English — Grade 9 Scholarship (IGCSE Paper 1 Reading)",
+  "titleKa": null,
+  "division": "secondary",
+  "track": "scholarship",
+  "grade": "9",
+  "subject": "english",
+  "language": "en",
+  "durationMinutes": 120,
+  "instructions": "Cambridge IGCSE First Language English (0500), Paper 1 Reading — 2 hours.\n\n- Answer **all** questions.\n- Write your answer to each question in the space provided.\n- Dictionaries are **not** allowed.\n- The number of marks for each question or part question is shown in brackets [ ].\n- The reading texts are provided with each section.\n\n*Note: the original paper carries 80 marks over three questions; this version contains Question 1 only (30 marks), as Questions 2–3 and Text C were not included in the source document.*",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Question 1(a)–(e): Text A, Bees",
+      "instructions": "Read Text A, *Bees*, and then answer Questions 1(a)–(e). (In the original paper the text is printed with line numbers; the phrases referred to by line number are quoted in the questions.)",
+      "passage": "**Text A: Bees**\n\nA bee colony is populated by a queen, about 200 male drones and thousands of underdeveloped female workers. The queen is the largest member of the colony due to the workers having fed her a special diet.\n\nThe queen is the mother of all the workers and also the male drones in the hive. She remains inside, attended by the workers who groom and feed her. The sole purpose of the drone is to mate with her so that the hive continues.\n\nBees have different characteristics that make them suited to pollinating certain plants. For example, the early bumblebee's small size and agility allow it to enter plants with drooping flowers. The larger garden bumblebee is better at pollinating the deep flowers because its longer tongue can reach deep inside them.\n\nPlants can only grow because of pollination. Bees' transference of pollen between flowering plants enables a plant to reproduce and produce food. The cycle of a plant's life keeps turning in this way.\n\nSo thanks to these small creatures, we enjoy a range of foods from orchard fruits to coffee and vanilla. And if you are wearing cotton, that's because a cotton plant was pollinated. Maybe in your lessons at school you have come across bees too. This would be because many poets, artists, authors and scientists have found them a fascinating subject to study.\n\nBut bees are in trouble. Nowadays, many of us are aware of how human decisions impact on bee populations. A few organisations try to educate the public on how the pesticides we use on crops to make our food safer and more prolific are toxic to bees, damaging their mental capacities and ability to reproduce. Bee habitats, such as ponds, trees and flowers, are wiped out by our need to urbanise and build houses and by intensive farming methods. We really need to ask ourselves how much our thoughtlessness and selfishness might be costing us all.",
+      "image": null
+    },
+    {
+      "id": "s2",
+      "title": "Question 1(f): Text B, Beekeeping",
+      "instructions": "Read Text B, *Beekeeping*, and then answer Question 1(f).",
+      "passage": "**Text B: Beekeeping**\n\n*This text is advice given by a practising beekeeper to other people considering keeping bees.*\n\nWhy be a beekeeper? Is it because you like honey? Want to help with local pollination? Aid the global honeybee crisis? Beekeeping is hard work and a considerable responsibility, so needs a lot of thought.\n\nActually, you may have no choice in the matter if beekeeping is forbidden in your area. My town requires hive registrations. You might just live somewhere where there are no restrictions on beekeeping, but that would be lucky.\n\nOkay, so you are allowed to keep bees. It took me a while to receive a reply to my request for help from the online beekeeping organisation I contacted, presumably because the beekeepers were all out and about pursuing their hobby. In the end I discovered that there was a lot of advice out there, which I sifted through, finding some of it anecdotal and specific to certain circumstances rather than of use to me.\n\nNaturally, I assumed that my spacesuit-like body and head protection would shield me from stings. Choosing clothing that is effective in keeping an angry swarm at bay is important, but bear in mind there is always the occasional unavoidable sting. Yes, it's happened to me even in a full beekeeping suit with gloves.\n\nMy bees fly up to eight kilometres when out foraging for nectar and pollen, and that's fine as I live in a rural area. Your urban neighbours may not be so happy about you keeping beehives in your back garden while they are out enjoying the sun.\n\nAnd that brings me onto another matter. I have a field for my hives. They should be placed on a level site, receive sun during the day and be sheltered from strong winds, as well as being easily accessible for you and their stripy occupants.\n\nIn the beginning, I bought a heavy hive, intending to give my bees a robust and safe home. By harvest time, when the hives were full of honey, my aching back taught me I needed to purchase a lighter construction. Still now, I need a trusted friend (a fellow beekeeper) to help me shift those hives around.\n\nThe same friend and I have a reciprocal arrangement to look after our bees when either of us goes away. Bees can't be left for long periods. Hiring someone else to look after your bees can be costly and you need to be sure that person knows what they're doing.\n\nI spent a lot of money getting started and I made a few expensive purchasing errors, from heavy hives to beekeeping accessories that I never actually used.",
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "sectionId": "s1",
+      "number": "1(a)",
+      "type": "short_answer",
+      "prompt": "Which bee is the biggest in a colony, according to paragraph 1?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "The queen",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q2",
+      "sectionId": "s1",
+      "number": "1(b)(i)",
+      "type": "open_response",
+      "prompt": "**Using your own words**, explain what the text means by:\n\n'special diet' (line 3)",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 2,
+      "criteria": "1 mark for explaining 'special' in own words: particular / unusual / different from the others / specific to the queen.\n1 mark for explaining 'diet' in own words: the food she is given / what she is fed / her feeding regime.\nNo marks for simply repeating the words 'special' or 'diet'.",
+      "paperOnly": false
+    },
+    {
+      "id": "q3",
+      "sectionId": "s1",
+      "number": "1(b)(ii)",
+      "type": "open_response",
+      "prompt": "**Using your own words**, explain what the text means by:\n\n'sole purpose' (line 5).",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 2,
+      "criteria": "1 mark for explaining 'sole' in own words: only / single / one and only.\n1 mark for explaining 'purpose' in own words: reason for existing / function / job / role (the drone exists only to mate with the queen).\nNo marks for simply repeating the words 'sole' or 'purpose'.",
+      "paperOnly": false
+    },
+    {
+      "id": "q4",
+      "sectionId": "s1",
+      "number": "1(c)",
+      "type": "open_response",
+      "prompt": "Re-read paragraph 3 ('Bees have different ... deep inside them.').\n\nGive **two** characteristics that make the early bumblebee and the garden bumblebee different.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 2,
+      "criteria": "1 mark per correct characteristic of difference, up to 2:\n- size: the early bumblebee is small (and agile) whereas the garden bumblebee is larger;\n- tongue: the garden bumblebee has a longer tongue (reaches deep flowers);\n- agility: the early bumblebee is agile / can enter drooping flowers.",
+      "paperOnly": false
+    },
+    {
+      "id": "q5",
+      "sectionId": "s1",
+      "number": "1(d)(i)",
+      "type": "open_response",
+      "prompt": "Re-read paragraphs 4 and 5 ('Plants can ... subject to study.').\n\nIdentify **two** ways in which bee pollination is needed for plants.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 2,
+      "criteria": "1 mark per point, up to 2:\n- pollination enables plants to grow / plants can only grow because of it;\n- it enables a plant to reproduce;\n- it enables a plant to produce food;\n- it keeps the cycle of a plant's life turning.",
+      "paperOnly": false
+    },
+    {
+      "id": "q6",
+      "sectionId": "s1",
+      "number": "1(d)(ii)",
+      "type": "open_response",
+      "prompt": "Re-read paragraphs 4 and 5 ('Plants can ... subject to study.').\n\nExplain how humans have benefited from the existence of bees.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 3,
+      "criteria": "1 mark per developed point, up to 3:\n- we enjoy a range of foods (orchard fruits, coffee, vanilla) thanks to bee pollination;\n- we have cotton for clothing because cotton plants are pollinated;\n- bees have been a fascinating subject of study/inspiration for poets, artists, authors and scientists (education/culture).",
+      "paperOnly": false
+    },
+    {
+      "id": "q7",
+      "sectionId": "s1",
+      "number": "1(e)",
+      "type": "open_response",
+      "prompt": "Re-read paragraph 6 ('But bees ... costing us all.').\n\nWhy might some humans disregard the threats to bees?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 3,
+      "criteria": "1 mark per valid inference based on paragraph 6, up to 3:\n- pesticides make our food safer and more prolific, so people prioritise that benefit;\n- people need/want to urbanise and build houses (housing comes first);\n- intensive farming methods serve human demands;\n- thoughtlessness/selfishness — people are unaware of, or ignore, the impact of their decisions on bees.",
+      "paperOnly": false
+    },
+    {
+      "id": "q8",
+      "sectionId": "s2",
+      "number": "1(f)",
+      "type": "open_response",
+      "prompt": "According to Text B, what should people consider and do before taking up beekeeping?\n\nYou must **use continuous writing** (not note form) and **use your own words** as far as possible.\n\nYour summary should not be more than 120 words.\n\n**Up to 10 marks are available for the content of your answer and up to 5 marks for the quality of your writing.**",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 15,
+      "criteria": "Content (up to 10 marks, 1 per distinct point from Text B): beekeeping is hard work and a big responsibility, needing thought; check whether beekeeping is allowed locally / whether hives must be registered; seek advice and sift it, as some is anecdotal or not applicable; get effective protective clothing but accept the occasional unavoidable sting; consider neighbours — bees forage up to 8 km, urban neighbours may object; place hives on a level, sunny, wind-sheltered, easily accessible site; choose a lighter hive, as heavy ones are hard to move when full of honey; arrange for a trusted, knowledgeable person to care for the bees when away (bees can't be left long; hired help is costly); budget carefully — starting is expensive and purchasing mistakes are easy.\nWriting (up to 5 marks): continuous prose, own words, well organised, concise, clear and accurate English.\nApply the 120-word limit: content beyond it should not earn credit.",
+      "paperOnly": false
+    }
+  ],
+  "published": true,
+  "aiRules": null,
+  "importNotes": [
+    "Source PDF is an incomplete excerpt of the 16-page IGCSE 0500 Paper 1: prompt pages for Question 2 (original pp. 6-8, worth 25 marks) and Question 3 (original p. 10, worth 25 marks) and insert Text C are missing, so the digitized test carries 30 of the original 80 marks; a teacher must supply the full source PDF if Questions 2-3 should be included",
+    "Source PDF is incomplete: the prompts for Question 2 (marked '[Total: 25]') and Question 3 (marked '[25]') are missing — the 12-page file skips document pages 6-8 and 10, leaving only their answer-line continuation pages (renders page-06.png and page-07.png). These questions could not be parsed.",
+    "The insert states it has 8 pages but only pages 1-3 are present (Text A and Text B); Text C, the stimulus for Questions 2 and 3, is missing.",
+    "Cover states the total mark is 80, but the questions present (Question 1(a)-(f) only) sum to 30 — a 50-point shortfall caused by the missing Questions 2 and 3. A complete source PDF is needed to finish this test.",
+    "Q1(f) is a single 15-mark summary task (10 marks content + 5 marks writing per the source); the split is encoded in the grading criteria rather than as separate questions.",
+    "The original insert texts have printed marginal line numbers, referenced by Q1(b) as 'line 3' and 'line 5'; the quoted phrases are included in the prompts, so line numbering was not reproduced in the digital passages."
+  ],
+  "verified": true
+}

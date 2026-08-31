@@ -1,0 +1,374 @@
+{
+  "id": "s7-eng-ent",
+  "title": "English — Grade 7 Entrance",
+  "titleKa": null,
+  "division": "secondary",
+  "track": "entrance",
+  "grade": "7",
+  "subject": "english",
+  "language": "en",
+  "durationMinutes": 70,
+  "instructions": "**Cambridge Lower Secondary Placement Test — English Paper 1 (Stage 7)**\n\n**INSTRUCTIONS**\n- Answer **all** questions.\n- Write your answer to each question in the space provided.\n- You should pay attention to punctuation, spelling and handwriting.\n\n**INFORMATION**\n- The total mark for this paper is 50.\n- The number of marks for each question or part question is shown in brackets [ ].\n- Suggestions for how long to spend on each section are given in the booklet.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A: Reading — Text A",
+      "instructions": "Spend 30 minutes on Section A (questions 1–16).\n\nRead **Text A**, and answer questions 1–11. Line numbers are shown in *(brackets)* at the end of every fifth line.",
+      "passage": "**Text A**\n\n**The world's first 'underground cinema'**\n\nIn September 1940, four intrepid boys and their dog set out on an escapade near the town of  \nMontignac in France. The boys had always been intrigued by local folklore about a secret tunnel  \nrunning under the Vézère River, which would lead to hidden treasure buried deep in the woods.\n\nAs they walked through the forest, their dog, Robot, ran ahead towards a deep depression in  \nthe ground, at the bottom of which was a small opening. When the boys saw this, they were *(5)*  \nconvinced that the hole was related to the legend. They removed stones from around the edges  \nwith their penknives, then slid cautiously into a narrow, almost vertical shaft which was home to  \na multitude of bats. The passage took the youngsters fifteen metres down to a dark,  \nunderground chamber littered with stalagmites.\n\n'The descent was terrifying,' recalled Jacques Marsal, who was just fourteen at the time, the *(10)*  \nyoungest of the boys.\n\nOnce inside the chamber, they used an oil lantern to look around them. To their surprise, the  \nwalls and ceiling of the cave were covered with spectacular paintings. Marsal described them as  \n'a procession of animals, larger than life, that seemed to be moving'. The images were brilliantly  \nmulticoloured in reds, blacks, browns and ochres. Mesmerized by their discovery, they ventured *(15)*  \nfurther into the cave. By then, the lantern light was fading and the boys realised they needed to  \nreturn quickly to the surface.\n\nDetermined to keep their discovery to themselves, the boys swore an oath of secrecy. They met  \nup the following morning. This time they used a rope, and one by one, they slid into the  \ndarkness, plummeting to the lowest level of the cave. *(20)*\n\nBy the third day, they could keep their secret no longer. Each of them took five friends to see  \nthe cave, charging a mere forty-cent admission fee. Marsal defined this as 'the first commercial  \nexploitation of the cave'. Once word was out, the news spread like wildfire, and soon the entire  \nvillage was lining up to peer at the astonishing pre-historic paintings of our Cro-Magnon  \nancestors. To accommodate the crowds and to make access easier, the boys removed even *(25)*  \nmore stones.\n\nThe cave opened its doors officially in 1948. Almost immediately, thousands of tourists flocked  \nto visit to what is now known as the world-famous Lascaux Cave.",
+      "image": null
+    },
+    {
+      "id": "s2",
+      "title": "Section A: Reading — Text B",
+      "instructions": "Read **Text B**, and answer questions 12–16. Line numbers are shown in *(brackets)* at the end of every fifth line.",
+      "passage": "**Text B**\n\n**Blind as a bat**\n\nWe all know bats live in caves. However, for a number of reasons, bats sometimes get into  \nhouses. If this happens to you, don't panic! There are several ways of removing them, starting  \nwith the simplest of all, which is opening all the windows and doors. Bats use echolocation or  \nsound waves to find their way around and identify where objects are. So a bat trapped indoors  \nmay realise that a window or door is open, and simply fly out. You could try catching it with a *(5)*  \nbutterfly net, although this is pretty hard, especially if the bat is flying around. You might want to  \nwait for it to land, then net it.\n\nBats have a difficult time taking off from the ground, so use this to your advantage. If you can  \ngently knock the bat to the ground with a towel, it will be slower moving, and therefore easier to  \nremove. *(10)*\n\nA container such as a jar, bowl or bucket can be useful. Wait for the bat to land, then carefully  \nplace the container over the bat. Slide a piece of paper under the container, and hey presto,  \nyou've got the bat trapped! A good thing about doing it this way is that you can easily take the  \nbat to wherever you decide to release it.\n\nSome people try to drape a blanket over the bat. If you do this, be careful. Remember, bats *(15)*  \nhave very fragile bones in their wings, so you don't want to cause any injury. They are a  \nprotected species, after all. It may even be a good idea to wear thick gloves.\n\nIf all else fails, and you can't deal with it yourself, the best idea is to call in an expert to do the  \njob for you.",
+      "image": null
+    },
+    {
+      "id": "s3",
+      "title": "Section B: Writing",
+      "instructions": "Spend 30 minutes on this section.",
+      "passage": null,
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "sectionId": "s1",
+      "number": "1",
+      "type": "short_answer",
+      "prompt": "Look at the first paragraph (lines 1–3).\n\nGive **one** word that means 'fascinated'.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "intrigued",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q2",
+      "sectionId": "s1",
+      "number": "2",
+      "type": "open_response",
+      "prompt": "Why do you think the boys moved carefully down the hole?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "1 mark for a plausible reason rooted in the text, e.g. the shaft was narrow and almost vertical, so it was dangerous / they could fall; it was dark and full of bats; they did not know what was below. Accept any sensible inference about safety or the unknown.",
+      "paperOnly": false
+    },
+    {
+      "id": "q3",
+      "sectionId": "s1",
+      "number": "3",
+      "type": "open_response",
+      "prompt": "Look at line 10.\n\nWhy does the writer begin a new paragraph?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "1 mark for recognising the shift: a new paragraph introduces direct speech / a quotation from a new speaker (Jacques Marsal), or marks a change from narration to a person's recollection. Accept 'a new person/speaker is introduced'.",
+      "paperOnly": false
+    },
+    {
+      "id": "q4",
+      "sectionId": "s1",
+      "number": "4",
+      "type": "open_response",
+      "prompt": "Why does the writer begin a sentence with *To their surprise* (lines 12–13)?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "1 mark for explaining the effect: it emphasises that the discovery of the paintings was unexpected — the boys expected treasure, not paintings; it creates emphasis/drama and signals the surprise before revealing what they found.",
+      "paperOnly": false
+    },
+    {
+      "id": "q5",
+      "sectionId": "s1",
+      "number": "5",
+      "type": "multiple_choice",
+      "prompt": "What does *mesmerised* (line 15) mean?\n\nTick (✓) **one** box.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "energised",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "excited",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "remembered",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "captivated",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "D",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q6",
+      "sectionId": "s1",
+      "number": "6",
+      "type": "short_answer",
+      "prompt": "Look at lines 18–20.\n\nGive **one** word which means 'promise'.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "oath",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q7",
+      "sectionId": "s1",
+      "number": "7",
+      "type": "open_response",
+      "prompt": "Why do you think Marsal says this is *the first commercial exploitation of the cave*?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "1 mark for linking to the text: it was the first time money was made from the cave — the boys charged their friends a forty-cent admission fee to see it (before the cave officially opened to tourists).",
+      "paperOnly": false
+    },
+    {
+      "id": "q8a",
+      "sectionId": "s1",
+      "number": "8(a)",
+      "type": "short_answer",
+      "prompt": "Look at this phrase: *the news spread like wildfire* (line 23).\n\n**(a)** What literary technique is used in the phrase above?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "simile",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q8b",
+      "sectionId": "s1",
+      "number": "8(b)",
+      "type": "open_response",
+      "prompt": "Look at this phrase: *the news spread like wildfire* (line 23).\n\n**(b)** Why is this an appropriate description of the way the news of the discovery travelled?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "1 mark for explaining the comparison: like a wildfire, the news spread very quickly / uncontrollably from person to person, so soon the whole village knew about the discovery.",
+      "paperOnly": false
+    },
+    {
+      "id": "q9",
+      "sectionId": "s1",
+      "number": "9",
+      "type": "open_response",
+      "prompt": "Why is the writer's use of *flocked* appropriate in line 27?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "1 mark for explaining the word choice: 'flocked' suggests large numbers/crowds moving together (like a flock of birds/sheep), which fits the thousands of tourists arriving at the cave at the same time.",
+      "paperOnly": false
+    },
+    {
+      "id": "q10",
+      "sectionId": "s1",
+      "number": "10",
+      "type": "open_response",
+      "prompt": "Give **two** features of a newspaper report used in **Text A**.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 2,
+      "criteria": "1 mark for each valid feature, up to 2, e.g.: a headline/title; facts — dates, places, names (September 1940, Montignac, Lascaux); direct quotations from a witness (Jacques Marsal); third person / past tense reporting; paragraphs organised chronologically; answers who/what/where/when.",
+      "paperOnly": false
+    },
+    {
+      "id": "q11a",
+      "sectionId": "s1",
+      "number": "11(a)",
+      "type": "open_response",
+      "prompt": "Look at the title: *The world's first 'underground cinema'*.\n\n**(a)** Why has the writer used inverted commas ( ' ' )?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "1 mark for recognising that the inverted commas show 'underground cinema' is not literally a cinema — it is used metaphorically/ironically as a nickname; the cave is only being compared to a cinema.",
+      "paperOnly": false
+    },
+    {
+      "id": "q11b",
+      "sectionId": "s1",
+      "number": "11(b)",
+      "type": "open_response",
+      "prompt": "Look at the title: *The world's first 'underground cinema'*.\n\n**(b)** Explain why you think it is appropriate to use the word *cinema* in the title. Give **one** quotation from the text to support your answer.\n\nWrite your answer as:\n\n**Explanation:** …\n\n**Quotation:** …",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 2,
+      "criteria": "1 mark for a valid explanation: like a cinema, the cave shows colourful moving images on its walls in the dark, and people paid/queued to see them. 1 mark for a supporting quotation, e.g. 'a procession of animals, larger than life, that seemed to be moving', 'charging a mere forty-cent admission fee', or 'the entire village was lining up to peer at the astonishing pre-historic paintings'.",
+      "paperOnly": false
+    },
+    {
+      "id": "q12",
+      "sectionId": "s2",
+      "number": "12",
+      "type": "multiple_choice",
+      "prompt": "What is the purpose of **Text B**? Tick (✓) **one** box.",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "to instruct",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "to discuss",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "to narrate",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "to persuade",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q13",
+      "sectionId": "s2",
+      "number": "13",
+      "type": "open_response",
+      "prompt": "Look at the first paragraph (lines 1–7).\n\nGive **two** ways in which the writer engages the reader.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 2,
+      "criteria": "1 mark for each valid way, up to 2, e.g.: addresses the reader directly using 'you'/'we' ('We all know…', 'If this happens to you'); uses an exclamation / commanding tone ('don't panic!'); uses an informal, chatty style; involves the reader with a relatable scenario; gives interesting facts about echolocation.",
+      "paperOnly": false
+    },
+    {
+      "id": "q14",
+      "sectionId": "s2",
+      "number": "14",
+      "type": "short_answer",
+      "prompt": "Look at the last sentence of the first paragraph (lines 6–7): *You might want to wait for it to land, then net it.*\n\nGive **one** word which contributes to the idea of sequencing information.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "then",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q15",
+      "sectionId": "s2",
+      "number": "15",
+      "type": "short_answer",
+      "prompt": "Look at the third paragraph (lines 11–14).\n\nGive **one** phrase that tells the reader that something has been successfully completed.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "hey presto",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q16a",
+      "sectionId": "s2",
+      "number": "16(a)",
+      "type": "open_response",
+      "prompt": "**(a)** Imagine a friend has a bat trapped in their house.\n\nList the ways in which the bat could be removed, using at least **five** suggestions from **Text B**. Write your list as bullet points.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 3,
+      "criteria": "3 marks for five or more correct suggestions from Text B; 2 marks for four; 1 mark for two–three. Valid suggestions: open all the windows and doors so it flies out; catch it with a butterfly net (waiting for it to land first); gently knock it to the ground with a towel; trap it under a container (jar/bowl/bucket) and slide paper underneath; drape a blanket over it (carefully, wearing thick gloves); call in an expert.",
+      "paperOnly": false
+    },
+    {
+      "id": "q16b",
+      "sectionId": "s2",
+      "number": "16(b)",
+      "type": "open_response",
+      "prompt": "**(b)** Using your list from part (a), write a summary to describe ways to remove a bat from the house. Use up to 50 words.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 2,
+      "criteria": "1 mark for content: covers the listed methods accurately in the student's own words. 1 mark for summary quality: within the 50-word limit, concise, well-sequenced sentences with accurate spelling and punctuation.",
+      "paperOnly": false
+    },
+    {
+      "id": "q17",
+      "sectionId": "s3",
+      "number": "17",
+      "type": "open_response",
+      "prompt": "Imagine a situation where something unusual happens that means you need to take action, for example an injury or extreme weather.\n\nTell your reader what to do in this situation.\n\nConsider the following:\n- the type of situation\n- your audience\n- what actions need to be taken and why.\n\n[You may plan first if you wish; only your final written instructions are marked.]",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 25,
+      "criteria": "Instruction-writing task, 25 marks. Assess: (1) Content and purpose — a clear unusual situation, instructions suited to the stated audience, actions explained with reasons; (2) Text structure — logical, well-sequenced steps (opening, ordered actions, ending), with sequencing connectives; (3) Language — imperative verbs, appropriate instructional tone, varied and precise vocabulary and sentence structures; (4) Accuracy — punctuation, spelling and grammar. Award high marks for fully developed, well-organised, accurate instructions; middle marks for clear but less developed or less consistent writing; low marks for brief, poorly organised or inaccurate responses.",
+      "paperOnly": false
+    }
+  ],
+  "published": true,
+  "aiRules": null,
+  "importNotes": [
+    "Source has no mark scheme: open_response criteria (13 questions, incl. the 25-mark writing task q17) were parser-authored and should be reviewed by a teacher.",
+    "short_answer keys accept one expected form (e.g. q1 'intrigued', q15 'hey presto'); teacher may want to allow close variants such as quoted phrases containing the key word.",
+    "Section A: Reading was split into two sections (Text A, Text B) so each Insert passage attaches to its own questions; the source has a single Section A.",
+    "Both Insert passages were reproduced in section passages with the printed line breaks and margin line numbers preserved as (5), (10)... markers so that line-reference questions (e.g. 'line 10', 'lines 18-20') remain usable.",
+    "One-mark explanation questions (2, 3, 4, 7, 8b, 9, 11a) were modeled as open_response with AI grading criteria rather than short_answer, since they require a reasoned sentence.",
+    "Answer keys were derived from the texts: q1 'intrigued', q6 'oath', q8(a) 'simile', q14 'then', q15 'hey presto'; MC: q5 D (captivated), q12 A (to instruct). Teacher should verify.",
+    "Q17 (writing, 25 marks) has no printed rubric; criteria follow the standard Cambridge instruction-writing strands (content/purpose, structure, language, accuracy) and should be reviewed.",
+    "The 'Space for your plan' box for q17 and blank answer pages 7-8 were dropped; a bracketed note tells students only final instructions are marked.",
+    "All extracted figures are logos or decorative box borders (Cambridge/BGA logos, passage frames); no question needs an image.",
+    "Cover states 1 hour 10 minutes, so durationMinutes=70; section timing suggestions (30+30) kept in section instructions."
+  ],
+  "verified": true
+}

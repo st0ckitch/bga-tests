@@ -1,0 +1,243 @@
+{
+  "id": "p4-geo",
+  "title": "Georgian — Grade 4 Entrance",
+  "titleKa": "ქართული — IV კლასი (ჯადოსნური ფუნჯი)",
+  "division": "primary",
+  "track": "entrance",
+  "grade": "4",
+  "subject": "georgian",
+  "language": "ka",
+  "durationMinutes": 60,
+  "instructions": null,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "ჯადოსნური ფუნჯი (აღმოსავლური ზღაპარი)",
+      "instructions": "ყურადღებით წაიკითხე ტექსტი და უპასუხე კითხვებს.",
+      "passage": "**ჯადოსნური ფუნჯი**\n*(აღმოსავლური ზღაპარი)*\n\nუხსოვარ დროში ცხოვრობდა ერთი ღარიბი გოგონა, ლეა. მას ძალიან უყვარდა ხატვა. ერთ ღამეს ლეას უცნაური მოხუცი ესიზმრა. მოხუცმა მას ჯადოსნური ფუნჯი აჩუქა და სთხოვა:\n\n— დაეხმარე ამ ფუნჯით ღარიბებს.\n\nდილით ლეამ გაიღვიძა და თვალებს არ დაუჯერა: **მის მაგიდაზე ჯადოსნური ფუნჯი იდო!** გოგონამ დასტაცა ფუნჯს ხელი და გაიქცა ხალხის დასახმარებლად.\n\nმზე აცხუნებდა. გლეხები გამომშრალ მიწას გაჭირვებით რწყავდნენ. ლეამ ფუნჯი მოიმარჯვა და მდინარე დახატა. ჰოი, საოცრებავ! — მინდორში ნამდვილი მდინარე აჩქეფდა. გახარებულმა გლეხებმა გოგონას მადლობა გადაუხადეს.\n\nლეამ გზა განაგრძო და მშიერი ბავშვები დაინახა. აიქნია თავისი ჯადოსნური ფუნჯი და გემრიელი კერძები გააჩინა. ბავშვები სიხარულით **აყიჟინდნენ**.\n\nიმ მხარეში ერთი მდიდარი კაცი ცხოვრობდა. როგორც კი ჯადოსნური ფუნჯის ამბავი გაიგო, მაშინვე გაგზავნა თავისი ჯარისკაცები მის მოსატანად. ჯარისკაცებმა წაართვეს ფუნჯი გოგონას და თავიანთ ბატონს მიართვეს.\n\nგაიხარა მდიდარმა კაცმა. მოიწვია ყველა თავისი მეგობარი, მოიმარჯვა ფუნჯი და დახატა უამრავი ძვირფასი ნივთი. მაგრამ არაფერიც არ მომხდარა — არცერთი ნახატი არ გაცოცხლებულა. გაბრაზებულმა კაცმა ბრძანა, ახლავე აქ მომგვარეთ ის გოგონაო. დაიჭირეს პატარა ლეა და მიუყვანეს მდიდარ კაცს.\n\n— გააცოცხლე ყველა ნახატი, რომელსაც მე გეტყვი და გაგათავისუფლებ, — უთხრა კაცმა გოგონას.\n\nლეამ ბევრი იფიქრა და ჭკვიანური რამ მოიფიქრა.\n\n🖌️ — რისი დახატვა გსურთ, ბატონო? — ჰკითხა ხარბ კაცს.\n\n— უზარმაზარი ოქროს მთა მინდა! — ბრძანა მდიდარმა.\n\nლეამ დახატა ოქროს მთა, მის წინ კი უშველებელი ზღვა გააჩინა.\n\n— ეს რა არის? იქამდე როგორ მივაღწიო? — გაბრაზდა კაცი.\n\nლეამ კვლავ მოიმარჯვა ფუნჯი. ხატვა დამთავრებული არ ჰქონდა, რომ კაცი ნავში ჩახტა და მთისკენ გაცურა. გოგონამ აიქნია ჯადოსნური ფუნჯი და უშველებელი ტალღა გააჩინა. ტალღამ გაიტაცა ნავი და უკაცრიელ კუნძულზე გადაკარგა ხარბი კაცი.\n\nლეა დიდხანს და ბედნიერად ცხოვრობდა. ის ჯადოსნურ ფუნჯს მხოლოდ ხალხის დასახმარებლად იყენებდა.",
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "sectionId": "s1",
+      "number": "1",
+      "type": "short_answer",
+      "prompt": "მოძებნე ტექსტში ფუნჯით (🖌️) მონიშნული მონაკვეთი — ეპიზოდი, რომელიც იწყება სიტყვებით: „— რისი დახატვა გსურთ, ბატონო?“. რომელი **ორი** ანდაზა შეესაბამება ამ ეპიზოდს? ჩაწერე ორი ასო.\n\nა. ადრე ამდგარსა კურდღელსა ვერ დაეწევა მწევარი;\nბ. ხერხი ჯობია ღონესა, თუ კაცი მოიგონებსა;\nგ. კარგი შვილი დედის გულის ვარდიაო;\nდ. ბევრის მდომელმა ცოტაც დაკარგაო;\nე. აქლემის ქურდი და ნემსის ქურდი ორივე ქურდიაო.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "ბ, დ",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q2",
+      "sectionId": "s1",
+      "number": "2",
+      "type": "multiple_choice",
+      "prompt": "რა დანიშნულება ჰქონდა ჯადოსნურ ფუნჯს?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "ეხმარებოდა ღარიბ ხალხს",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "ქმნიდა ჯადოსნურ ნახატებს",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "ლეას იცავდა საფრთხისგან",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "ეხმარებოდა მდიდრებს",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q3",
+      "sectionId": "s1",
+      "number": "3",
+      "type": "short_answer",
+      "prompt": "დანომრე ფუნჯის მიერ დახატული ნივთები თანმიმდევრობით ყველაზე ადრინდელიდან ბოლოდროინდელამდე და ჩაწერე ხუთივე თანმიმდევრობით (1-დან 5-მდე):\n\n- გემრიელი კერძები\n- მდინარე\n- ნავი\n- უამრავი ძვირფასი ნივთი\n- უშველებელი ტალღა",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "1. მდინარე; 2. გემრიელი კერძები; 3. უამრავი ძვირფასი ნივთი; 4. ნავი; 5. უშველებელი ტალღა",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q4",
+      "sectionId": "s1",
+      "number": "4",
+      "type": "multiple_choice",
+      "prompt": "როგორი გოგოა ლეა?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "ხარბი",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "ჭკვიანი",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "მშიშარა",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "სულელი",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q5",
+      "sectionId": "s1",
+      "number": "5",
+      "type": "open_response",
+      "prompt": "ტექსტში ვკითხულობთ: „მდიდარმა კაცმა მოიწვია ყველა თავისი მეგობარი.“ როგორ ფიქრობთ, რატომ მოიქცა იგი ასე?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "1 ქულა — მოსწავლე გონივრულად ხსნის მდიდარი კაცის საქციელს (მაგ.: სურდა მეგობრებისთვის დაეკვეხნა/ეჩვენებინა ჯადოსნური ფუნჯი და თავისი სიმდიდრე გამოეჩინა).\nპასუხი უნდა შეესაბამებოდეს ტექსტს და გასაგებად იყოს ჩამოყალიბებული.\nზოგადი ან ტექსტთან შეუსაბამო პასუხი — 0 ქულა.",
+      "paperOnly": false
+    },
+    {
+      "id": "q6",
+      "sectionId": "s1",
+      "number": "6",
+      "type": "open_response",
+      "prompt": "შენი აზრით, ავტორს ლეა უფრო მოსწონს თუ მდიდარი კაცი? რატომ ფიქრობ ასე?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "1 ქულა — მოსწავლე ასახელებს ლეას და მოსაზრებას ასაბუთებს ტექსტზე დაყრდნობით (ლეა კეთილია და ხალხს ეხმარება; ხარბი მდიდარი კაცი კი ბოლოს ისჯება).\nდასაბუთების გარეშე მხოლოდ არჩევანის დასახელება — 0 ქულა.",
+      "paperOnly": false
+    },
+    {
+      "id": "q7",
+      "sectionId": "s1",
+      "number": "7",
+      "type": "multiple_choice",
+      "prompt": "რას ნიშნავს სიტყვა „აყიჟინდნენ“ წინადადებაში: „ბავშვები სიხარულით **აყიჟინდნენ**“?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "აცეკვდნენ",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "აყვირდნენ",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "გაიქცნენ",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "ამღერდნენ",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q8",
+      "sectionId": "s1",
+      "number": "8",
+      "type": "short_answer",
+      "prompt": "ტექსტის რომელი აბზაცი შეესაბამება ამ ილუსტრაციას? ჩაწერე აბზაცის დასაწყისი ან მოკლედ აღწერე იგი.",
+      "image": "/assets/p4-geo/figures/p05-img42.jpeg",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "აბზაცი, რომელიც იწყება „მზე აცხუნებდა…“ — ეპიზოდი, როდესაც ლეამ გლეხებს მდინარე დაუხატა",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q9",
+      "sectionId": "s1",
+      "number": "9",
+      "type": "open_response",
+      "prompt": "წაიკითხე ეს აბზაცი („მზე აცხუნებდა…“) ყურადღებით და მოუფიქრე სათაური.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "1 ქულა — სათაური შეესაბამება აბზაცის შინაარსს (მდინარის დახატვა / გლეხების დახმარება), მოკლე და გასაგებია.\nშინაარსთან შეუსაბამო ან ბუნდოვანი სათაური — 0 ქულა.",
+      "paperOnly": false
+    },
+    {
+      "id": "q10",
+      "sectionId": "s1",
+      "number": "10",
+      "type": "open_response",
+      "prompt": "დაწერე, რას გააკეთებდი, შენ რომ ჯადოსნური ფუნჯი გქონოდა?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "1 ქულა — მოსწავლე გასაგებად და დავალების შესაბამისად წერს, რას გააკეთებდა ჯადოსნური ფუნჯით; ნაწერი მთლიანი აზრისაა.\nენობრივი შეცდომები, რომლებიც აზრს ბუნდოვანს ხდის, ან დავალებასთან შეუსაბამო პასუხი — 0 ქულა.",
+      "paperOnly": false
+    }
+  ],
+  "published": true,
+  "aiRules": null,
+  "importNotes": [
+    "Source prints no per-question marks; every question defaulted to 1 point (total 10) — teacher should confirm weighting, especially for the 5-item ordering task (q3) and the two-proverb question (q1).",
+    "Source questions are unnumbered; sequential numbers 1-10 were assigned.",
+    "p3 says 'პირველი ნომერი უკვე მითითებულია' (first number pre-given) but no pre-marked number survived extraction; q3 asks the student to order all five items — teacher may want partial-credit rules for ordering.",
+    "q1 expects two letters ('ბ, დ'); auto-marking may need tolerance for variants like 'დ, ბ' or 'ბ და დ'.",
+    "Duration not printed in source; defaulted to 60 minutes (primary).",
+    "No point values are printed anywhere in the source; every question was assigned 1 point (total 10).",
+    "No duration on the cover/filename; defaulted to 60 minutes (primary division).",
+    "Q1 asks to pick TWO proverbs, so it was modeled as short_answer (student types two letters) rather than single-choice MC; the 'brush-marked' passage segment appears in the PDF only as enlarged text („მის მაგიდაზე ჯადოსნური ფუნჯი იდო!“), and the intended two proverbs are ambiguous, so the answer key was left null for teacher review.",
+    "Q3 merges the source's two blocks (number the bulleted items + write the five items in order on lines 1-5) into one short_answer; the source claims 'the first number is already given' but no pre-filled number is visible in the extraction/render.",
+    "Questions are unnumbered in the source; sequential numbers 1-10 were assigned in page order.",
+    "Q8 answer key identifies the paragraph by its opening words („მზე აცხუნებდა…“) because the source does not number paragraphs.",
+    "Removed a stray '[' artifact after proverb ა on page 2."
+  ],
+  "verified": true
+}

@@ -1,0 +1,277 @@
+{
+  "id": "p2-math-ka",
+  "title": "Mathematics — Grade 2 Entrance",
+  "titleKa": "მათემატიკა — II კლასში მისაღები ტესტი",
+  "division": "primary",
+  "track": "entrance",
+  "grade": "2",
+  "subject": "math",
+  "language": "ka",
+  "durationMinutes": 60,
+  "instructions": null,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Test",
+      "instructions": null,
+      "passage": null,
+      "image": null
+    },
+    {
+      "id": "s2",
+      "title": "ბონუს დავალება",
+      "instructions": null,
+      "passage": null,
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "sectionId": "s1",
+      "number": "1",
+      "type": "multiple_choice",
+      "prompt": "შემოხაზე რიცხვი, რომელიც 6 ათეულისა და 7 ერთეულისაგან შედგება:",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "13",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "67",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "76",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q2",
+      "sectionId": "s1",
+      "number": "2",
+      "type": "multiple_choice",
+      "prompt": "შემოხაზე ოთხი ოცეულისა და 6 ერთეულისგან შედგენილი რიცხვი:",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "ორმოცდათექვსმეტი",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "სამოცდაოთხი",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "ოთხმოცდაექვსი",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q3",
+      "sectionId": "s1",
+      "number": "3",
+      "type": "short_answer",
+      "prompt": "დაალაგე რიცხვები 36, 75, 57, 61, 72, 7 კლების მიხედვით:",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "75, 72, 61, 57, 36, 7",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q4",
+      "sectionId": "s1",
+      "number": "4",
+      "type": "short_answer",
+      "prompt": "რა რიცხვი უნდა ეწეროს ცარიელ უჯრაში, რათა უტოლობა სწორი იყოს:\n\n5 + ⬜ > 13",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "9",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q5",
+      "sectionId": "s1",
+      "number": "5ა",
+      "type": "short_answer",
+      "prompt": "გამოიანგარიშე:\n\n18 – (9 + 7) + 11 =",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "13",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q6",
+      "sectionId": "s1",
+      "number": "5ბ",
+      "type": "short_answer",
+      "prompt": "გამოიანგარიშე:\n\n20 + 37 – (50 + 7) =",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "0",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q7",
+      "sectionId": "s1",
+      "number": "6ა",
+      "type": "short_answer",
+      "prompt": "მასწავლებელმა მოცემული რიცხვებიდან: 2, 62, 87, 73, 45, 18 ლელას 60-ზე მეტი რიცხვების ამოწერა დაავალა, ხოლო გიორგის 40-ზე ნაკლები რიცხვებისა.\n\nრა რიცხვები ამოწერა ლელამ?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "62, 87, 73",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q8",
+      "sectionId": "s1",
+      "number": "6ბ",
+      "type": "short_answer",
+      "prompt": "მასწავლებელმა მოცემული რიცხვებიდან: 2, 62, 87, 73, 45, 18 ლელას 60-ზე მეტი რიცხვების ამოწერა დაავალა, ხოლო გიორგის 40-ზე ნაკლები რიცხვებისა.\n\nრა რიცხვები ამოწერა გიორგიმ?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "2, 18",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q9",
+      "sectionId": "s1",
+      "number": "7",
+      "type": "multiple_choice",
+      "prompt": "ქუდი 7 ლარი ღირს, კაშნე 9 ლარი, ხელთათმანი 8 ლარი. რის ყიდვას ვერ შეძლებს თორნიკე 16 ლარად?",
+      "image": "/assets/p2-math-ka/media/q7-items.png",
+      "choices": [
+        {
+          "id": "A",
+          "text": "ერთი ქუდის",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "ქუდის და ხელთათმანის",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "კაშნეს და ხელთათმანის",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q10",
+      "sectionId": "s1",
+      "number": "8",
+      "type": "short_answer",
+      "prompt": "ბებიამ კექსი გამოაცხო და 14 ტოლ ნაჭრად დაჭრა. ნახევარი შვილიშვილებმა შეჭამეს, თითომ - თითო ნაჭერი. რამდენი შვილიშვილი ჰყავს ბებიას?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "7",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q11",
+      "sectionId": "s1",
+      "number": "9",
+      "type": "short_answer",
+      "prompt": "ნინის კლასში 15 ვაჟი და 5-ით ნაკლები გოგონაა. რამდენი მოსწავლეა ნინის კლასში?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "25",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q12",
+      "sectionId": "s1",
+      "number": "10",
+      "type": "open_response",
+      "prompt": "მოცემულ ფიგურაში გაავლე ორი მონაკვეთი ისე, რომ ორი სამკუთხედი და ერთი ოთხკუთხედი მიიღო.\n\n[ეს დავალება ფურცელზე შესასრულებელია — თუ შეგიძლია, სიტყვებით აღწერე, სად გაავლებდი მონაკვეთებს.]",
+      "image": "/assets/p2-math-ka/media/q10-pentagon.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "მოსწავლემ უნდა გაავლოს (ან სიტყვებით აღწეროს) ორი მონაკვეთი მოცემულ ფიგურაში.\nშედეგად უნდა მიიღებოდეს ზუსტად ორი სამკუთხედი და ერთი ოთხკუთხედი — სრული ქულა.\nთუ მიღებული ფიგურები არასწორია ან მხოლოდ ნაწილობრივ შეესაბამება პირობას, ქულა არ ენიჭება.",
+      "paperOnly": true
+    },
+    {
+      "id": "q13",
+      "sectionId": "s2",
+      "number": "ბონუსი",
+      "type": "short_answer",
+      "prompt": "დედამ გამოაცხო 4 შოკოლადის ნამცხვარი, 6 ლიმონის ნამცხვარი, 8 ბანანის ნამცხვარი და 14 სტაფილოს ნამცხვარი. ქვემოთ მოცემული პიქტოგრამით წარმოდგენილია ეს მონაცემები (ერთი სრული სიმბოლო ★ = 2 ნამცხვარი, ნახევარი სიმბოლო = 1 ნამცხვარი):\n\n| ნამცხვრის ტიპი | ნამცხვრების რაოდენობა |\n|---|---|\n| შოკოლადის | ★★ |\n| ლიმონის | ★★★ |\n| ბანანის | ★★★★ |\n| სტაფილოს | (ცარიელი სტრიქონი) |\n\nშეავსე ცარიელი სტრიქონი: რამდენი სრული სიმბოლო ★ უნდა დაიხატოს სტაფილოს ნამცხვრების სტრიქონში?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "7",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    }
+  ],
+  "published": true,
+  "aiRules": null,
+  "importNotes": [
+    "No point values are printed anywhere in the source DOCX; every question was set to 1 point (total 13). Teacher should confirm weighting and whether the bonus task counts toward the total.",
+    "Duration is not stated in the source; defaulted to 60 minutes (primary).",
+    "Q4 (5 + □ > 13): answerKey is '9' (the smallest valid whole number), but any number greater than 8 is mathematically correct — teacher may want to accept alternatives.",
+    "Q3, Q6ა, Q6ბ keys are number lists; students may enter a different order or separators, so order-insensitive acceptance should be confirmed during AI/teacher review.",
+    "Q10 figure: the original is a DOCX vector pentagon shape (confirmed as preset 'pentagon' in document.xml); the attached q10-pentagon.png is a redrawn reconstruction, so color/proportions differ slightly from print.",
+    "No point values are printed anywhere in the source; every question was set to 1 point (total 13).",
+    "Duration not stated on the document; defaulted to 60 minutes (primary division).",
+    "Q4 (5 + ⬜ > 13): answerKey set to 9, but any number greater than 8 satisfies the inequality — grader should accept those.",
+    "Q5 and Q6 were split into sub-questions (5ა/5ბ and 6ა/6ბ Lela/Giorgi) so each answer can be auto-marked separately.",
+    "Q10 (number 10): the geometry figure was not embedded in the DOCX and no page render exists for DOCX tests, so no image could be attached; question marked paperOnly — the source figure must be added manually.",
+    "Bonus pictogram task: the pictogram symbols (legend icons and any pre-filled table rows) were not extracted from the DOCX, so it is unknown which row was left empty; the full data and legend were reconstructed in the prompt and the task marked paperOnly.",
+    "media/image4.png is a blank grid (working space) and was treated as decorative; images 1-3 (hat/mittens/scarf) illustrate Q7, whose prices are already in the text — the hat image was attached to Q7."
+  ],
+  "verified": true
+}

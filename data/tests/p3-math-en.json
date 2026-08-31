@@ -1,0 +1,143 @@
+{
+  "id": "p3-math-en",
+  "title": "Mathematics — Grade 3 Entrance (variant 2)",
+  "titleKa": "მათემატიკა — III კლასი",
+  "division": "primary",
+  "track": "entrance",
+  "grade": "3",
+  "subject": "math",
+  "language": "ka",
+  "durationMinutes": 60,
+  "instructions": null,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Test",
+      "instructions": null,
+      "passage": null,
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "sectionId": "s1",
+      "number": "1",
+      "type": "short_answer",
+      "prompt": "მოცემულია რამდენიმე რიცხვი:\n\n**10, 20, 30, 70, 90**\n\nგამოიყენეთ ოთხი რიცხვი მოქმედებების სწორად ჩასაწერად და თითოეულ უჯრაში ჩაწერეთ თითო რიცხვი:\n\n☐ + ☐ = 100    და    ☐ + ☐ = 100\n\n(ჩაწერეთ ორივე ტოლობა სრულად, მაგალითად: „... + ... = 100 და ... + ... = 100“)",
+      "image": "/assets/p3-math-en/figures/p01-img22.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "10 + 90 = 100 და 30 + 70 = 100 (ტოლობების თანმიმდევრობას მნიშვნელობა არ აქვს)",
+      "points": 2,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q2",
+      "sectionId": "s1",
+      "number": "2",
+      "type": "short_answer",
+      "prompt": "მოცემულია გარკვეული თანმიმდევრობით ჩაწერილი ოთხი რიცხვი:\n\n2, 7, 12, 17, ...\n\nგანაგრძეთ იმავე თანმიმდევრობით და ჩაწერეთ მიმდევრობის მე-12 წევრი.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "57",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q3",
+      "sectionId": "s1",
+      "number": "3ა",
+      "type": "short_answer",
+      "prompt": "ანასტასიამ დახაზა სვეტოვანი დიაგრამა, სადაც ნაჩვენებია მისი კლასელების საყვარელი გაკვეთილები.\n\nა) დაწერეთ იმ გაკვეთილის სახელი, რომელიც ყველაზე მეტმა ბავშვმა აირჩია.",
+      "image": "/assets/p3-math-en/figures/p02-chart.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "ხელოვნება",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q4",
+      "sectionId": "s1",
+      "number": "3ბ",
+      "type": "short_answer",
+      "prompt": "ანასტასიამ დახაზა სვეტოვანი დიაგრამა, სადაც ნაჩვენებია მისი კლასელების საყვარელი გაკვეთილები.\n\nბ) დაწერეთ, რამდენი ბავშვის საყვარელი გაკვეთილია მეცნიერება?",
+      "image": "/assets/p3-math-en/figures/p02-chart.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "5",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q5",
+      "sectionId": "s1",
+      "number": "4",
+      "type": "short_answer",
+      "prompt": "ნინას სურს გამოთვალოს გამოსახულება: 2 × 18 × 5\n\nის ალაგებს რიცხვებს, რომ გაიმარტივოს გამოთვლა. მოცემულ უჯრებში ჩაწერეთ რიცხვები 2, 18, 5 ისე, რომ აჩვენოთ, როგორ შეძლო ნინამ ამის გაკეთება:\n\n☐ × ☐ × ☐\n\n(ჩაწერეთ სამი რიცხვი გამრავლების ნიშნებით იმ თანმიმდევრობით, რომელიც ამარტივებს გამოთვლას)",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "2 × 5 × 18 (მისაღებია 5 × 2 × 18-იც — მთავარია 2 და 5 ერთად იყოს დაჯგუფებული: 2 × 5 = 10, 10 × 18 = 180)",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q6",
+      "sectionId": "s1",
+      "number": "5",
+      "type": "multiple_choice",
+      "prompt": "რაჯივი აგროვებს მონეტებს. ის ყოველთვიურად ამატებს ერთსა და იმავე რაოდენობის მონეტებს თავის კოლექციას. სურათზე ნაჩვენებია მისი კოლექცია მარტის ბოლოს და აპრილის ბოლოს.\n\nქვემოთ მოცემული ნიმუშებიდან აირჩიეთ ის, რომელიც აჩვენებს რაჯივის კოლექციას მაისის ბოლოს.",
+      "image": "/assets/p3-math-en/figures/p03-march-april.png",
+      "choices": [
+        {
+          "id": "A",
+          "text": "ნიმუში 1",
+          "image": "/assets/p3-math-en/figures/q5-optA.png"
+        },
+        {
+          "id": "B",
+          "text": "ნიმუში 2",
+          "image": "/assets/p3-math-en/figures/q5-optB.png"
+        },
+        {
+          "id": "C",
+          "text": "ნიმუში 3",
+          "image": "/assets/p3-math-en/figures/q5-optC.png"
+        },
+        {
+          "id": "D",
+          "text": "ნიმუში 4",
+          "image": "/assets/p3-math-en/figures/q5-optD.png"
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    }
+  ],
+  "published": true,
+  "aiRules": null,
+  "importNotes": [
+    "durationMinutes=60 is the guide default; no duration is printed in the source",
+    "Q1 merges the two 1-point equation boxes into one 2-point question; answers with the equations in either order must be accepted",
+    "Q1 and Q4 (json q5) answer keys accept multiple valid orderings — AI/teacher marking should accept equivalents (e.g. 90+10 first, or 5×2×18)",
+    "Manifest marks language as \"en\" but the entire document is in Georgian (a Georgian rendering of a Cambridge-style Year 3 paper); copied language \"en\" from manifest as instructed — flag for correction.",
+    "Duration not printed anywhere; defaulted to 60 minutes (primary).",
+    "No printed total; per-question marks sum to 7.",
+    "Question 1 has two separate (1) marks (one per equation) but no sub-labels; modeled as a single 2-point short_answer requiring both equations (10+90=100 and 30+70=100, order interchangeable) — auto-marking may need AI near-miss tolerance for ordering/formatting.",
+    "Questions 1 and 4 are box-filling tasks on paper; adapted so the student types the full equation/expression, with a bracketed typing hint added to each prompt.",
+    "Question 5 \"circle the correct sample\" converted to multiple choice; option images (figures/q5-optA..D.png) were cropped from the combined source figure, and stimulus images figures/p02-chart.png and figures/p03-march-april.png were cropped from the page renders because the auto-extracted figures lacked the Georgian axis labels/captions.",
+    "Fixed an obvious typo in question 4 (\"ჩაწეეთ\" → \"ჩაწერეთ\")."
+  ],
+  "verified": true
+}

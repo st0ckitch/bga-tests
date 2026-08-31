@@ -1,0 +1,415 @@
+{
+  "id": "s8-eng-ent",
+  "title": "English — Grade 8 Entrance",
+  "titleKa": null,
+  "division": "secondary",
+  "track": "entrance",
+  "grade": "8",
+  "subject": "english",
+  "language": "en",
+  "durationMinutes": 70,
+  "instructions": "Cambridge Lower Secondary — English Paper 1 (Stage 8)\n\n- Answer **all** questions.\n- Write your answer to each question in the space provided.\n- You should pay attention to punctuation, spelling and handwriting.\n- The total mark for this paper is **50**.\n- The number of marks for each question or part question is shown in brackets [ ].\n- Suggestions for how long to spend on each section are given in the booklet.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A: Reading — Text A",
+      "instructions": "Spend 30 minutes on Section A (Reading) as a whole. Read **Text A** and answer questions 1–9. Paragraphs are annotated with the original line numbers in italics.",
+      "passage": "# Honey for money\n\n*(lines 1–4)* Honey, golden and sweet, has always been held in the highest regard. Almost every society on earth has traditionally known and used it. One example of this is in the prehistoric cave paintings near Valencia, in Spain, dating back 15,000 years which depict men gathering honey for food.\n\n**Where honey comes from**\n\n*(lines 5–11)* Flowers need bees to visit them so that plants will be pollinated. To attract the bees, flowers supply nectar, which is a solution of sugars that bees collect, and then concentrate into honey. The aroma, taste and colour of honey are determined by the plants from which the bees have gathered nectar. Sunflowers, for example, give a golden-yellow honey; clover gives a sweet, white honey; agave species give honey a bitter taste that is popular in some societies. Dark honey usually has a strong flavour and often has a high mineral content; pale honey has a more delicate flavour.\n\n**How honey is made**\n\n*(lines 12–19)* Honey contains a wide range of sugars. It also contains small amounts of other substances such as minerals, vitamins, proteins and amino acids. The temperature in a bees' nest, where honey is stored, is usually about 35°C. This temperature, and the ventilation produced by bees fanning their wings, cause water to evaporate from the honey. When the water content is reduced to about 20 per cent, the honey is ripe. Then, the bees seal the cell with a wax cap, known as propolis, so the honey will not ferment. In this way, the bees prepare for themselves a concentrated food source. This nourishment sustains them through periods when there are no flowers.\n\n**When honey is harvested**\n\n*(lines 20–24)* Honey inside the sealed cell is regarded by beekeepers as ready for harvest. Honey at this stage is pure and perfect: whether it is in a wild nest, a homemade hive or the most expensive factory-made hive. The subsequent harvesting and processing of honey determine whether this quality is retained. If the beekeepers are working far away from roads and industry, they can command a premium price for the honey because it can be certified as organic.\n\n**The financial value of honey**\n\n*(lines 25–29)* Beekeeping has skyrocketed in popularity and profitability in recent years for both hobbyists and professionals. While honey is the obvious source of income for beekeepers, there are many other streams of revenue connected to beekeeping: selling the beeswax to use in products such as candles and lip balms; selling the pollen granules as a superfood; selling propolis to use in commercial products such as chewing gum.",
+      "image": null
+    },
+    {
+      "id": "s2",
+      "title": "Section A: Reading — Text B",
+      "instructions": "Read **Text B** and answer questions 10–15. Paragraphs are annotated with the original line numbers in italics.",
+      "passage": "# My life with bees\n\n*(lines 1–4)* When we decided to get honeybees, I jumped right in with both feet. I ordered the bees. I cut, ground and filed an old lawnmower blade into a hooked hive tool. I scavenged the local landfill for cans to build a homemade smoker and built two complete hives plus most of the parts for the other three, minus the frames. You have to be really organised and hardworking.\n\n*(lines 5–9)* Bear in mind that everything didn't come out perfectly. My boxes were a little too narrow and the bees attached some extra comb to the sides. The spring I used for the smoker bellows was a little weak, so it didn't puff out clouds of smoke like the fancy store-bought model. That didn't matter. What mattered was that I made them with my own hands, and they worked. At the end of the season I extracted 200 kilos of honey from those five hives! I will never forget it.\n\n*(lines 10–16)* Why should you build your own beekeeping equipment? The sheer pleasure of doing it is reason enough. Continuing the tradition of people working with their hands and solving their own problems is another good one. By the time you are finished, you will have a better understanding of the parts that make up the construction of the hive, how they are constructed, and how they all work together as a unit. You can find and use sources of scrap wood that will save you money and keep waste out of the landfill. I guess the harder question to answer would be: Why not?",
+      "image": null
+    },
+    {
+      "id": "s3",
+      "title": "Section B: Writing",
+      "instructions": "Spend 30 minutes on this section.",
+      "passage": null,
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "sectionId": "s1",
+      "number": "1",
+      "type": "multiple_choice",
+      "prompt": "What literary technique is the title an example of?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "onomatopoeia",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "rhyme",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "alliteration",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "personification",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q2",
+      "sectionId": "s1",
+      "number": "2",
+      "type": "short_answer",
+      "prompt": "Give **one** word from the first paragraph (lines 1–4) that means 'show'.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "depict",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q3",
+      "sectionId": "s1",
+      "number": "3(a)",
+      "type": "multiple_choice",
+      "prompt": "Look at the second paragraph (lines 5–11).\n\nIn the second sentence, the words, *To attract the bees...* link the first and second sentences. What kind of connective is this?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "a comparison",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "an example",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "an addition",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "an explanation",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "D",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q4",
+      "sectionId": "s1",
+      "number": "3(b)",
+      "type": "multiple_choice",
+      "prompt": "Look at the second paragraph (lines 5–11).\n\nWhy does the writer use semicolons ( ; )?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "to introduce a list",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "to separate items on a list",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "to show emphasis",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "to connect separate ideas",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q5",
+      "sectionId": "s1",
+      "number": "4(a)",
+      "type": "short_answer",
+      "prompt": "Look at the third paragraph (lines 12–19).\n\nGive **one** example of scientific language.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "amino acids (also acceptable: minerals / vitamins / proteins / evaporate / water content / 35°C / ferment / propolis)",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q6",
+      "sectionId": "s1",
+      "number": "4(b)",
+      "type": "short_answer",
+      "prompt": "Look at the third paragraph (lines 12–19).\n\nGive **one** example of a passive verb form.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "is stored (also acceptable: is reduced)",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q7",
+      "sectionId": "s1",
+      "number": "4(c)",
+      "type": "short_answer",
+      "prompt": "Look at the third paragraph (lines 12–19).\n\nGive **one** word that means 'food'.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "nourishment",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q8",
+      "sectionId": "s1",
+      "number": "5",
+      "type": "short_answer",
+      "prompt": "What idea links the end of the third and the beginning of the fourth paragraph?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "honey sealed in the cell (the sealed cell / honey stored in sealed cells as food)",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q9",
+      "sectionId": "s1",
+      "number": "6",
+      "type": "short_answer",
+      "prompt": "Why do you think beekeepers want to produce organic honey?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "because they can command a premium (higher) price for it",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q10",
+      "sectionId": "s1",
+      "number": "7",
+      "type": "short_answer",
+      "prompt": "Give **one** word that means 'increased' (lines 25–29).",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "skyrocketed",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q11",
+      "sectionId": "s1",
+      "number": "8",
+      "type": "short_answer",
+      "prompt": "Beekeepers sell honey.\n\nWhat other ways can they earn money from keeping bees? Give **one** way.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "selling beeswax (for candles/lip balms) / selling pollen granules (as a superfood) / selling propolis (for products such as chewing gum) — any one",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q12",
+      "sectionId": "s1",
+      "number": "9",
+      "type": "open_response",
+      "prompt": "Give **two** structural features of an information text that can be found in Text A.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 2,
+      "criteria": "1 point per correct structural feature present in Text A, max 2.\nAcceptable: a title/heading; subheadings; paragraphs; facts grouped by topic under headings; an introduction.\nDo not credit language features (e.g. formal tone) — the question asks for structural features.",
+      "paperOnly": false
+    },
+    {
+      "id": "q13",
+      "sectionId": "s2",
+      "number": "10",
+      "type": "short_answer",
+      "prompt": "What is the viewpoint in Text B?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "first person",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q14",
+      "sectionId": "s2",
+      "number": "11",
+      "type": "multiple_choice",
+      "prompt": "How do you think the writer feels about keeping bees?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "clumsy",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "enthusiastic",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "nervous",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "overwhelmed",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q15",
+      "sectionId": "s2",
+      "number": "12",
+      "type": "open_response",
+      "prompt": "Do you think that making the hives perfect is important to the writer? Give **two** reasons.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 2,
+      "criteria": "Expected view: no, perfection is not important to the writer. 1 point per valid reason supported by the text, max 2.\nAcceptable reasons: he says 'That didn't matter' about the flaws; what mattered was making the equipment with his own hands and that it worked; despite imperfect boxes/weak smoker spring he still got 200 kilos of honey; he is proud of his homemade equipment.\nReasons must be rooted in Text B, not general opinion.",
+      "paperOnly": false
+    },
+    {
+      "id": "q16",
+      "sectionId": "s2",
+      "number": "13",
+      "type": "short_answer",
+      "prompt": "Why does the writer use an exclamation mark ( ! ) in line 9 ('...I extracted 200 kilos of honey from those five hives!')?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "to show/emphasise his excitement, pride or amazement at how much honey he extracted",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q17",
+      "sectionId": "s2",
+      "number": "14",
+      "type": "open_response",
+      "prompt": "Give **two** structural features of a persuasive text that can be found in Text B.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 2,
+      "criteria": "1 point per correct structural feature of a persuasive text present in Text B, max 2.\nAcceptable: rhetorical questions ('Why should you build...?', 'Why not?'); direct address to the reader ('you'); a series of reasons/arguments; personal anecdote/first-person experience as evidence; a strong/memorable ending.\nDo not credit features not present in Text B.",
+      "paperOnly": false
+    },
+    {
+      "id": "q18",
+      "sectionId": "s2",
+      "number": "15(a)",
+      "type": "open_response",
+      "prompt": "Your friend wants to start keeping bees. Write a list of the advantages and disadvantages of making your own beekeeping equipment.\n\nGive your answer as two lists:\n\n**Advantages** (Example: Satisfaction of doing it yourself)\n\n**Disadvantages**",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 3,
+      "criteria": "Award up to 3 points for relevant points drawn from Text B, beyond the given example, covering both columns.\nAdvantages: pleasure/satisfaction; continuing the tradition of working with your hands / solving your own problems; better understanding of how the hive is constructed and works; saves money; uses scrap wood / keeps waste out of the landfill.\nDisadvantages: takes a lot of time and effort; you must be really organised and hardworking; results may be imperfect (boxes too narrow, weak smoker spring, extra comb).\n3 points = several valid points in both lists; 2 = valid points but one side thin; 1 = only one or two valid points.",
+      "paperOnly": false
+    },
+    {
+      "id": "q19",
+      "sectionId": "s2",
+      "number": "15(b)",
+      "type": "open_response",
+      "prompt": "Summarise the advantages and disadvantages of making beekeeping equipment for your friend. Use up to 40 words.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 2,
+      "criteria": "2 points: a coherent summary covering BOTH advantages and disadvantages from Text B, largely in the student's own words, within about 40 words.\n1 point: covers only one side, or is copied heavily from the text, or clearly exceeds the word limit.\n0 points: not a summary of the required content.",
+      "paperOnly": false
+    },
+    {
+      "id": "q20",
+      "sectionId": "s3",
+      "number": "16",
+      "type": "open_response",
+      "prompt": "Imagine you have recently taken up an unusual hobby. Write an article for your school magazine to persuade others to do the same.\n\nYou should consider:\n\n- the language you will use to persuade your reader\n- the presentation of your ideas.\n\n(You may plan first, but only your article is marked.)",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 25,
+      "criteria": "Mark out of 25, weighing roughly equally:\n- Content and purpose: a magazine article about an unusual hobby that genuinely tries to persuade the reader; ideas developed and relevant to a school audience.\n- Persuasive language: rhetorical questions, direct address, emotive/positive vocabulary, examples and reasons.\n- Structure and presentation: headline/title, clear opening, logical paragraphs, effective ending.\n- Technical accuracy: sentence structure, punctuation and spelling (the paper tells students to pay attention to punctuation and spelling).\nA top answer is convincing, well organised and accurate; deduct progressively for thin content, weak organisation or frequent errors.",
+      "paperOnly": false
+    }
+  ],
+  "published": true,
+  "aiRules": null,
+  "importNotes": [
+    "Interpretive short answers (Q5 link between paragraphs, Q13 exclamation mark, Q10 viewpoint) accept paraphrases beyond the stored answerKey — teacher should confirm AI near-miss marking is lenient enough",
+    "Q15(a) advantages/disadvantages table was converted to a typed two-list response; teacher may want to confirm the 3-mark split in the criteria matches the official mark scheme",
+    "Q13 prompt adds the quoted line-9 sentence in brackets because the digital passage shows line ranges per paragraph, not individual line numbers",
+    "Section A was split into two sections (Text A, Text B) so each Insert passage sits with its questions; Section B is the writing task.",
+    "Original margin line numbers in the Insert passages were replaced with per-paragraph line-range annotations, e.g. (lines 5–11), so line-referencing questions still work.",
+    "Q15(a) was a two-column paper table (with example 'Satisfaction of doing it yourself'); converted to an open response asking for typed Advantages/Disadvantages lists.",
+    "Q16 (25 marks) has no rubric in the source; grading criteria were adapted from Cambridge Lower Secondary writing conventions — teacher should review.",
+    "Answer keys for reading questions (notably Q5 linking idea, Q6 organic honey, Q13 exclamation mark) were derived from the texts, not an official mark scheme — teacher should verify.",
+    "Q13 prompt was augmented with the quoted line-9 sentence since students see the passage without exact line breaks."
+  ],
+  "verified": true
+}

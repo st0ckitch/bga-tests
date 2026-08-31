@@ -1,0 +1,1067 @@
+{
+  "id": "sdp-eng-ent",
+  "title": "English B — DP Entrance (Writing & Reading)",
+  "titleKa": null,
+  "division": "secondary",
+  "track": "entrance",
+  "grade": "DP",
+  "subject": "english",
+  "language": "en",
+  "durationMinutes": 150,
+  "instructions": "This entrance test is based on IB English B Higher Level and consists of two papers.\n\n**Paper 1 — Writing (1 h 30 m, 30 marks):** Complete **one** writing task.\n\n**Paper 2 — Reading comprehension (1 h, 40 marks):** Answer **all** questions. Each question is allocated [1 mark] unless otherwise stated. All answers must be based on the texts provided in each section.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Paper 1 — Writing",
+      "instructions": "Complete **one** task. Use an appropriate text type from the options below the task you choose. Write 450 to 600 words. The maximum mark for this paper is [30 marks].",
+      "passage": null,
+      "image": null
+    },
+    {
+      "id": "s2",
+      "title": "Paper 2 — Text A: Why Kids Need to Spend Time in Nature",
+      "instructions": "Answer the questions below based on Text A. Paragraph numbers are shown in bold brackets, e.g. **[1]**. The gaps **[ – 5 – ]** to **[ – 8 – ]** are missing headings that questions 5–8 ask about.",
+      "passage": "# Why Kids Need to Spend Time in Nature\n\n**[1]** As the suburbs continue to expand, nature is parcelled off more, and kids seem less inclined to spend time in a fenced-in yard, let alone jump the fence into a neighbor's yard or walk in the woods. Moreover, for kids who are growing up with multiplayer video games and social media accounts, indoor activities can seem more sociable and even safer.\n\n**[2]** Most studies agree that kids who play outside are happier and more attentive. They appear less anxious than kids who spend more time indoors. While it's unclear how mood improvements occur, there are a few things we do know about why nature is good for your kids' minds.\n\n**[3] It improves personal decision making**\nThe way that kids play outdoors has a lot less structure than most types of indoor play. There are infinite ways to interact with nature and letting your child choose how they treat nature means they have the power to control their own actions.\n\n**[4] It stimulates creativity**\nThis unstructured style of play will soon have kids responding to their surroundings. They will be able to use their imagination, improvise their own activities, and approach the world in more inventive ways.\n\n**[5] It teaches responsible behaviour**\nLiving things die if mistreated or not taken care of properly and entrusting a child to take care of the living parts of the environment means they'll learn what happens when they forget to water a plant or pull a flower out by its roots.\n\n**[6] [ – 5 – ]**\nNature may seem less inspiring than your child's violent video game, but in reality, it activates more senses—they can see, hear, smell, and touch outdoor environments. As the young spend less and less of their lives in natural surroundings, their senses narrow, and this reduces the richness of human experience.\n\n**[7] [ – 6 – ]**\nMost ways of interacting with nature involve more exercise than sitting on the couch. Your kid doesn't have to be joining the local soccer team or riding a bike through the park—even going for a walk will get their blood pumping.\n\n**[8] [ – 7 – ]**\nNature creates a unique sense of wonder for kids that no other environment can provide. The phenomena that occur naturally in backyards and parks every day make kids ask questions.\n\n**[9] [ – 8 – ]**\nIn natural environments, we practice an effortless type of attention known as \"soft fascination\" that creates feelings of pleasure and peacefulness, not tiredness and boredom.\n\n**[10]** So, while screen time might be the easier, more popular choice for your children, it's important to set aside time for outdoor play.",
+      "image": null
+    },
+    {
+      "id": "s3",
+      "title": "Paper 2 — Text B: Generation Z not ready to eat lab-grown meat",
+      "instructions": "Answer the questions below based on Text B. Markers such as *[line 5]* show the line numbers of the original text at the word that begins that line.",
+      "passage": "# Generation Z not ready to eat lab-grown meat: study\n\nPeople born between 1995 and 2015 now number two billion globally and scientists say that these Generation Z consumers are a force to be reckoned with.\n\nConsequently, researchers questioned 227 randomly *[line 5]* selected people born between 1995 and 2015. The respondents were asked questions about their demographics, dietary preferences (such as how often they liked to eat meat), and how they felt about cultured meat. They were also asked whether they thought it was necessary to accept and *[line 10]* consume different meat alternatives (such as insects, plant-based and cultured meat).\n\n*[line 12]* They discovered that 72 % of respondents were not yet ready to consume cultured meat, defined in the survey as a lab-grown meat alternative made from animal cells, instead of *[line 15]* slaughtered animals.\n\n*[line 16]* However, despite their lack of enthusiasm for the new meat alternative, 41 % believed it could be a viable nutritional source because of the need to transition to more sustainable food options and improve animal welfare.\n\n*[line 20]* 59 % of participants were concerned about the environmental impact of traditional livestock farming; however they were not clear what specific effects it was having.\n\nThe researchers noted that some respondents viewed cultured meat as a conspiracy *[line 23]* orchestrated by the rich and powerful and they were determined not to be deceived by it.\n\nSeveral participants were also unsure whether cultured meat was truly a long-term *[line 25]* environmentally-friendly option.\n\nIn summary, it was found that the respondents were effectively divided into two groups: the \"against\" described cultured meat as \"another thing our generation has to worry about\" while supporters described it as \"money invested for a good cause\" by people who are \"advanced thinkers\".\n\n**[line 30] What's your beef? Generation Z's attitudes towards cultured meat**\n\n- 17 % of respondents rejected all alternatives, including cultured meat, seeing it as chemically produced and heavily processed.\n- 11 % rejected all alternatives, preferring to consume more fruit and vegetables and saying they would stick with a vegetarian diet.\n- *[line 35]* 35 % rejected cultured meat and edible insects but accepted plant-based alternatives because they \"sounded more natural\" and were \"normal\".\n- 28 % believed cultured meat was acceptable or possibly acceptable if the technology could be mastered.",
+      "image": null
+    },
+    {
+      "id": "s4",
+      "title": "Paper 2 — Text C: An extract from Exit West",
+      "instructions": "Answer the questions below based on Text C. Markers such as *[line 5]* show the line numbers of the original text at the word that begins that line.",
+      "passage": "# An extract from *Exit West*\n\nThe next day, at work, Saeed found himself unable to stop thinking of Nadia. Saeed's employer was an agency that specialised in the placement of outdoor advertising. They owned billboards all around the city, rented others, and struck deals for further space with the likes of bus lines, sports stadiums and proprietors of tall buildings.\n\n*[line 5]* The agency occupied both floors of a converted townhouse and had over a dozen employees. Saeed was among the most junior, but his boss liked him and had tasked him with turning around a pitch to a local soap company that had to go out by email before five. Normally Saeed tried to do copious amounts of online research and customise his presentations as much as possible. \"It's not a story if it doesn't have an audience,\" his boss was fond of saying, and for *[line 10]* Saeed this meant trying to show a client that his firm truly understood their business, could really get under their skin and see things from their point of view.\n\n*[line 12]* But today, even though the pitch was important – every pitch was important: the economy was sluggish from mounting unrest and one of the first costs clients seemed to want to cut was outdoor advertising – Saeed couldn't focus. A large tree, overgrown and untrimmed, reared up *[line 15]* from the tiny back lawn of his firm's townhouse, blocking out the sunlight in such a manner that the back lawn had been reduced mostly to dirt and a few wisps of grass, interspersed with a morning's worth of cigarette butts, for his boss had banned people from smoking indoors, and atop this tree Saeed had spotted a hawk constructing its nest. It worked tirelessly. Sometimes it floated at eye level, almost stationary in the wind, and then, with the tiniest movement of a wing, *[line 20]* or even of the upturned feathers at one wingtip, it veered.\n\n*[line 21]* Saeed thought of Nadia and watched the hawk.\n\n*[line 22]* When he was at last running out of time he scrambled to prepare the pitch, copying and pasting from others he had done before. Only a smattering of the images he selected had anything particularly to do with soap. He took a draft to his boss and suppressed a wince while sliding *[line 25]* it over.\n\n*[line 26]* But his boss seemed preoccupied and didn't notice. He just jotted some minor edits on the printout, handed it back to Saeed with a wistful smile, and said, \"Send it out.\"\n\n*[line 28]* Something about his expression made Saeed feel sorry for him. He wished he had done a better job.",
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "sectionId": "s1",
+      "number": "1–3",
+      "type": "open_response",
+      "prompt": "Complete **ONE** of the following three tasks. Use an appropriate text type from the options given below the task you choose. Write 450 to 600 words. Begin your answer by stating which task (1, 2 or 3) and which text type you have chosen.\n\n**Task 1.** A politician has suggested that high school graduates could contribute more to their country by going straight into work, rather than going to university. You want to express your own views about this suggestion to your peers. Write a text in which you summarize the politician's ideas, explain how the suggestion would affect you personally, and consider its potential effects on your generation.\n\n*Text type options:* Blog | Letter to the editor | Review\n\n**Task 2.** Your local tourism association is looking to hire a young person with new ideas for tourism in your area. You would like to be considered for this job. Write a text for the association explaining why you want to join them, what new ideas you have for promoting an important tourist attraction in the area, and what personal qualities you have that make you an ideal person for the job.\n\n*Text type options:* Blog | Personal statement | Speech\n\n**Task 3.** Starting next month, your local council will introduce a law banning the use of all disposable plastic in your city. You want to help other students at your school prepare for this change. Write a text in which you explain why the law is being introduced, how the law will affect young people's day to day experience, and what you can all do to prepare for this change.\n\n*Text type options:* Guidelines | Review | Speech",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 30,
+      "criteria": "Language (up to 12 points): range and accuracy of vocabulary and grammar; clear, fluent expression appropriate for IB English B Higher Level.\nMessage (up to 12 points): all three parts of the chosen task are addressed and developed with relevant ideas and examples; length within 450–600 words.\nConceptual understanding (up to 6 points): the chosen text type is appropriate to the task and audience, with consistent register, tone and text-type conventions (e.g. headline, greeting, sign-off as appropriate).\nGrade only ONE task; if more than one task is attempted, grade only the first.",
+      "paperOnly": false
+    },
+    {
+      "id": "q2",
+      "sectionId": "s2",
+      "number": "1",
+      "type": "short_answer",
+      "prompt": "Choose the **four** true statements according to Text A. Write the four letters (e.g. \"A, B, C, D\").\n\nA. The selling of land close to cities is now subject to greater regulation.\nB. Nowadays, yards and woods have lost their appeal to children.\nC. Children are more likely to spend time in a yard than in the woods.\nD. Most researchers dispute the link between happiness and playing outdoors.\nE. Research suggests that children who play outdoors have fewer personal insecurities.\nF. There is no longer any doubt as to why nature makes children feel better.\nG. When children play outside, they are less constrained by a set of rules.\nH. Parents should still be in control when their children play outdoors.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "B, C, E, G",
+      "points": 4,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q3",
+      "sectionId": "s2",
+      "number": "2",
+      "type": "short_answer",
+      "prompt": "Find the words that complete the following sentence. Answer using the words as they appear in **paragraphs 3–5** of Text A.\n\nOnce out of the home, a child has many…",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "ways to interact (with nature)",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q4",
+      "sectionId": "s2",
+      "number": "3",
+      "type": "short_answer",
+      "prompt": "Find the words that complete the following sentence. Answer using the words as they appear in **paragraphs 3–5** of Text A.\n\nOutdoors, children play more creatively and, therefore, can use their environment…",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "in more inventive ways",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q5",
+      "sectionId": "s2",
+      "number": "4",
+      "type": "short_answer",
+      "prompt": "Find the words that complete the following sentence. Answer using the words as they appear in **paragraphs 3–5** of Text A.\n\nChildren soon learn that plants and animals cannot survive…",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "if mistreated or not taken care of (properly)",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q6",
+      "sectionId": "s2",
+      "number": "5",
+      "type": "multiple_choice",
+      "prompt": "Choose the appropriate heading from the list that completes gap **[ – 5 – ]** in Text A (paragraph 6).",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "It presents new possibilities",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "It aids wellbeing",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "It stimulates spontaneity",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "It generates curiosity",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "It teaches self-discipline",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "It builds confidence",
+          "image": null
+        },
+        {
+          "id": "G",
+          "text": "It replaces indifference with serenity",
+          "image": null
+        },
+        {
+          "id": "H",
+          "text": "It gives a sense of security",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q7",
+      "sectionId": "s2",
+      "number": "6",
+      "type": "multiple_choice",
+      "prompt": "Choose the appropriate heading from the list that completes gap **[ – 6 – ]** in Text A (paragraph 7).",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "It presents new possibilities",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "It aids wellbeing",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "It stimulates spontaneity",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "It generates curiosity",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "It teaches self-discipline",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "It builds confidence",
+          "image": null
+        },
+        {
+          "id": "G",
+          "text": "It replaces indifference with serenity",
+          "image": null
+        },
+        {
+          "id": "H",
+          "text": "It gives a sense of security",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q8",
+      "sectionId": "s2",
+      "number": "7",
+      "type": "multiple_choice",
+      "prompt": "Choose the appropriate heading from the list that completes gap **[ – 7 – ]** in Text A (paragraph 8).",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "It presents new possibilities",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "It aids wellbeing",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "It stimulates spontaneity",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "It generates curiosity",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "It teaches self-discipline",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "It builds confidence",
+          "image": null
+        },
+        {
+          "id": "G",
+          "text": "It replaces indifference with serenity",
+          "image": null
+        },
+        {
+          "id": "H",
+          "text": "It gives a sense of security",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "D",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q9",
+      "sectionId": "s2",
+      "number": "8",
+      "type": "multiple_choice",
+      "prompt": "Choose the appropriate heading from the list that completes gap **[ – 8 – ]** in Text A (paragraph 9).",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "It presents new possibilities",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "It aids wellbeing",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "It stimulates spontaneity",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "It generates curiosity",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "It teaches self-discipline",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "It builds confidence",
+          "image": null
+        },
+        {
+          "id": "G",
+          "text": "It replaces indifference with serenity",
+          "image": null
+        },
+        {
+          "id": "H",
+          "text": "It gives a sense of security",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "G",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q10",
+      "sectionId": "s2",
+      "number": "9",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct answer.\n\nThe writer concludes by saying that…",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "children should not spend time in front of screens.",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "children should look after the natural world better than at present.",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "children should spend equal amounts of time outside and online.",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "children should spend some of their free time outside the house.",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "D",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q11",
+      "sectionId": "s3",
+      "number": "10",
+      "type": "open_response",
+      "prompt": "The following statement is either true or false. State **True** or **False**, then justify your answer using words as they appear in Text B. Both parts are required for [1 mark].\n\nResearchers believe that Generation Z has great economic importance.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "Correct answer: True.\nValid justification (words from the text): \"(these Generation Z) consumers are a force to be reckoned with\" (accept a close quotation of this phrase).\nAward 1 point only if BOTH the True/False choice and the justification are correct; otherwise award 0.",
+      "paperOnly": false
+    },
+    {
+      "id": "q12",
+      "sectionId": "s3",
+      "number": "11",
+      "type": "open_response",
+      "prompt": "The following statement is either true or false. State **True** or **False**, then justify your answer using words as they appear in Text B. Both parts are required for [1 mark].\n\nA specific group of Generation Z consumers took part in the survey.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "Correct answer: False.\nValid justification (words from the text): \"(researchers questioned 227) randomly selected people\" (accept a close quotation showing the sample was random, not specific).\nAward 1 point only if BOTH the True/False choice and the justification are correct; otherwise award 0.",
+      "paperOnly": false
+    },
+    {
+      "id": "q13",
+      "sectionId": "s3",
+      "number": "12",
+      "type": "open_response",
+      "prompt": "The following statement is either true or false. State **True** or **False**, then justify your answer using words as they appear in Text B. Both parts are required for [1 mark].\n\nThe people surveyed were asked about their backgrounds.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "Correct answer: True.\nValid justification (words from the text): \"(the respondents were asked questions about) their demographics\" (accept a close quotation containing \"demographics\").\nAward 1 point only if BOTH the True/False choice and the justification are correct; otherwise award 0.",
+      "paperOnly": false
+    },
+    {
+      "id": "q14",
+      "sectionId": "s3",
+      "number": "13",
+      "type": "open_response",
+      "prompt": "The following statement is either true or false. State **True** or **False**, then justify your answer using words as they appear in Text B. Both parts are required for [1 mark].\n\nOnly a minority would be willing to eat laboratory produced meat at present.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "Correct answer: True.\nValid justification (words from the text): \"72 % of respondents were not yet ready to consume cultured meat\" (accept a close quotation of this).\nAward 1 point only if BOTH the True/False choice and the justification are correct; otherwise award 0.",
+      "paperOnly": false
+    },
+    {
+      "id": "q15",
+      "sectionId": "s3",
+      "number": "14",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct answer.\n\nJust under half of those questioned agreed that the important next step is to…",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "make animal rights and welfare the top priority.",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "make changes to the types of food we consume.",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "continue to examine the nutritional value of meat.",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "continue to look into producing meat substitutes.",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q16",
+      "sectionId": "s3",
+      "number": "15",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct answer.\n\nJust over half of participants wondered whether traditional meat production might be…",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "damaging to the wellbeing of the animals.",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "replaced by new farming methods very soon.",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "having some sort of effect on the environment.",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "a more sustainable option than cultured meat.",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q17",
+      "sectionId": "s3",
+      "number": "16",
+      "type": "short_answer",
+      "prompt": "To whom or to what does the underlined word refer? Answer using words as they appear in Text B.\n\n**They** discovered that… (line 12)",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "(the) researchers",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q18",
+      "sectionId": "s3",
+      "number": "17",
+      "type": "short_answer",
+      "prompt": "To whom or to what does the underlined word refer? Answer using words as they appear in Text B.\n\n…despite **their** lack of enthusiasm… (line 16)",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "(the) respondents / 72 % of respondents",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q19",
+      "sectionId": "s3",
+      "number": "18",
+      "type": "short_answer",
+      "prompt": "To whom or to what does the underlined word refer? Answer using words as they appear in Text B.\n\n…believed **it** could be… (line 17)",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "cultured meat / the new meat alternative",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q20",
+      "sectionId": "s3",
+      "number": "19",
+      "type": "short_answer",
+      "prompt": "To whom or to what does the underlined word refer? Answer using words as they appear in Text B.\n\n…**they** were determined… (line 23)",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "some respondents (who viewed cultured meat as a conspiracy)",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q21",
+      "sectionId": "s3",
+      "number": "20",
+      "type": "multiple_choice",
+      "prompt": "Choose the appropriate words from the list that complete gap **[ – 20 – ]** in the following text.\n\n\"According to the research, 17 % of participants stated that they would consume only **[ – 20 – ]**. 11 % of participants were in favour of rejecting all possible varieties of [ – 21 – ]. On the other hand, 35 % of those questioned would eat [ – 22 – ] because they were more natural. Another 28 % said they might eat [ – 23 – ] depending on whether it was produced in a way that was acceptable to them.\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "products containing chemicals",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "heavily processed meat",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "artificial meat",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "meat products",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "traditionally farmed meat",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "fruits and vegetables",
+          "image": null
+        },
+        {
+          "id": "G",
+          "text": "insect-based products",
+          "image": null
+        },
+        {
+          "id": "H",
+          "text": "plant-based substitutes",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "E",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q22",
+      "sectionId": "s3",
+      "number": "21",
+      "type": "multiple_choice",
+      "prompt": "Choose the appropriate words from the list that complete gap **[ – 21 – ]** in the following text.\n\n\"According to the research, 17 % of participants stated that they would consume only [ – 20 – ]. 11 % of participants were in favour of rejecting all possible varieties of **[ – 21 – ]**. On the other hand, 35 % of those questioned would eat [ – 22 – ] because they were more natural. Another 28 % said they might eat [ – 23 – ] depending on whether it was produced in a way that was acceptable to them.\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "products containing chemicals",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "heavily processed meat",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "artificial meat",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "meat products",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "traditionally farmed meat",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "fruits and vegetables",
+          "image": null
+        },
+        {
+          "id": "G",
+          "text": "insect-based products",
+          "image": null
+        },
+        {
+          "id": "H",
+          "text": "plant-based substitutes",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "D",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q23",
+      "sectionId": "s3",
+      "number": "22",
+      "type": "multiple_choice",
+      "prompt": "Choose the appropriate words from the list that complete gap **[ – 22 – ]** in the following text.\n\n\"According to the research, 17 % of participants stated that they would consume only [ – 20 – ]. 11 % of participants were in favour of rejecting all possible varieties of [ – 21 – ]. On the other hand, 35 % of those questioned would eat **[ – 22 – ]** because they were more natural. Another 28 % said they might eat [ – 23 – ] depending on whether it was produced in a way that was acceptable to them.\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "products containing chemicals",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "heavily processed meat",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "artificial meat",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "meat products",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "traditionally farmed meat",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "fruits and vegetables",
+          "image": null
+        },
+        {
+          "id": "G",
+          "text": "insect-based products",
+          "image": null
+        },
+        {
+          "id": "H",
+          "text": "plant-based substitutes",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "H",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q24",
+      "sectionId": "s3",
+      "number": "23",
+      "type": "multiple_choice",
+      "prompt": "Choose the appropriate words from the list that complete gap **[ – 23 – ]** in the following text.\n\n\"According to the research, 17 % of participants stated that they would consume only [ – 20 – ]. 11 % of participants were in favour of rejecting all possible varieties of [ – 21 – ]. On the other hand, 35 % of those questioned would eat [ – 22 – ] because they were more natural. Another 28 % said they might eat **[ – 23 – ]** depending on whether it was produced in a way that was acceptable to them.\"",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "products containing chemicals",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "heavily processed meat",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "artificial meat",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "meat products",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "traditionally farmed meat",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "fruits and vegetables",
+          "image": null
+        },
+        {
+          "id": "G",
+          "text": "insect-based products",
+          "image": null
+        },
+        {
+          "id": "H",
+          "text": "plant-based substitutes",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q25",
+      "sectionId": "s4",
+      "number": "24",
+      "type": "short_answer",
+      "prompt": "Answer the following question based on Text C.\n\nWhat is the defining feature of the work that Saeed's employers undertake?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "(the placement of) outdoor advertising",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q26",
+      "sectionId": "s4",
+      "number": "25",
+      "type": "short_answer",
+      "prompt": "Answer the following question based on Text C.\n\nWhich phrase in **lines 1–11** suggests that the company was negotiating an expansion of its operations?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "struck deals for further space",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q27",
+      "sectionId": "s4",
+      "number": "26",
+      "type": "short_answer",
+      "prompt": "Answer the following question based on Text C.\n\nWhat was the urgent task Saeed needed to complete before the end of the day?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "(turning around) a pitch to a local soap company (that had to go out by email before five)",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q28",
+      "sectionId": "s4",
+      "number": "27",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct answer.\n\nSaeed liked to \"customise his presentations\" (line 8). This tells us that he…",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "wanted to show his clients the creativity in his work.",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "produced work to be sent to overseas clients.",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "produced work to meet the needs of the client.",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "used an established formula to produce his work.",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q29",
+      "sectionId": "s4",
+      "number": "28",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct answer.\n\nWhat is Saeed's interpretation of his boss's advice, \"It's not a story if it doesn't have an audience\" (line 9)?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "The storyteller must hope that the audience pays attention to the story.",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "The audience will only pay attention when the story is relevant to them.",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "The storyteller should not just tell the audience what they want to hear.",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "The audience will not listen to a story unless the story is imaginative.",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q30",
+      "sectionId": "s4",
+      "number": "29",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct answer.\n\nSaeed liked to \"really get under their skin\" (line 11). This suggests that his approach involved understanding…",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "how the public felt about the client's company.",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "the financial health of the client's company.",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "the way the client's company was managed.",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "how the client's company felt about itself.",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "D",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q31",
+      "sectionId": "s4",
+      "number": "30",
+      "type": "short_answer",
+      "prompt": "Find the word or phrase in **lines 12–20** of Text C which means the following:\n\nincreasing",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "mounting",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q32",
+      "sectionId": "s4",
+      "number": "31",
+      "type": "short_answer",
+      "prompt": "Find the word or phrase in **lines 12–20** of Text C which means the following:\n\nalternating",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "interspersed",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q33",
+      "sectionId": "s4",
+      "number": "32",
+      "type": "short_answer",
+      "prompt": "Find the word or phrase in **lines 12–20** of Text C which means the following:\n\nwithout moving",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "(almost) stationary",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q34",
+      "sectionId": "s4",
+      "number": "33",
+      "type": "short_answer",
+      "prompt": "Find the word or phrase in **lines 12–20** of Text C which means the following:\n\nchanged direction",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "veered",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q35",
+      "sectionId": "s4",
+      "number": "34",
+      "type": "short_answer",
+      "prompt": "Find the words that complete the following sentence. Answer using the words as they appear in **lines 21–27** of Text C.\n\nAs the deadline approached, Saeed had to use some of his previous ideas because…",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "he was (at last) running out of time",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q36",
+      "sectionId": "s4",
+      "number": "35",
+      "type": "short_answer",
+      "prompt": "Find the words that complete the following sentence. Answer using the words as they appear in **lines 21–27** of Text C.\n\nSaeed knew the visual content of his work was substandard so he…",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "suppressed a wince (while sliding it over)",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q37",
+      "sectionId": "s4",
+      "number": "36",
+      "type": "short_answer",
+      "prompt": "Find the words that complete the following sentence. Answer using the words as they appear in **lines 21–27** of Text C.\n\nBefore returning the draft pitch to Saeed, his boss first…",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "jotted some minor edits (on the printout)",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q38",
+      "sectionId": "s4",
+      "number": "37",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct answer.\n\nWhy hasn't Saeed \"done a better job\" (lines 28–29) with the task that his boss has given him to do?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "He thinks the task is not very important.",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "He does not care about his boss's opinion.",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "He has spent his time at work daydreaming.",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "He has no talent for creating advertisements.",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    }
+  ],
+  "published": true,
+  "aiRules": null,
+  "importNotes": [
+    "Q1 (choose four true statements) is auto-marked against 'B, C, E, G' — grader should accept any order/format such as 'BCEG'",
+    "Paper 1 writing rubric (Language 12 / Message 12 / Conceptual understanding 6) was adapted from IB English B HL Paper 1 bands since the source contains no rubric — teacher should confirm the split",
+    "Several 'find the words' short answers have optional parenthetical parts (e.g. '(almost) stationary') — near-miss variants should be accepted",
+    "Paper 1 offers a choice of three writing tasks (complete ONE, 30 marks); modeled as a single 30-point open_response containing all three tasks so the total stays at the printed 70 (30+40) — if the platform prefers three separate optional questions this needs restructuring.",
+    "Paper 2 Q1 ('Choose the four true statements', [4 marks]) has four correct options, which the single-correctChoiceId MC schema cannot hold; modeled as a 4-point short_answer with key 'B, C, E, G'.",
+    "Q10-13 (true/false + textual justification, both parts required for 1 mark) modeled as open_response with the expected answer and justification in the grading criteria, since the two-part answer does not fit exact-match auto-marking.",
+    "Original line numbers of Texts B and C (referenced by Q16-19, 25, 30-36) are embedded as inline '[line N]' markers in the section passages because markdown reflows the text; markers verified against page-15.png and page-16.png.",
+    "All answer keys (correctChoiceId/answerKey) and open_response criteria are my own worked solutions, not an official IB markscheme — teacher review recommended, especially heading matches Q5-8 (A, B, D, G) and gap-fill Q20-23 (E, D, H, C).",
+    "Duration set to 150 min from the covers (Paper 1: 1 h 30 m + Paper 2: 1 h), matching the '2.5-hour' source filename; the platform cannot enforce the per-paper time split.",
+    "Extracted figures/ files are only decorative elements (checkboxes, barcodes, IB logos) and the source's stimulus photos were already removed ('Non-essential image removed'), so no question images were attached.",
+    "IB copyright page (page 1) and candidate session number boxes were skipped as boilerplate."
+  ],
+  "verified": true
+}

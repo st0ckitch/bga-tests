@@ -1,0 +1,731 @@
+{
+  "id": "p4-math-ka",
+  "title": "Mathematics — Grade 4 Entrance",
+  "titleKa": "მათემატიკა — IV კლასში მისაღები ტესტი",
+  "division": "primary",
+  "track": "entrance",
+  "grade": "4",
+  "subject": "math",
+  "language": "ka",
+  "durationMinutes": 60,
+  "instructions": null,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Test",
+      "instructions": null,
+      "passage": null,
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "sectionId": "s1",
+      "number": "1.1",
+      "type": "short_answer",
+      "prompt": "ჩაწერე ციფრებით:\n\nსამოცდათექვსმეტი ათას რვაას ოთხმოცდათერთმეტი",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "76891",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q2",
+      "sectionId": "s1",
+      "number": "1.2",
+      "type": "short_answer",
+      "prompt": "ჩაწერე ციფრებით:\n\nსამი მილიონ რვაას ოთხმოცი ათას ჩვიდმეტი",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "3880017",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q3",
+      "sectionId": "s1",
+      "number": "2",
+      "type": "short_answer",
+      "prompt": "მოცემული რიცხვი წარმოადგინე სათანრიგო ერთეულების ჯამის სახით:\n\n567 123 = ______ + ______ + ______ + ______ + ______ + ______",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "500000 + 60000 + 7000 + 100 + 20 + 3",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q4",
+      "sectionId": "s1",
+      "number": "3.1",
+      "type": "short_answer",
+      "prompt": "ჩაწერე მოცემული რიცხვის **წინა** რიცხვი:\n\nმოცემული რიცხვი — 9999",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "9998",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q5",
+      "sectionId": "s1",
+      "number": "3.2",
+      "type": "short_answer",
+      "prompt": "ჩაწერე მოცემული რიცხვის **მომდევნო** რიცხვი:\n\nმოცემული რიცხვი — 9999",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "10000",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q6",
+      "sectionId": "s1",
+      "number": "3.3",
+      "type": "short_answer",
+      "prompt": "ჩაწერე მოცემული რიცხვის **წინა** რიცხვი:\n\nმოცემული რიცხვი — 132548",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "132547",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q7",
+      "sectionId": "s1",
+      "number": "3.4",
+      "type": "short_answer",
+      "prompt": "ჩაწერე მოცემული რიცხვის **მომდევნო** რიცხვი:\n\nმოცემული რიცხვი — 132548",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "132549",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q8",
+      "sectionId": "s1",
+      "number": "4.1",
+      "type": "open_response",
+      "prompt": "ჩაწერე გამოსახულების სახით და გამოთვალე:\n\n25-ისა და 41-ის ნამრავლს დაუმატე 38-ისა და 14-ის ნამრავლი.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "სწორად ჩაწერილი გამოსახულება: 25 × 41 + 38 × 14.\nსწორი გამოთვლა: 1025 + 532 = 1557.\nსრული ქულა — გამოსახულებაც და საბოლოო შედეგიც (1557) სწორია; მხოლოდ სწორი გამოსახულება ან მხოლოდ სწორი პასუხი გამოსახულების გარეშე — ნახევარი ქულა.",
+      "paperOnly": false
+    },
+    {
+      "id": "q9",
+      "sectionId": "s1",
+      "number": "4.2",
+      "type": "short_answer",
+      "prompt": "წინა დავალებაში მიღებული შედეგი (25 × 41 + 38 × 14) დაამრგვალე **ათასეულამდე**.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "2000",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q10",
+      "sectionId": "s1",
+      "number": "5",
+      "type": "short_answer",
+      "prompt": "იპოვე რიცხვის განაყოფი და ნაშთი:\n\n7291 : 9",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "განაყოფი 810, ნაშთი 1",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q11",
+      "sectionId": "s1",
+      "number": "6",
+      "type": "open_response",
+      "prompt": "გიგიმ 25 000 ლარი მოიგო. მან ქველმოქმედებაში 8 500 ლარი დახარჯა, ხოლო 2 750 ლარით სკუტერი შეიძინა. რამდენი ლარი დარჩა გიგის? აჩვენე ამოხსნა და ჩაწერე პასუხი.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "სწორი მეთოდი: 25 000 − 8 500 − 2 750 (ან 25 000 − (8 500 + 2 750)).\nსწორი პასუხი: 13 750 ლარი.\nსრული ქულა — მეთოდიც და პასუხიც სწორია; მხოლოდ სწორი პასუხი ამოხსნის გარეშე — ნახევარი ქულა.",
+      "paperOnly": false
+    },
+    {
+      "id": "q12",
+      "sectionId": "s1",
+      "number": "7ა",
+      "type": "multiple_choice",
+      "prompt": "შეადარე რიცხვები — აირჩიე შესაბამისი ნიშანი (>, < ან =):\n\n54325 ___ 53245",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": ">",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "<",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "=",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q13",
+      "sectionId": "s1",
+      "number": "7ბ",
+      "type": "multiple_choice",
+      "prompt": "შეადარე რიცხვები — აირჩიე შესაბამისი ნიშანი (>, < ან =):\n\n44501 ___ 45401",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": ">",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "<",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "=",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q14",
+      "sectionId": "s1",
+      "number": "8.1",
+      "type": "multiple_choice",
+      "prompt": "დააკავშირე ერთმანეთს ერთნაირი მონაცემები — რომელია ტოლი მოცემულის?\n\n**5 მ** = ?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "5000 გრ",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "270 სმ",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "40 სმ",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "500 სმ",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "120 წთ",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "3 საუკუნე",
+          "image": null
+        },
+        {
+          "id": "G",
+          "text": "7300 მ",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "D",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q15",
+      "sectionId": "s1",
+      "number": "8.2",
+      "type": "multiple_choice",
+      "prompt": "დააკავშირე ერთმანეთს ერთნაირი მონაცემები — რომელია ტოლი მოცემულის?\n\n**4 დმ** = ?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "5000 გრ",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "270 სმ",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "40 სმ",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "500 სმ",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "120 წთ",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "3 საუკუნე",
+          "image": null
+        },
+        {
+          "id": "G",
+          "text": "7300 მ",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q16",
+      "sectionId": "s1",
+      "number": "8.3",
+      "type": "multiple_choice",
+      "prompt": "დააკავშირე ერთმანეთს ერთნაირი მონაცემები — რომელია ტოლი მოცემულის?\n\n**2 სთ** = ?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "5000 გრ",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "270 სმ",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "40 სმ",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "500 სმ",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "120 წთ",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "3 საუკუნე",
+          "image": null
+        },
+        {
+          "id": "G",
+          "text": "7300 მ",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "E",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q17",
+      "sectionId": "s1",
+      "number": "8.4",
+      "type": "multiple_choice",
+      "prompt": "დააკავშირე ერთმანეთს ერთნაირი მონაცემები — რომელია ტოლი მოცემულის?\n\n**2 მ 70 სმ** = ?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "5000 გრ",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "270 სმ",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "40 სმ",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "500 სმ",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "120 წთ",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "3 საუკუნე",
+          "image": null
+        },
+        {
+          "id": "G",
+          "text": "7300 მ",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q18",
+      "sectionId": "s1",
+      "number": "8.5",
+      "type": "multiple_choice",
+      "prompt": "დააკავშირე ერთმანეთს ერთნაირი მონაცემები — რომელია ტოლი მოცემულის?\n\n**300 წელი** = ?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "5000 გრ",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "270 სმ",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "40 სმ",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "500 სმ",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "120 წთ",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "3 საუკუნე",
+          "image": null
+        },
+        {
+          "id": "G",
+          "text": "7300 მ",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "F",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q19",
+      "sectionId": "s1",
+      "number": "8.6",
+      "type": "multiple_choice",
+      "prompt": "დააკავშირე ერთმანეთს ერთნაირი მონაცემები — რომელია ტოლი მოცემულის?\n\n**7 კმ 300 მ** = ?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "5000 გრ",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "270 სმ",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "40 სმ",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "500 სმ",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "120 წთ",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "3 საუკუნე",
+          "image": null
+        },
+        {
+          "id": "G",
+          "text": "7300 მ",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "G",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q20",
+      "sectionId": "s1",
+      "number": "8.7",
+      "type": "multiple_choice",
+      "prompt": "დააკავშირე ერთმანეთს ერთნაირი მონაცემები — რომელია ტოლი მოცემულის?\n\n**5 კგ** = ?",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "5000 გრ",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "270 სმ",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "40 სმ",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "500 სმ",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "120 წთ",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "3 საუკუნე",
+          "image": null
+        },
+        {
+          "id": "G",
+          "text": "7300 მ",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q21",
+      "sectionId": "s1",
+      "number": "9",
+      "type": "open_response",
+      "prompt": "მართკუთხედის პერიმეტრია 56 სმ. ერთი გვერდის სიგრძეა 56 სმ, გაიგე მეორე გვერდის სიგრძე. აჩვენე ამოხსნა.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "შენიშვნა შემფასებელს: წყაროს მონაცემები, სავარაუდოდ, მცდარია (გვერდი ვერ იქნება პერიმეტრის ტოლი).\nშეაფასე მეთოდი: მეორე გვერდი = (პერიმეტრი − 2 × ცნობილი გვერდი) ÷ 2, ანუ P = 2 × (a + b)-ის სწორი გამოყენება.\nქულა მიენიჭოს სწორი მეთოდისთვის ან იმის დასაბუთებული აღნიშვნისთვის, რომ ასეთი მართკუთხედი შეუძლებელია.",
+      "paperOnly": false
+    },
+    {
+      "id": "q22",
+      "sectionId": "s1",
+      "number": "10 (N1)",
+      "type": "short_answer",
+      "prompt": "დაასახელე სურათზე მოცემული სივრცული გეომეტრიული ფიგურა **N1**. (ფიგურები დანომრილია მარცხნიდან მარჯვნივ, ზემოდან ქვემოთ.)",
+      "image": "/assets/p4-math-ka/media/image2.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "პირამიდა",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q23",
+      "sectionId": "s1",
+      "number": "10 (N2)",
+      "type": "short_answer",
+      "prompt": "დაასახელე სურათზე მოცემული სივრცული გეომეტრიული ფიგურა **N2**. (ფიგურები დანომრილია მარცხნიდან მარჯვნივ, ზემოდან ქვემოთ.)",
+      "image": "/assets/p4-math-ka/media/image2.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "კუბი",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q24",
+      "sectionId": "s1",
+      "number": "10 (N3)",
+      "type": "short_answer",
+      "prompt": "დაასახელე სურათზე მოცემული სივრცული გეომეტრიული ფიგურა **N3**. (ფიგურები დანომრილია მარცხნიდან მარჯვნივ, ზემოდან ქვემოთ.)",
+      "image": "/assets/p4-math-ka/media/image2.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "კონუსი",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q25",
+      "sectionId": "s1",
+      "number": "10 (N4)",
+      "type": "short_answer",
+      "prompt": "დაასახელე სურათზე მოცემული სივრცული გეომეტრიული ფიგურა **N4**. (ფიგურები დანომრილია მარცხნიდან მარჯვნივ, ზემოდან ქვემოთ.)",
+      "image": "/assets/p4-math-ka/media/image2.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "პრიზმა",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q26",
+      "sectionId": "s1",
+      "number": "10 (N5)",
+      "type": "short_answer",
+      "prompt": "დაასახელე სურათზე მოცემული სივრცული გეომეტრიული ფიგურა **N5**. (ფიგურები დანომრილია მარცხნიდან მარჯვნივ, ზემოდან ქვემოთ.)",
+      "image": "/assets/p4-math-ka/media/image2.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "ცილინდრი",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q27",
+      "sectionId": "s1",
+      "number": "10 (N6)",
+      "type": "short_answer",
+      "prompt": "დაასახელე სურათზე მოცემული სივრცული გეომეტრიული ფიგურა **N6**. (ფიგურები დანომრილია მარცხნიდან მარჯვნივ, ზემოდან ქვემოთ.)",
+      "image": "/assets/p4-math-ka/media/image2.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "პირამიდა",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q28",
+      "sectionId": "s1",
+      "number": "10 (N7)",
+      "type": "short_answer",
+      "prompt": "დაასახელე სურათზე მოცემული სივრცული გეომეტრიული ფიგურა **N7**. (ფიგურები დანომრილია მარცხნიდან მარჯვნივ, ზემოდან ქვემოთ.)",
+      "image": "/assets/p4-math-ka/media/image2.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "პრიზმა",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q29",
+      "sectionId": "s1",
+      "number": "10 (N8)",
+      "type": "short_answer",
+      "prompt": "დაასახელე სურათზე მოცემული სივრცული გეომეტრიული ფიგურა **N8**. (ფიგურები დანომრილია მარცხნიდან მარჯვნივ, ზემოდან ქვემოთ.)",
+      "image": "/assets/p4-math-ka/media/image2.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "პირამიდა",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    }
+  ],
+  "published": true,
+  "aiRules": null,
+  "importNotes": [
+    "Q9 (number 9) source text is self-contradictory: perimeter 56 cm and one side 56 cm — likely a typo in the original DOCX; grading criteria instruct crediting correct method, but teacher should confirm intended numbers",
+    "No printed marks in the source — every question defaulted to 1 point (total 29); teacher should confirm weighting",
+    "Duration not stated in source — defaulted to 60 minutes for primary",
+    "Q10 figures are unnumbered in the source image; digital version numbers them N1–N8 left-to-right, top-to-bottom (noted in each prompt); teacher may accept synonyms (e.g. სამკუთხა პრიზმა, მართკუთხა პარალელეპიპედი)",
+    "No marks are printed anywhere in the source, so every question was set to 1 point (total 29); teacher should confirm the intended weighting.",
+    "Duration is not stated in the document; defaulted to 60 minutes (primary).",
+    "Task 9 source data appears erroneous: perimeter 56 cm with one side 56 cm is impossible (likely a typo, e.g. side 16 cm). Original text kept, no answer key; grader criteria instruct to credit correct method or a justified 'impossible' answer.",
+    "Task 10's picture (media/image2.png) shows 8 solids without N1–N8 labels; numbering was assumed left-to-right, top-to-bottom, and this assumption was added to each prompt. Keys use basic names (pyramid/cube/cone/prism/cylinder); accept qualified variants like 'სამკუთხა პრიზმა'/'ექვსკუთხა პრიზმა', and N2 was assumed to be a cube rather than a rectangular parallelepiped.",
+    "Task 8 (line-matching of equal quantities) was converted to 7 multiple-choice items sharing the same 7 options, per the matching rule.",
+    "Task 3 (previous/next numbers table) was split into 4 separate short answers; task 7 (compare with >, <, =) was converted to multiple choice with sign options.",
+    "Task 2 answer key is the place-value sum 500000 + 60000 + 7000 + 100 + 20 + 3 — accept the addends in any order.",
+    "Task 4.2 (rounding) depends on the result of 4.1; the needed expression was repeated in the prompt so it can stand alone.",
+    "Working-grid boxes and blank answer lines from the paper layout were dropped as non-content."
+  ],
+  "verified": true
+}

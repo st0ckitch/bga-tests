@@ -1,0 +1,322 @@
+{
+  "id": "s9-geo-ent",
+  "title": "Georgian Language & Literature — Grade 9 Entrance",
+  "titleKa": "ქართული ენა და ლიტერატურა — IX კლასი (მისაღები)",
+  "division": "secondary",
+  "track": "entrance",
+  "grade": "9",
+  "subject": "georgian",
+  "language": "ka",
+  "durationMinutes": 80,
+  "instructions": null,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "ტესტი",
+      "instructions": null,
+      "passage": null,
+      "image": null
+    },
+    {
+      "id": "s2",
+      "title": "წერითი დავალება",
+      "instructions": "წაიკითხეთ და გააანალიზეთ მოცემული ტექსტი. თხზულების წერის დაწყებამდე უპასუხეთ შემდეგ კითხვებს (სულ 3 ქულა), შემდეგ კი დაწერეთ ესე მითითებების მიხედვით.",
+      "passage": "„იყიდება საქართველო. მინდორ–ველით, მთა–გორით, ტყით, ვენახით, სათესით; წარსულის ისტორიით, მომავალი სვე–ბედით; მშვენიერის ენით; ნაქარგი ფარჩა–ხავერდით; ვაჟკაცურის ხასიათით; სტუმართმოყვარეობით; დიდებულის სანახაობით, წმინდა ჰაერით; ნაამაგევი სახლით და კარით; ჩუქურთმიანი მონასტრებით და ეკლესიებით, მჩქეფარე ნაკადულებით; ლურჯის ზღვით; მოწმენდილ, მოკაშკაშებული ცით; ერით; ბერით; თვალწარმტაც ბანოვანთა გუნდებით; გონებაგახსნილ ვაჟებით; მალხაზი ბავშვებით; ვერცხლისფერ თმით შემოსილ პატივსადებ მოხუცებით. იყიდება საქართველო დედით და მამით, შვილით და ძირით, ძმით, დით, ცოლით და ნათესავ–მოყვრებით.\n\nჰყიდის ყველა: თავადი, მღვდელი, ვაჭარი, ავაზაკი, დიდი და პატარა, ჭკვიანი და სულელი, ლოთი და პირაკრული.\n\nიყიდება ყველგან: ქუჩაში და სახლში, თეატრში, სასამართლოში, სასწავლებელში, სატუსაღოში, ეტლში, მატარებელში, დილით და ღამით, სიცხეში და სიცივეში, დარში და ავდარში.\n\nიყიდება ერთიანად: შავი ზღვიდან კასპიის ზღვამდე და ოსეთიდან სპარსეთამდე. იყიდება ნაწილ–ნაწილ: კახეთი და იმერეთი, ქართლი, სვანეთი და სამეგრელო, გურია და ლეჩხუმი, რაჭა და ჯავახეთი. იყიდება პატარ–პატარა ნაჭრებად, ვისაც რამდენი სურს და როგორ უნდა: ნისიად, უფასოდ, ნაღდად, დროებით და სამუდამოდ; ბანკის დახმარებით და ჩვენის საშუალებით.\n\nიყიდეთ ბარემ მთლად, გაწეწეთ და გაგლიჯეთ, რასაც საქართველო ერქვა და რაც დღეს ოხრად დარჩენილი აძღებს ყორნებს და გულს უკლავს უძლურ ჭირისუფალს!“",
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "sectionId": "s1",
+      "number": "1.1",
+      "type": "multiple_choice",
+      "prompt": "ჩამოთვლილთაგან რომელი ფრაზეოლოგიზმი ჩაენაცვლება ტექსტში ხაზგასმულ (აქ — მუქად აღნიშნულ) სიტყვებს?\n\n„სპარსეთის შაჰს – შაჰ აბას პირველს **ძალიან მოეწონა** წერეთლის ასული.“",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "ვარსკვლავის მოწყვეტა",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "სახელის გატეხა",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "სახელის გავარდნა",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "სახტად დატოვება",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "ხორცის შესხმა",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "ბადეში გაბმა",
+          "image": null
+        },
+        {
+          "id": "G",
+          "text": "თავის დაღწევა",
+          "image": null
+        },
+        {
+          "id": "H",
+          "text": "თვალის დადგმა",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "H",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q2",
+      "sectionId": "s1",
+      "number": "1.2",
+      "type": "multiple_choice",
+      "prompt": "ჩამოთვლილთაგან რომელი ფრაზეოლოგიზმი ჩაენაცვლება ტექსტში ხაზგასმულ (აქ — მუქად აღნიშნულ) სიტყვებს?\n\n„მან გადაწყვიტა, **ჩანაფიქრი განეხორციელებინა** და იმერეთის ბატონს წერილი მისწერა.“",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "ვარსკვლავის მოწყვეტა",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "სახელის გატეხა",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "სახელის გავარდნა",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "სახტად დატოვება",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "ხორცის შესხმა",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "ბადეში გაბმა",
+          "image": null
+        },
+        {
+          "id": "G",
+          "text": "თავის დაღწევა",
+          "image": null
+        },
+        {
+          "id": "H",
+          "text": "თვალის დადგმა",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "E",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q3",
+      "sectionId": "s1",
+      "number": "1.3",
+      "type": "multiple_choice",
+      "prompt": "ჩამოთვლილთაგან რომელი ფრაზეოლოგიზმი ჩაენაცვლება ტექსტში ხაზგასმულ (აქ — მუქად აღნიშნულ) სიტყვას?\n\n„...შენი **ულამაზესი** ასული სპარსეთში მაახლეო.“",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "ვარსკვლავის მოწყვეტა",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "სახელის გატეხა",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "სახელის გავარდნა",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "სახტად დატოვება",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "ხორცის შესხმა",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "ბადეში გაბმა",
+          "image": null
+        },
+        {
+          "id": "G",
+          "text": "თავის დაღწევა",
+          "image": null
+        },
+        {
+          "id": "H",
+          "text": "თვალის დადგმა",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q4",
+      "sectionId": "s1",
+      "number": "1.4",
+      "type": "multiple_choice",
+      "prompt": "ჩამოთვლილთაგან რომელი ფრაზეოლოგიზმი ჩაენაცვლება ტექსტში ხაზგასმულ (აქ — მუქად აღნიშნულ) სიტყვას?\n\n„იმერეთის ბატონმა დიდი წვალებით **გამოიხსნა** ერთადერთი ასული შაჰის ხელიდან.“",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "ვარსკვლავის მოწყვეტა",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "სახელის გატეხა",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "სახელის გავარდნა",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "სახტად დატოვება",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "ხორცის შესხმა",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "ბადეში გაბმა",
+          "image": null
+        },
+        {
+          "id": "G",
+          "text": "თავის დაღწევა",
+          "image": null
+        },
+        {
+          "id": "H",
+          "text": "თვალის დადგმა",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "G",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q5",
+      "sectionId": "s1",
+      "number": "2",
+      "type": "open_response",
+      "prompt": "ტექსტში დაშვებულია სულ 8 მორფოლოგიურ–ორთოგრაფიული და პუნქტუაციური შეცდომა. შეასწორეთ ისინი და გადმოწერეთ ტექსტი:\n\nპირველი ხელსაწყო რომლითაც ადამიანმა დრო გაზომა იყო გნომონი. ძველ საბერძნეთში და ეგვიპტეში იყენებდნენ იმავე პრინციპით მომუშავე მზის საათს რომელსაც ქონდა ვერტიკალურ და ჰორიზონტალურ–დანაყოფებიანი ციფერბლატი. გნომონი განსაკუთრებით აფიქსირებდა შუა დღეს თავისი ერთერთი ღერძის მეშვეობით.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 8,
+      "criteria": "თითოეული სწორად შესწორებული შეცდომა — 1 ქულა (სულ 8 ქულა).\nსავარაუდო შეცდომები: (1) „ხელსაწყო, რომლითაც“ — მძიმე; (2) „დრო გაზომა, იყო“ — დამოკიდებული წინადადების ჩამკეტი მძიმე; (3) „ძველ საბერძნეთსა და ეგვიპტეში“; (4) „საათს, რომელსაც“ — მძიმე; (5) „ჰქონდა“ (და არა „ქონდა“); (6) „ვერტიკალურ– და ჰორიზონტალურდანაყოფებიანი“ — დეფისის სწორი გამოყენება; (7) „შუადღეს“ — ერთად დაწერა; (8) „ერთ–ერთი“ — დეფისით.\nტექსტი სრულად უნდა იყოს გადმოწერილი; ახალი შეცდომების დაშვებისას შესაბამისი ქულა არ ეწერება.",
+      "paperOnly": false
+    },
+    {
+      "id": "q6",
+      "sectionId": "s2",
+      "number": "1",
+      "type": "open_response",
+      "prompt": "მინიატურის მიხედვით, ვინ არის საქართველოს „გამყიდველი“ და „მყიდველი“?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "ქულა ეწერება, თუ მოსწავლე ტექსტზე დაყრდნობით ასახელებს ორივეს:\n— „გამყიდველი“: ყველა, მთელი საზოგადოება — თავადი, მღვდელი, ვაჭარი, ავაზაკი, დიდი და პატარა...;\n— „მყიდველი“: ნებისმიერი მსურველი — „ვისაც რამდენი სურს და როგორ უნდა“ (მათ შორის უცხო ძალები/ბანკი).",
+      "paperOnly": false
+    },
+    {
+      "id": "q7",
+      "sectionId": "s2",
+      "number": "2",
+      "type": "open_response",
+      "prompt": "ახსენით: „(საქართველო) ოხრად დარჩენილი აძღებს ყორნებს და გულს უკლავს უძლურ ჭირისუფალს“.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 2,
+      "criteria": "1 ქულა — მოსწავლე ხსნის სახეს „ოხრად დარჩენილი აძღებს ყორნებს“: მიტოვებული, უპატრონოდ დარჩენილი ქვეყანა ნადგურდება და იტაცებენ/ინაწილებენ მას (ყორნები — მტაცებლები, გამძარცველები).\n1 ქულა — ხსნის „გულს უკლავს უძლურ ჭირისუფალს“: ქვეყნის ჭეშმარიტ მოყვარულს (პატრიოტს) გული სტკივა, მაგრამ უძლურია, ვერაფერს ცვლის.",
+      "paperOnly": false
+    },
+    {
+      "id": "q8",
+      "sectionId": "s2",
+      "number": "ესე",
+      "type": "open_response",
+      "prompt": "დაწერეთ ესე შემდეგი მითითებების მიხედვით (მინიმუმ 150 სიტყვა):\n\n- იმსჯელეთ, როგორ წარმოჩინდება საქართველოს მდგომარეობა;\n- იმსჯელეთ, როგორ წარმოჩინდებიან ქართველები;\n- თქვენი აზრით, რა არის ამ მინიატურის მთავარი სათქმელი.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 15,
+      "criteria": "მაქს. 4 ქულა — ტექსტზე დაყრდნობით მსჯელობს, როგორ წარმოჩინდება საქართველოს მდგომარეობა (გასაყიდი, დანაწევრებული, უპატრონო ქვეყანა).\nმაქს. 4 ქულა — მსჯელობს, როგორ წარმოჩინდებიან ქართველები (ყველა ფენა ჰყიდის სამშობლოს; გულგრილობა, პასუხისმგებლობის დაკარგვა).\nმაქს. 4 ქულა — აყალიბებს მინიატურის მთავარ სათქმელს (სამშობლოს ღალატის/გაყიდვის მხილება, პატრიოტული გაფრთხილება) და საკუთარ დასაბუთებულ პოზიციას.\nმაქს. 3 ქულა — აგებულება, ენობრივი გამართულობა, ორთოგრაფია–პუნქტუაცია.\nმოთხოვნილი მოცულობა მინიმუმ 150 სიტყვაა — მკვეთრად მოკლე ნაშრომს ქულა შესაბამისად აკლდება.",
+      "paperOnly": false
+    }
+  ],
+  "published": true,
+  "aiRules": null,
+  "importNotes": [
+    "Source prints a combined '(3)' for the two pre-essay questions; the 1+2 split between q6 and q7 is an assumption — teacher should confirm.",
+    "Source counts 5 questions; Q1 (4 pts) was split into four 1-point MC items q1–q4, so the platform shows 8 questions (total points unchanged).",
+    "q5 criteria list a reconstructed set of the 8 morphological/punctuation errors (marked 'სავარაუდო') — confirm against the official key.",
+    "Essay rubric breakdown (4/4/4/3 of 15) was authored for AI grading; source provides no rubric.",
+    "Source Q1 is a matching exercise (4 underlined phrases, 8 phraseologism options, 4 points, counted as one question in the source); per the guide it was split into four 1-point multiple-choice items numbered 1.1-1.4, so the JSON has 8 question objects while the source footer says 5 questions. Points still sum to the source's stated 30.",
+    "MC keys were solved by the parser: 1.1 -> H (თვალის დადგმა), 1.2 -> E (ხორცის შესხმა), 1.3 -> A (ვარსკვლავის მოწყვეტა), 1.4 -> G (თავის დაღწევა). Key 1.3 (ულამაზესი -> ვარსკვლავის მოწყვეტა) is the least certain and should be verified by the teacher.",
+    "The two pre-essay comprehension questions share one jointly printed mark '(3)'; the split into 1 point (who sells/buys) + 2 points (explain the quote) is inferred, not printed — verify.",
+    "Q2 (error-correction, 8 points) criteria list the parser's own derivation of the 8 intended errors (commas before/after relative clauses, საბერძნეთსა და, ჰქონდა, hyphenation of ვერტიკალურ-/ჰორიზონტალურდანაყოფებიანი, შუადღეს, ერთ-ერთი); the source does not provide an answer key, so a teacher should confirm the list.",
+    "Underlining in source Q1 cannot be rendered in markdown; underlined phrases are shown in bold with a bracket-style note in each prompt.",
+    "Duration set to 80 minutes from the cover line 'დრო: 1 საათი 20 წუთი'.",
+    "The first two tasks have no part name in the source, so they were placed in a section titled 'ტესტი'; the writing block keeps its source name 'წერითი დავალება' with the 'იყიდება საქართველო' miniature as the section passage."
+  ],
+  "verified": true
+}

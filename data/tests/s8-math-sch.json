@@ -1,0 +1,904 @@
+{
+  "id": "s8-math-sch",
+  "title": "Mathematics — Grade 8 Scholarship",
+  "titleKa": null,
+  "division": "secondary",
+  "track": "scholarship",
+  "grade": "8",
+  "subject": "math",
+  "language": "en",
+  "durationMinutes": 120,
+  "instructions": null,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Test",
+      "instructions": null,
+      "passage": null,
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "sectionId": "s1",
+      "number": "1",
+      "type": "short_answer",
+      "prompt": "Expand the brackets.\n\n5x(x + 4)",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "5x² + 20x",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q2",
+      "sectionId": "s1",
+      "number": "2",
+      "type": "short_answer",
+      "prompt": "Rajiv sells three different sizes of cups of coffee in the ratio\n\nlarge : medium : small = 3 : 9 : 2\n\nHe sells 238 cups of coffee in total.\n\nWork out how many **small** cups of coffee Rajiv sells.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "34",
+      "points": 2,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q3",
+      "sectionId": "s1",
+      "number": "3",
+      "type": "short_answer",
+      "prompt": "Here is an inequality.\n\nx ≤ 7\n\nWrite down the greatest possible value of x.\n\nx = ______",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "7",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q4",
+      "sectionId": "s1",
+      "number": "4",
+      "type": "multiple_choice",
+      "prompt": "Here is a compound shape made from a triangle and a rectangle (see the diagram, NOT TO SCALE).\n\nAnastasia wants to work out the area of this shape.\n\nChoose the side length she does **not** need to use.",
+      "image": "/assets/s8-math-sch/page-02.png",
+      "choices": [
+        {
+          "id": "A",
+          "text": "7 cm",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "8 cm",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "10 cm",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "13 cm",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q5",
+      "sectionId": "s1",
+      "number": "5",
+      "type": "short_answer",
+      "prompt": "Gabriella says,\n\n'I start with a number, I square it and the answer is 169'\n\nFind the **two** possible numbers Gabriella could have started with.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "13 and -13",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q6",
+      "sectionId": "s1",
+      "number": "6",
+      "type": "short_answer",
+      "prompt": "A vase contains flowers that are white or red or pink only.\nA flower is picked at random from the vase.\nThe probabilities of picking each colour of flower are shown in the table.\n\n| White | Red | Pink |\n|-------|-----|------|\n| 0.15  | 0.05 | 0.8 |\n\nFind the probability of **not** picking a red flower.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "0.95",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q7",
+      "sectionId": "s1",
+      "number": "7",
+      "type": "short_answer",
+      "prompt": "Rearrange the formula to make x the subject.\n\nm = (x + y)/2\n\nx = ______",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "2m - y",
+      "points": 2,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q8",
+      "sectionId": "s1",
+      "number": "8",
+      "type": "short_answer",
+      "prompt": "An expression, in cm, for the width of a rectangle is   x + 3\nThe length of the rectangle is twice the width.\n\nFind, in terms of x, an expression for the perimeter of the rectangle.\nGive your answer in its simplest form.\n\n______ cm",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "6x + 18",
+      "points": 2,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q9",
+      "sectionId": "s1",
+      "number": "9",
+      "type": "short_answer",
+      "prompt": "Here is the net of a square-based pyramid (NOT TO SCALE). The base is a square of side 12 cm, and the perpendicular height of each triangular face in the net is 7 cm.\n\nThe top vertex of the pyramid is directly above the centre of the base.\n\nCalculate the total surface area of the pyramid, in cm².",
+      "image": "/assets/s8-math-sch/figures/p04-fig1.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "312",
+      "points": 2,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q10",
+      "sectionId": "s1",
+      "number": "10(a)",
+      "type": "multiple_choice",
+      "prompt": "Yuri has four sets of numbered cards, A, B, C and D (see the picture: Set A = 1, 2, 3, 4; Set B = 1, 2, 3; Set C = 1, 1, 2; Set D = 1, 2, 3, 3, 4).\n\nYuri chooses **one** of the sets of cards.\nHe picks one card at random from this set and replaces it.\nHe does this a total of 600 times from the same set.\nYuri picks the number 1 a total of 118 times.\n\nChoose the set Yuri is most likely to have chosen.",
+      "image": "/assets/s8-math-sch/page-05.png",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Set A",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Set B",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Set C",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Set D",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "D",
+      "answerKey": null,
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q11",
+      "sectionId": "s1",
+      "number": "10(b)(i)",
+      "type": "open_response",
+      "prompt": "Yuri picks one card at random from set A (cards 1, 2, 3, 4) and one card at random from set C (cards 1, 1, 2).\nHe adds the numbers on the two cards together.\n\nHe starts to draw this sample space diagram to show all the possible outcomes:\n\n| + (Set A ↓ / Set C →) | 1 | ? | ? |\n|---|---|---|---|\n| **1** |   |   |   |\n| **2** |   |   |   |\n| **3** | 4 |   |   |\n| **4** |   |   |   |\n\nComplete the diagram: type the two missing Set C column headings and all the missing totals, row by row.",
+      "image": "/assets/s8-math-sch/figures/p05-fig5.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 2,
+      "criteria": "Correct completed diagram: Set C column headings are 1, 1, 2; totals row for A=1: 2, 2, 3; A=2: 3, 3, 4; A=3: 4, 4, 5; A=4: 5, 5, 6.\n2 points: all missing headings and totals correct.\n1 point: at most two errors or omissions.\n0 points otherwise.",
+      "paperOnly": false
+    },
+    {
+      "id": "q12",
+      "sectionId": "s1",
+      "number": "10(b)(ii)",
+      "type": "short_answer",
+      "prompt": "Yuri picks one card at random from set A (cards 1, 2, 3, 4) and one card at random from set C (cards 1, 1, 2). He adds the numbers on the two cards together.\n\nFind the probability Yuri gets a total of 3 when he adds the numbers on his two cards together.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "1/4",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q13",
+      "sectionId": "s1",
+      "number": "11(a)",
+      "type": "multiple_choice",
+      "prompt": "The diagram shows shape ABCDEFG drawn on a grid.\n\nMatch the equation **y = 3** to the correct line.",
+      "image": "/assets/s8-math-sch/figures/p06-fig1.png",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Line through F and G",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Line through C and D",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Line through D and E",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Line through B and E",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Line through A and F",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "Line through A and B",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "D",
+      "answerKey": null,
+      "points": 0.5,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q14",
+      "sectionId": "s1",
+      "number": "11(a)",
+      "type": "multiple_choice",
+      "prompt": "The diagram shows shape ABCDEFG drawn on a grid.\n\nMatch the equation **x = 0** to the correct line.",
+      "image": "/assets/s8-math-sch/figures/p06-fig1.png",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Line through F and G",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Line through C and D",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Line through D and E",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Line through B and E",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Line through A and F",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "Line through A and B",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "F",
+      "answerKey": null,
+      "points": 0.5,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q15",
+      "sectionId": "s1",
+      "number": "11(a)",
+      "type": "multiple_choice",
+      "prompt": "The diagram shows shape ABCDEFG drawn on a grid.\n\nMatch the equation **x = 5** to the correct line.",
+      "image": "/assets/s8-math-sch/figures/p06-fig1.png",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Line through F and G",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Line through C and D",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Line through D and E",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Line through B and E",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Line through A and F",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "Line through A and B",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 0.5,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q16",
+      "sectionId": "s1",
+      "number": "11(a)",
+      "type": "multiple_choice",
+      "prompt": "The diagram shows shape ABCDEFG drawn on a grid.\n\nMatch the equation **y = 0** to the correct line.",
+      "image": "/assets/s8-math-sch/figures/p06-fig1.png",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Line through F and G",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Line through C and D",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Line through D and E",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Line through B and E",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Line through A and F",
+          "image": null
+        },
+        {
+          "id": "F",
+          "text": "Line through A and B",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 0.5,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q17",
+      "sectionId": "s1",
+      "number": "11(b)",
+      "type": "short_answer",
+      "prompt": "The diagram shows shape ABCDEFG drawn on a grid.\n\nWrite down the equation of the line through E and F.",
+      "image": "/assets/s8-math-sch/figures/p06-fig1.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "y = x",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q18",
+      "sectionId": "s1",
+      "number": "12",
+      "type": "multiple_choice",
+      "prompt": "Mia writes down five whole numbers.\nShe picks one of the numbers at random.\nOutcome E is she picks an even number.\nOutcome O is she picks an odd number.\n\nShow if this statement must be true, could be true or must be false:\n\n**Outcome E is more likely to happen than outcome O**",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "Must be true",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Could be true",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Must be false",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 0.5,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q19",
+      "sectionId": "s1",
+      "number": "12",
+      "type": "multiple_choice",
+      "prompt": "Mia writes down five whole numbers.\nShe picks one of the numbers at random.\nOutcome E is she picks an even number.\nOutcome O is she picks an odd number.\n\nShow if this statement must be true, could be true or must be false:\n\n**Outcome E and outcome O can happen at the same time**",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "Must be true",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Could be true",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Must be false",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 0.5,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q20",
+      "sectionId": "s1",
+      "number": "13",
+      "type": "short_answer",
+      "prompt": "Ahmed makes scale drawings of the front view, side view and plan view of a prism, and then sketches a 3D-drawing of the prism (see the page image, NOT TO SCALE). The depth of the prism marked on the 3D-drawing is 25 cm.\n\nWork out the first missing length in the 3D-drawing: the **horizontal length across the top** of the prism, in cm.",
+      "image": "/assets/s8-math-sch/page-08.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "35",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q21",
+      "sectionId": "s1",
+      "number": "13",
+      "type": "short_answer",
+      "prompt": "Ahmed makes scale drawings of the front view, side view and plan view of a prism, and then sketches a 3D-drawing of the prism (see the page image, NOT TO SCALE). The depth of the prism marked on the 3D-drawing is 25 cm.\n\nWork out the second missing length in the 3D-drawing: the **vertical height of the top part** of the prism (marked on the right of the drawing), in cm.",
+      "image": "/assets/s8-math-sch/page-08.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "10",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q22",
+      "sectionId": "s1",
+      "number": "14",
+      "type": "short_answer",
+      "prompt": "Here is a function machine.\n\nInput (x) → [× 3] → [− 5] → Output (y)\n\nComplete the table showing inputs and outputs for the function machine.\n\n| Input (x) | Output (y) |\n|---|---|\n| −10 | ? |\n\nWhat is the output when the input is −10?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "-35",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q23",
+      "sectionId": "s1",
+      "number": "14",
+      "type": "short_answer",
+      "prompt": "Here is a function machine.\n\nInput (x) → [× 3] → [− 5] → Output (y)\n\nComplete the table showing inputs and outputs for the function machine.\n\n| Input (x) | Output (y) |\n|---|---|\n| ? | 7 |\n\nWhat is the input when the output is 7?",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "4",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q24",
+      "sectionId": "s1",
+      "number": "15(a)",
+      "type": "open_response",
+      "prompt": "Lily wants to investigate the favourite gym equipment of members of her gym.\n\nThere are 700 adults and 50 children who are members of her gym.\nLily decides to sample 30 adults and 30 children.\n\nGive one reason why this may **not** be an appropriate sample to choose.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "1 point for a valid reason, e.g.: the sample is not proportional to the population — children are heavily over-represented (30 of 50 children but only 30 of 700 adults); or the sample does not fairly represent adults and children in the same proportion as the membership.\nAccept any equivalent statement about the sample being unrepresentative/biased with respect to the adult:child proportions.",
+      "paperOnly": false
+    },
+    {
+      "id": "q25",
+      "sectionId": "s1",
+      "number": "15(b)",
+      "type": "open_response",
+      "prompt": "Lily decides to interview the members of her sample instead of giving them a questionnaire.\n\nWrite down one advantage of this method.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "1 point for a valid advantage of an interview over a questionnaire, e.g.: questions can be explained/clarified; follow-up questions can be asked; higher response rate / everyone in the sample answers; answers are more likely to be complete or honest with the interviewer present.\nAccept any equivalent sensible advantage.",
+      "paperOnly": false
+    },
+    {
+      "id": "q26",
+      "sectionId": "s1",
+      "number": "16",
+      "type": "short_answer",
+      "prompt": "A box contains green, red and black pens only.\nThe proportion of the pens that are green is 5/12.\nThe proportion of the pens that are red is 1/3.\n\nFind the ratio of green to red to black pens.\nGive the ratio in its simplest form.\n\n______ : ______ : ______",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "5 : 4 : 3",
+      "points": 2,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q27",
+      "sectionId": "s1",
+      "number": "17",
+      "type": "short_answer",
+      "prompt": "The circumference of a circle is 136.4 cm.\n\nCalculate the radius of the circle, in cm.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "21.7",
+      "points": 2,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q28",
+      "sectionId": "s1",
+      "number": "18(a)",
+      "type": "short_answer",
+      "prompt": "The grid shows shape A, shape B and point C.\n\nWrite down the vector that translates shape A onto shape B.\n\nGive your answer as a column vector in the form (x, y).",
+      "image": "/assets/s8-math-sch/figures/p11-fig1.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "(0, 3)",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q29",
+      "sectionId": "s1",
+      "number": "18(b)",
+      "type": "short_answer",
+      "prompt": "Point C is translated to point D by the vector (−25, 40).\n\nWrite down the vector that translates point D onto point C.\n\nGive your answer as a column vector in the form (x, y).",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "(25, -40)",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q30",
+      "sectionId": "s1",
+      "number": "18(c)",
+      "type": "short_answer",
+      "prompt": "The grid shows shape A, shape B and point C.\n\nPoint C is reflected in the line   x = 6   to give point E.\n\nFind the coordinates of point E, in the form (x, y).",
+      "image": "/assets/s8-math-sch/figures/p11-fig1.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "(7, 4)",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q31",
+      "sectionId": "s1",
+      "number": "19",
+      "type": "short_answer",
+      "prompt": "Complete this sentence with the correct rounded number.\n\n307 021 correct to 2 significant figures is ______",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "310000",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q32",
+      "sectionId": "s1",
+      "number": "19",
+      "type": "short_answer",
+      "prompt": "Complete this sentence with the correct rounded number.\n\n0.0389647 correct to 3 significant figures is ______",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "0.0390",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q33",
+      "sectionId": "s1",
+      "number": "20(a)",
+      "type": "short_answer",
+      "prompt": "Complete this sentence about percentage change with the correct number.\n\nTo increase a value by 4% you multiply by the decimal ______",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "1.04",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q34",
+      "sectionId": "s1",
+      "number": "20(a)",
+      "type": "short_answer",
+      "prompt": "Complete this sentence about percentage change with the correct number.\n\nTo increase a value by ______% you multiply by 2",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "100",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q35",
+      "sectionId": "s1",
+      "number": "20(b)",
+      "type": "short_answer",
+      "prompt": "Complete this sentence about absolute change with the correct number.\n\nWhen 150 is decreased by 300% the absolute change is ______",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "450",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q36",
+      "sectionId": "s1",
+      "number": "21",
+      "type": "multiple_choice",
+      "prompt": "Mike writes three equations where\n\n- h represents the number of hours\n- d represents the number of days\n- m represents the number of months\n- y represents the number of years\n\nShow if this equation is always true, sometimes true or false (the example d = 24h has been done for you: it is False):\n\n**m = 12y**",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "Always true",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Sometimes true",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "False",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "A",
+      "answerKey": null,
+      "points": 0.5,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q37",
+      "sectionId": "s1",
+      "number": "21",
+      "type": "multiple_choice",
+      "prompt": "Mike writes three equations where\n\n- h represents the number of hours\n- d represents the number of days\n- m represents the number of months\n- y represents the number of years\n\nShow if this equation is always true, sometimes true or false (the example d = 24h has been done for you: it is False):\n\n**d = 31m**",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "Always true",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Sometimes true",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "False",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 0.5,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q38",
+      "sectionId": "s1",
+      "number": "22",
+      "type": "short_answer",
+      "prompt": "Angelique has some red tickets and some yellow tickets.\nEach ticket has a single number written on it.\nThe table shows information about her tickets.\n\n| Colour of the ticket | Numbers used on the tickets |\n|---|---|\n| red | 1 to 27 |\n| yellow | 1 to 20 |\n\nAngelique picks a ticket at random.\nShe wrote: 'The probability that my ticket is red is 1/2', but that fraction is incorrect.\n\nComplete her sentence with the correct fraction:\n\nThe probability that my ticket is red is ______",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "27/47",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q39",
+      "sectionId": "s1",
+      "number": "22",
+      "type": "short_answer",
+      "prompt": "Angelique has some red tickets and some yellow tickets.\nEach ticket has a single number written on it.\nThe table shows information about her tickets.\n\n| Colour of the ticket | Numbers used on the tickets |\n|---|---|\n| red | 1 to 27 |\n| yellow | 1 to 20 |\n\nAngelique picks a ticket at random.\nShe wrote: 'The probability that my ticket shows an even number is 1/2', but that fraction is incorrect.\n\nComplete her sentence with the correct fraction:\n\nThe probability that my ticket shows an even number is ______",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "23/47",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q40",
+      "sectionId": "s1",
+      "number": "23",
+      "type": "short_answer",
+      "prompt": "Solve.\n\n5(4x + 3) = 97 − 8(0.5 − x)\n\nx = ______",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "6.5",
+      "points": 3,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q41",
+      "sectionId": "s1",
+      "number": "24",
+      "type": "short_answer",
+      "prompt": "The diagram shows a cuboid container (4 cm by 5 cm by 2.6 cm) and a triangular prism container (NOT TO SCALE).\nThe cross-section of the triangular prism is a right-angled triangle with perpendicular sides 6 cm and 3.25 cm, and the length of the prism is 8 cm.\n\nThe cuboid is completely filled with water.\nThe water is poured from the cuboid into the empty triangular prism.\n\nCalculate the **fraction** of the triangular prism that is filled by the water.\nGive your answer in its simplest form.",
+      "image": "/assets/s8-math-sch/page-14.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "2/3",
+      "points": 4,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q42",
+      "sectionId": "s1",
+      "number": "25",
+      "type": "multiple_choice",
+      "prompt": "Here is an equation.\n\n8 − x + y = 20\n\nChoose the correct words to complete the sentence:\n\nx is ______ y by ______ (the number is chosen in the next question)",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "greater than",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "less than",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "B",
+      "answerKey": null,
+      "points": 0.5,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q43",
+      "sectionId": "s1",
+      "number": "25",
+      "type": "multiple_choice",
+      "prompt": "Here is an equation.\n\n8 − x + y = 20\n\nChoose the correct number to complete the sentence:\n\nx is less than / greater than (as chosen in the previous question) y by ______",
+      "image": null,
+      "choices": [
+        {
+          "id": "A",
+          "text": "8",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "20",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "12",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "28",
+          "image": null
+        }
+      ],
+      "correctChoiceId": "C",
+      "answerKey": null,
+      "points": 0.5,
+      "criteria": null,
+      "paperOnly": false
+    }
+  ],
+  "published": true,
+  "aiRules": null,
+  "importNotes": [
+    "Source PDF has no cover page, so total marks and duration are not printed anywhere; totalPoints 50 is the sum of printed per-question marks and durationMinutes 120 comes from the '2h' in the source filename.",
+    "Tick-table/matching questions (11a, 12, 21, 25) were split into 0.5-point sub-questions to preserve printed totals; teacher may prefer whole-point weighting or recombining.",
+    "Numeric short answers marked by exact match (e.g. radius 21.7, 310000, 0.0390) may be entered with alternative rounding/formatting (21.71, '310 000', 0.039); AI near-miss checking should catch these but teacher review recommended.",
+    "Q13 (3D prism lengths) originally asked students to write answers on the drawing; adapted to two typed short answers (35 cm top length, 10 cm right height) - teacher should confirm the phrasing identifies the two blanks unambiguously.",
+    "No cover page in the extracted PDF (pages start at printed page 2), so no printed total marks, instructions, or duration; per-question marks sum to 50 and duration 120 min was taken from the source filename 'Grade 8-2h.pdf'.",
+    "Q11(a) matching (4 items, [2] total) was split into four 0.5-point multiple_choice questions; likewise Q12 (two tick-box statements, [1]), Q21 (two tick-box rows, [1]) and Q25 (word + number choice, [1]) were split into 0.5-point questions to preserve printed totals — fractional points need platform support.",
+    "Q13 ('write your answers on the drawing') adapted to two typed 1-point short answers; keys 35 cm and 10 cm derived from counting grid squares in the views (side/plan depth 5 squares = 25 cm, so 1 square = 5 cm) — worth double-checking against the original drawing.",
+    "Q10(b)(i) 'complete the sample space diagram' modeled as open_response with the partial table in the prompt; grader criteria list the full correct table.",
+    "Q23 [3 marks] and Q24 [4 marks] are answer-line-only questions modeled as short_answer, so method marks become all-or-nothing on auto-marking; teacher may want to review working manually.",
+    "Q17 answerKey is 21.7 (radius 136.4/(2π) = 21.707...); accept equivalent rounding such as 21.71.",
+    "Auto-cropped figures for Q4 (p02-fig1) and Q24 (p14-fig1/2) had dimension labels cut off, so full page renders page-02.png and page-14.png were attached instead; Q13 uses page-08.png for the same reason.",
+    "Q19/Q20(a)/Q22 each had two blanks under one printed mark of [2] and were split into two 1-point short answers each; Q14's table (two blanks, [2]) likewise."
+  ],
+  "verified": true
+}

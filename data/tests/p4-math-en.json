@@ -1,0 +1,122 @@
+{
+  "id": "p4-math-en",
+  "title": "Mathematics — Grade 4 Entrance (variant 2)",
+  "titleKa": "მათემატიკა — IV კლასი (მისაღები ტესტი)",
+  "division": "primary",
+  "track": "entrance",
+  "grade": "4",
+  "subject": "math",
+  "language": "ka",
+  "durationMinutes": 60,
+  "instructions": null,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Test",
+      "instructions": null,
+      "passage": null,
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "sectionId": "s1",
+      "number": "1",
+      "type": "short_answer",
+      "prompt": "თითოეულ უჯრაში ჩაწერეთ ისეთი რიცხვი, რომ მიიღოთ სწორი ტოლობა:\n\n7 × ⬜ = 42\n\n⬜ × 7 = 28\n\n(ჩაწერეთ ორი რიცხვი თანმიმდევრობით, მძიმით გამოყოფილი — ჯერ პირველი ტოლობის უჯრის რიცხვი, შემდეგ მეორის.)",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "6, 4",
+      "points": 2,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q2",
+      "sectionId": "s1",
+      "number": "2",
+      "type": "open_response",
+      "prompt": "დაწერეთ –6°C-ზე დაბალი ტემპერატურა °C-ში.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "1 ქულა: დასახელებულია ნებისმიერი ტემპერატურა, რომელიც –6°C-ზე დაბალია (მაგ. –7°C, –10°C, –20°C).\n0 ქულა: –6°C ან მასზე მაღალი ტემპერატურა, ან პასუხი ნიშნის გარეშე, რომელიც –6-ზე დაბალ ტემპერატურას არ გამოხატავს.",
+      "paperOnly": false
+    },
+    {
+      "id": "q3",
+      "sectionId": "s1",
+      "number": "3",
+      "type": "short_answer",
+      "prompt": "კარლოსი ითვლის ათასი ნაბიჯით უკან და თვლას 3800-დან იწყებს.\n\nდაწერეთ შემდეგი ორი რიცხვი, რომელსაც ითვლის კარლოსი.",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "2800, 1800",
+      "points": 2,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q4",
+      "sectionId": "s1",
+      "number": "4",
+      "type": "open_response",
+      "prompt": "ევას სამი ციფრული ბარათი აქვს. ის ამ ბარათებს სამნიშნა რიცხვის შესაქმნელად იყენებს.\n\nევა ამბობს: „ჩემი ციფრული ბარათებით მხოლოდ კენტი რიცხვების აწყობა შემიძლია.“\n\nდაწერეთ ციფრები მოცემულ თითოეულ ბარათზე ისე, რომ ევას ნათქვამი სწორი იყოს.\n\n(ჩაწერეთ სამი ციფრი მძიმეებით გამოყოფილი, მაგ.: 2, 4, 6.)",
+      "image": null,
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": null,
+      "points": 1,
+      "criteria": "1 ქულა: ჩაწერილია სამი ციფრი და სამივე კენტია (1, 3, 5, 7 ან 9) — ნებისმიერი ასეთი კომბინაცია სწორია (მაგ. 1, 3, 5), რადგან მხოლოდ მაშინ იქნება ბარათებით აწყობილი ყველა სამნიშნა რიცხვი კენტი.\n0 ქულა: რომელიმე ციფრი ლუწია, ან ციფრების რაოდენობა სამი არ არის.",
+      "paperOnly": false
+    },
+    {
+      "id": "q5a",
+      "sectionId": "s1",
+      "number": "5ა",
+      "type": "short_answer",
+      "prompt": "გაბრიელას სურს იცოდეს, რომელია მანქანის ყველაზე პოპულარული ფერი მის ქალაქში. ის აგროვებს მონაცემებს 30 მანქანის შესახებ, რომელსაც თავის ქალაქში ხშირად ხედავს. ამ მონაცემებს ის პიქტოგრამის საშუალებით აჩვენებს (იხ. სურათი).\n\nგასაღები: ერთი მთლიანი სიმბოლო (მართკუთხედი) ნიშნავს ________ მანქანას (ნახევარი სიმბოლო — სამკუთხედი — შესაბამისად ნახევარს).\n\nა) იპოვე პიქტოგრამის გასაღები — რამდენ მანქანას ნიშნავს ერთი მთლიანი სიმბოლო?",
+      "image": "/assets/p4-math-en/figures/p02-fig1.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "4",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    },
+    {
+      "id": "q5b",
+      "sectionId": "s1",
+      "number": "5ბ",
+      "type": "short_answer",
+      "prompt": "გაბრიელას პიქტოგრამა 30 მანქანის ფერების მონაცემებს აჩვენებს (იხ. სურათი; ერთი მთლიანი სიმბოლო რამდენიმე მანქანას ნიშნავს).\n\nბ) დაწერე მანქანის ყველაზე პოპულარული ფერი.",
+      "image": "/assets/p4-math-en/figures/p02-fig1.png",
+      "choices": [],
+      "correctChoiceId": null,
+      "answerKey": "თეთრი",
+      "points": 1,
+      "criteria": null,
+      "paperOnly": false
+    }
+  ],
+  "published": true,
+  "aiRules": null,
+  "importNotes": [
+    "durationMinutes: 60 is the guide default — the source PDF does not state a time limit",
+    "q2 and q4 accept many correct answers, so they are AI-graded via criteria; teacher should sanity-check the rubrics",
+    "title suffix '(variant 2)' was added to disambiguate from p4-math-ka (same grade/subject); rename if the school prefers different labels",
+    "Manifest says language \"en\" but the entire document is in Georgian; language was copied from the manifest as instructed — verify the metadata (id p4-math-en may be mislabeled).",
+    "No duration printed on the cover; defaulted to 60 minutes (primary division).",
+    "No printed total on the cover; question marks sum to 8.",
+    "Q1's boxed equations (7 × ⬜ = 42, ⬜ × 7 = 28) were transcribed into the prompt as text because no figure of them was auto-extracted; the only page-1 rasters are school logos (ignored as decorative).",
+    "Q2 (any temperature below –6°C) and Q4 (any three odd digits) accept infinitely many correct answers, so they were modeled as open_response with grading criteria instead of auto-marked short_answer.",
+    "Q5 pictogram key legend text (symbol = __ cars) sits outside the extracted table figure, so it was written into the prompts; the table itself is attached as figures/p02-fig1.png to both 5a and 5b.",
+    "Q1 answered with two blanks in one question (answerKey \"6, 4\"); students are instructed to enter both numbers comma-separated."
+  ],
+  "verified": true
+}

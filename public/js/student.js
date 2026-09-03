@@ -1,69 +1,93 @@
-// Student app: name -> catalog -> runner -> done
+// Student app: access code -> assigned tests -> runner -> done
 const app = document.getElementById('app');
-const LS = { student: 'bga_student', attempt: 'bga_attempt' };
+const LS = { code: 'bga_code', attempt: 'bga_attempt' };
 
-let student = JSON.parse(localStorage.getItem(LS.student) || 'null');
-let tests = [];
-let filters = { division: 'all', track: 'all', subject: 'all' };
+let session = null; // { student, tests, attempts } from the server
+let run = null;     // { test, attempt, dirty:{}, answers, pending, ... }
 
-// runner state
-let run = null; // { test, attempt, dirty:{}, saveTimer, tickTimer }
+function codeHeaders() {
+  const code = (session && session.code) || localStorage.getItem(LS.code) || '';
+  return { 'x-student-code': code };
+}
+
+// the attempt was closed on the server (teacher deleted it / access changed / time up)
+function endRun(title, message) {
+  if (run) { clearInterval(run.tickTimer); clearInterval(run.saveTimer); }
+  window.onbeforeunload = null;
+  localStorage.removeItem(LS.attempt);
+  app.innerHTML = `
+  <div class="landing">
+    <div class="card landing-card">
+      <div class="subject-ico" style="width:64px;height:64px;font-size:28px;margin:0 auto 18px;background:var(--warn-bg)">ℹ️</div>
+      <h1>${title}</h1>
+      <p>${message}</p>
+      <a class="btn btn-primary" href="/student.html">Back</a>
+    </div>
+  </div>`;
+}
 
 init();
 
 async function init() {
+  // resume an active attempt first (survives reloads)
   const saved = JSON.parse(localStorage.getItem(LS.attempt) || 'null');
-  if (saved) {
+  const code = localStorage.getItem(LS.code);
+  if (saved && code) {
     try {
-      const attempt = await api('/api/attempts/' + saved.id);
+      const attempt = await api('/api/attempts/' + saved.id, { headers: codeHeaders() });
       if (attempt.status === 'in_progress' && Date.now() < Date.parse(attempt.deadline)) {
-        const test = await api('/api/tests/' + attempt.testId + '/take');
+        const test = await api('/api/tests/' + attempt.testId + '/take', { method: 'POST', body: { code } });
         return startRunner(test, attempt);
       }
     } catch (e) { /* stale */ }
     localStorage.removeItem(LS.attempt);
   }
-  if (!student) return renderNameForm();
+  if (code) {
+    try { return await login(code); }
+    catch (e) { localStorage.removeItem(LS.code); }
+  }
+  renderLogin();
+}
+
+async function login(code) {
+  session = await api('/api/session/student', { method: 'POST', body: { code } });
+  session.code = String(code).trim().toUpperCase().replace(/[^A-Z0-9]/g, '');
+  localStorage.setItem(LS.code, session.code);
   renderCatalog();
 }
 
-/* ---------- name form ---------- */
-function renderNameForm() {
-  document.body.style.background = 'var(--canvas)';
+/* ---------- login ---------- */
+function renderLogin() {
   app.innerHTML = `
   <div class="landing">
-    <form class="card landing-card" id="nameForm" style="text-align:left">
+    <form class="card landing-card" id="codeForm" style="text-align:left">
       <div class="brand-mark" style="margin:0 0 16px">BGA</div>
-      <h1 style="font-size:21px">Welcome! Before we start…</h1>
-      <p>Enter your name exactly as it appears in your application.<br>შეიყვანე შენი სახელი და გვარი.</p>
-      <div class="field"><label>First name / სახელი</label>
-        <input class="input" id="fn" required maxlength="60" placeholder="e.g. Giorgi"></div>
-      <div class="field"><label>Last name / გვარი</label>
-        <input class="input" id="ln" required maxlength="60" placeholder="e.g. Beridze"></div>
+      <h1 style="font-size:21px">Welcome!</h1>
+      <p>Enter the access code your teacher gave you.<br>შეიყვანე მასწავლებლის მოცემული კოდი.</p>
+      <div class="field"><label>Access code / კოდი</label>
+        <input class="input" id="code" required maxlength="12" placeholder="e.g. K7M2QF" autocomplete="off"
+               style="text-transform:uppercase;letter-spacing:.2em;font-weight:700;font-size:18px;text-align:center"></div>
       <button class="btn btn-primary" style="width:100%;margin-top:8px">Continue</button>
+      <p class="muted" style="margin-top:14px">No code? Ask your teacher — codes are personal and case-insensitive.</p>
     </form>
   </div>`;
-  document.getElementById('nameForm').onsubmit = (e) => {
+  document.getElementById('codeForm').onsubmit = async (e) => {
     e.preventDefault();
-    const firstName = document.getElementById('fn').value.trim();
-    const lastName = document.getElementById('ln').value.trim();
-    if (!firstName || !lastName) return;
-    student = { firstName, lastName };
-    localStorage.setItem(LS.student, JSON.stringify(student));
-    renderCatalog();
+    try { await login(document.getElementById('code').value); }
+    catch (err) { toast(err.status === 401 ? 'Code not recognised — check it with your teacher.' : err.message); }
   };
 }
 
 /* ---------- catalog ---------- */
-async function renderCatalog() {
-  if (!tests.length) tests = await api('/api/tests');
+function renderCatalog() {
+  const { student, tests, attempts } = session;
   app.innerHTML = `
   <div class="shell">
-    ${sidebar('catalog')}
+    ${sidebar()}
     <div class="main">
       <div class="topbar">
-        <div><h1>Choose your test</h1>
-          <div class="sub">Pick the test your admissions letter asks you to take.</div></div>
+        <div><h1>Your tests</h1>
+          <div class="sub">These are the tests assigned to you. The timer starts when you open one.</div></div>
         <div class="top-right">
           <div class="who"><div class="name">${esc(student.firstName)} ${esc(student.lastName)}</div>
             <div class="role">Applicant</div></div>
@@ -73,63 +97,30 @@ async function renderCatalog() {
       <div class="hero">
         <div class="eyebrow">BGA Entrance Tests</div>
         <h2>Good luck, ${esc(student.firstName)}! Read every question carefully.</h2>
-        <p>The timer starts when you open a test. Your answers are saved automatically as you type — even if the page reloads.</p>
+        <p>Your answers are saved automatically as you type — even if the page reloads. Submit before the timer runs out.</p>
       </div>
-      <div class="section-title" style="margin-top:22px">
-        <span>Available tests</span>
-        <span class="row" id="filters"></span>
-      </div>
+      <div class="section-title" style="margin-top:22px"><span>Assigned to you (${tests.length})</span></div>
       <div class="test-grid" id="testGrid"></div>
     </div>
   </div>`;
-  renderFilters();
-  renderGrid();
-}
 
-function sidebar(active) {
-  return `
-  <aside class="sidebar">
-    <div class="brand"><div class="brand-mark">BGA</div>
-      <div><div class="brand-name">BGA</div><div class="brand-sub">entrance tests</div></div></div>
-    <div class="nav-label">Overview</div>
-    <button class="nav-item ${active === 'catalog' ? 'active' : ''}">${icoGrid()} Tests</button>
-    <a class="nav-item" href="/">${icoHome()} Home</a>
-    <div class="sidebar-foot">British-Georgian Academy<br>Entrance testing platform</div>
-  </aside>`;
-}
-
-function renderFilters() {
-  const wrap = document.getElementById('filters');
-  wrap.innerHTML = '';
-  const seg = (key, options) => {
-    const s = el('<div class="seg"></div>');
-    for (const [val, label] of options) {
-      const b = el(`<button class="${filters[key] === val ? 'active' : ''}">${label}</button>`);
-      b.onclick = () => { filters[key] = val; renderFilters(); renderGrid(); };
-      s.appendChild(b);
-    }
-    return s;
-  };
-  wrap.appendChild(seg('division', [['all', 'All'], ['primary', 'Primary'], ['secondary', 'Secondary']]));
-  wrap.appendChild(seg('track', [['all', 'All'], ['entrance', 'Entrance'], ['scholarship', 'Scholarship']]));
-  wrap.appendChild(seg('subject', [['all', 'All subjects'], ['english', 'English'], ['math', 'Math'], ['georgian', 'ქართული'], ['science', 'Science']]));
-}
-
-function renderGrid() {
   const grid = document.getElementById('testGrid');
-  const list = tests.filter((t) =>
-    (filters.division === 'all' || t.division === filters.division) &&
-    (filters.track === 'all' || t.track === filters.track) &&
-    (filters.subject === 'all' || t.subject === filters.subject));
-  grid.innerHTML = '';
-  if (!list.length) { grid.innerHTML = '<div class="empty card">No tests match these filters.</div>'; return; }
-  for (const t of list) {
+  if (!tests.length) {
+    grid.innerHTML = '<div class="empty card">No tests are assigned to you yet.<br>Ask your teacher to assign one to your code.</div>';
+    return;
+  }
+  for (const t of tests) {
     const s = SUBJECT_META[t.subject] || { icon: '📄', label: t.subject };
+    const att = attempts[t.id];
+    const inProgress = att && att.status === 'in_progress';
+    const done = att && att.status !== 'in_progress';
     const card = el(`
       <div class="card test-card">
         <div class="row" style="justify-content:space-between">
           <div class="subject-ico">${s.icon}</div>
-          <span class="chip ${t.track === 'scholarship' ? 'warn' : 'accent'}">${t.track === 'scholarship' ? 'Scholarship' : 'Entrance'}</span>
+          ${done ? '<span class="chip good"><span class="dot"></span>Completed</span>'
+            : inProgress ? '<span class="chip warn"><span class="dot"></span>In progress</span>'
+            : `<span class="chip ${t.track === 'scholarship' ? 'warn' : 'accent'}">${t.track === 'scholarship' ? 'Scholarship' : 'Entrance'}</span>`}
         </div>
         <h3>${esc(t.title)}</h3>
         ${t.titleKa ? `<div class="muted">${esc(t.titleKa)}</div>` : ''}
@@ -140,12 +131,26 @@ function renderGrid() {
         </div>
         <div class="test-foot">
           <span>⏱ ${t.durationMinutes} min</span>
-          <button class="btn btn-primary btn-sm btn-pill">Start</button>
+          ${done ? '<span class="muted">Submitted ✓</span>'
+            : `<button class="btn btn-primary btn-sm btn-pill">${inProgress ? 'Continue' : 'Start'}</button>`}
         </div>
       </div>`);
-    card.querySelector('button').onclick = () => confirmStart(t);
+    const btn = card.querySelector('button');
+    if (btn) btn.onclick = () => (inProgress ? beginAttempt(t) : confirmStart(t));
     grid.appendChild(card);
   }
+}
+
+function sidebar() {
+  return `
+  <aside class="sidebar">
+    <div class="brand"><div class="brand-mark">BGA</div>
+      <div><div class="brand-name">BGA</div><div class="brand-sub">entrance tests</div></div></div>
+    <div class="nav-label">Overview</div>
+    <button class="nav-item active">${icoGrid()} My tests</button>
+    <button class="nav-item" id="signOut">${icoHome()} Sign out</button>
+    <div class="sidebar-foot">British-Georgian Academy<br>Entrance testing platform</div>
+  </aside>`;
 }
 
 function confirmStart(t) {
@@ -154,8 +159,8 @@ function confirmStart(t) {
     <div class="modal">
       <h3>${esc(t.title)}</h3>
       <p class="muted" style="margin-bottom:14px">${esc(GRADE_LABEL(t.grade))} · ${t.questionCount} questions · ${t.totalPoints} points</p>
-      <p style="font-size:14px">You will have <b>${t.durationMinutes} minutes</b>. The timer starts immediately and cannot be paused. When time runs out, the test submits automatically.</p>
-      <p style="font-size:14px;margin-top:8px">დრო: <b>${t.durationMinutes} წუთი</b>. ტაიმერი დაუყოვნებლივ დაიწყება.</p>
+      <p style="font-size:14px">You will have <b>${t.durationMinutes} minutes</b>. The timer starts immediately and cannot be paused. When time runs out, the test submits automatically. You can take this test only once.</p>
+      <p style="font-size:14px;margin-top:8px">დრო: <b>${t.durationMinutes} წუთი</b>. ტესტის დაწერა შესაძლებელია მხოლოდ ერთხელ.</p>
       <div class="row" style="margin-top:20px;justify-content:flex-end">
         <button class="btn btn-ghost" data-x>Cancel</button>
         <button class="btn btn-primary" data-go>Start test</button>
@@ -165,24 +170,32 @@ function confirmStart(t) {
   bg.querySelector('[data-x]').onclick = () => bg.remove();
   bg.querySelector('[data-go]').onclick = async () => {
     bg.querySelector('[data-go]').disabled = true;
-    try {
-      const attempt = await api('/api/attempts', { method: 'POST', body: { testId: t.id, student } });
-      localStorage.setItem(LS.attempt, JSON.stringify({ id: attempt.id }));
-      const test = await api('/api/tests/' + t.id + '/take');
-      bg.remove();
-      startRunner(test, attempt);
-    } catch (e) { toast(e.message); bg.remove(); }
+    await beginAttempt(t);
+    bg.remove();
   };
   document.body.appendChild(bg);
+}
+
+async function beginAttempt(t) {
+  try {
+    const attempt = await api('/api/attempts', { method: 'POST', body: { testId: t.id, code: session.code } });
+    localStorage.setItem(LS.attempt, JSON.stringify({ id: attempt.id }));
+    const test = await api('/api/tests/' + t.id + '/take', { method: 'POST', body: { code: session.code } });
+    startRunner(test, attempt);
+  } catch (e) {
+    if (e.status === 401) {
+      localStorage.removeItem(LS.code);
+      toast('Your access code changed — sign in with the new code from your teacher.');
+      return renderLogin();
+    }
+    toast(e.message);
+    if (e.status === 409) login(session.code).catch(() => renderLogin());
+  }
 }
 
 /* ---------- runner ---------- */
 function startRunner(test, attempt) {
   run = { test, attempt, dirty: {}, answers: attempt.answers || {} };
-  const secOf = {};
-  test.sections.forEach((s) => (secOf[s.id] = s));
-
-  let qIndex = 0;
   const qs = test.questions;
 
   app.innerHTML = `
@@ -204,15 +217,13 @@ function startRunner(test, attempt) {
     <div class="savebar" id="savebar">All changes saved</div>
   </div>`;
 
-  // --- question palette
   const nav = document.getElementById('qnav');
-  qs.forEach((q, i) => {
+  qs.forEach((q) => {
     const c = el(`<button class="qnav-cell" title="Question ${esc(q.number)}">${esc(q.number)}</button>`);
     c.onclick = () => { document.getElementById('qc-' + q.id)?.scrollIntoView({ behavior: 'smooth', block: 'start' }); };
     nav.appendChild(c);
   });
 
-  // --- sections + questions
   const qcol = document.getElementById('qcol');
   if (test.instructions) {
     qcol.appendChild(el(`<div class="card sec-head"><h2>Instructions</h2><div class="sec-instr">${md(test.instructions)}</div></div>`));
@@ -220,17 +231,15 @@ function startRunner(test, attempt) {
   for (const sec of test.sections) {
     const sqs = qs.filter((q) => q.sectionId === sec.id);
     if (!sqs.length && !sec.passage) continue;
-    const head = el(`<div class="card sec-head">
+    qcol.appendChild(el(`<div class="card sec-head">
       <h2>${esc(sec.title || 'Section')}</h2>
       ${sec.instructions ? `<div class="sec-instr">${md(sec.instructions)}</div>` : ''}
       ${sec.image ? `<img class="qimg" src="${esc(sec.image)}" alt="">` : ''}
       ${sec.passage ? `<div class="passage">${md(sec.passage)}</div>` : ''}
-    </div>`);
-    qcol.appendChild(head);
+    </div>`));
     for (const q of sqs) qcol.appendChild(questionCard(q));
   }
 
-  // --- events
   document.getElementById('submitBtn').onclick = () => confirmSubmit(false);
   refreshNav();
   startTimer();
@@ -298,20 +307,33 @@ function refreshNav() {
 }
 
 function startAutosave() {
-  run.saveTimer = setInterval(flush, 2500);
-  async function flush() {
-    if (!Object.keys(run.dirty).length) return;
-    const batch = run.dirty;
-    run.dirty = {};
-    try {
-      await api(`/api/attempts/${run.attempt.id}/answers`, { method: 'PUT', body: { answers: batch } });
-      if (!Object.keys(run.dirty).length)
-        document.getElementById('savebar').textContent = 'All changes saved';
-    } catch (e) {
-      run.dirty = { ...batch, ...run.dirty };
-      if (e.status === 409) forceSubmit();
-      else document.getElementById('savebar').textContent = '⚠ Offline — retrying…';
+  run.pending = Promise.resolve();
+  run.saveTimer = setInterval(() => flush(), 2500);
+  function flush() {
+    if (Object.keys(run.dirty).length) {
+      const batch = run.dirty;
+      run.dirty = {};
+      // chain PUTs so they can never overtake each other or a submit
+      run.pending = run.pending.then(async () => {
+        try {
+          await api(`/api/attempts/${run.attempt.id}/answers`, {
+            method: 'PUT', body: { answers: batch }, headers: codeHeaders(),
+          });
+          const bar = document.getElementById('savebar');
+          if (bar && !Object.keys(run.dirty).length) bar.textContent = 'All changes saved';
+        } catch (e) {
+          if (e.status === 409) { run.timeUp = true; forceSubmit(); }
+          else if (e.status === 401) endRun('Access changed', 'Your access code is no longer valid. Please ask your teacher for the current code and sign in again.');
+          else if (e.status === 404) endRun('Attempt closed', 'This attempt was closed by your teacher. Sign in again to see your tests.');
+          else {
+            run.dirty = { ...batch, ...run.dirty };
+            const bar = document.getElementById('savebar');
+            if (bar) bar.textContent = '⚠ Offline — retrying…';
+          }
+        }
+      });
     }
+    return run.pending;
   }
   run.flush = flush;
 }
@@ -357,29 +379,53 @@ async function doSubmit(auto) {
   if (submitting) return;
   submitting = true;
   clearInterval(run.tickTimer); clearInterval(run.saveTimer);
+  try { await run.flush(); await run.pending; } catch (e) {}
+  if (Object.keys(run.dirty).length && !auto && !run.timeUp) {
+    // saves are failing (offline) — don't silently drop answers
+    toast('Some answers are not saved yet — check the connection and try again.');
+    run.saveTimer = setInterval(() => run.flush(), 2500);
+    submitting = false;
+    return;
+  }
   window.onbeforeunload = null;
-  try { await run.flush(); } catch (e) {}
   try {
-    await api(`/api/attempts/${run.attempt.id}/submit`, { method: 'POST' });
+    await api(`/api/attempts/${run.attempt.id}/submit`, { method: 'POST', headers: codeHeaders() });
   } catch (e) {
+    if (e.status === 401) { submitting = false; return endRun('Access changed', 'Your access code is no longer valid. Ask your teacher for the current code.'); }
+    if (e.status === 404) { submitting = false; return endRun('Attempt closed', 'This attempt was closed by your teacher.'); }
     if (e.status !== 409) { toast('Could not submit: ' + e.message); submitting = false; return; }
   }
   localStorage.removeItem(LS.attempt);
+  submitting = false;
   renderDone(auto);
 }
 
 function renderDone(auto) {
+  const name = session ? session.student.firstName : '';
   app.innerHTML = `
   <div class="landing">
     <div class="card landing-card">
       <div class="subject-ico" style="width:64px;height:64px;font-size:28px;margin:0 auto 18px;background:var(--good-bg)">✅</div>
       <h1>Test submitted${auto ? ' (time was up)' : ''}!</h1>
-      <p>Thank you, ${esc(student.firstName)}. Your answers were received and will be marked by the admissions team.<br><br>
+      <p>Thank you${name ? ', ' + esc(name) : ''}. Your answers were received and will be marked by the admissions team.<br><br>
       გმადლობთ! თქვენი ნამუშევარი მიღებულია — შედეგებს სკოლა შეგატყობინებთ.</p>
-      <a class="btn btn-primary" href="/student.html">Back to tests</a>
+      <div class="row" style="justify-content:center">
+        <a class="btn btn-primary" href="/student.html">Back to my tests</a>
+        <button class="btn btn-ghost" id="doneSignOut">Sign out</button>
+      </div>
     </div>
   </div>`;
 }
+
+/* wire sign-out (delegated, sidebar re-renders) */
+document.addEventListener('click', (e) => {
+  if (e.target.closest && (e.target.closest('#signOut') || e.target.closest('#doneSignOut'))) {
+    localStorage.removeItem(LS.code);
+    localStorage.removeItem(LS.attempt);
+    session = null;
+    renderLogin();
+  }
+});
 
 /* tiny inline icons */
 function icoGrid() { return '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg>'; }

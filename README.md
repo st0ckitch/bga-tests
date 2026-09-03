@@ -11,10 +11,12 @@ npm start
 
 Open http://localhost:4310
 
-- **Students** → `/student.html` — enter name, pick the test, timed attempt, autosave, submit.
+- **Students** → `/student.html` — sign in with the personal access code from their teacher, see only the tests assigned to them, take each once (timed, autosaving).
 - **Teachers** → `/teacher.html` — default password `bga-admin` (change it in Settings).
 
 ## What the teacher portal does
+
+- **Students** — add each applicant, get their personal access code, and tick which tests they can see. Regenerate codes, delete attempts to allow a retake.
 
 - **Dashboard** — every attempt with status, score, score-distribution chart, review queue.
 - **Attempt review** — per-question view of the student's answer, the key/criteria, the AI's mark

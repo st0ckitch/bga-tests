@@ -32,6 +32,8 @@ async function route() {
   try {
     if (page === 'attempt' && arg) return await renderAttempt(arg);
     if (page === 'tests') return await renderTests();
+    if (page === 'students') return await renderStudents();
+    if (page === 'student' && arg) return await renderStudentEdit(arg);
     if (page === 'test' && arg) return await renderTestEditor(arg);
     if (page === 'settings') return await renderSettings();
     return await renderDashboard();
@@ -73,6 +75,7 @@ function shell(active, contentHtml, title, sub) {
       <div class="nav-label">Overview</div>
       <a class="nav-item ${active === 'dashboard' ? 'active' : ''}" href="#/dashboard">${ico('dash')} Dashboard</a>
       <a class="nav-item ${active === 'tests' ? 'active' : ''}" href="#/tests">${ico('doc')} Tests</a>
+      <a class="nav-item ${active === 'students' ? 'active' : ''}" href="#/students">${ico('users')} Students</a>
       <div class="nav-label">System</div>
       <a class="nav-item ${active === 'settings' ? 'active' : ''}" href="#/settings">${ico('cog')} Settings</a>
       <a class="nav-item" href="/">${ico('home')} Exit portal</a>
@@ -195,7 +198,7 @@ async function renderDashboard() {
 
 /* ---------- attempt review ---------- */
 async function renderAttempt(attemptId) {
-  const { attempt, test } = await tapi('/api/teacher/attempts/' + attemptId);
+  const { attempt, test, studentCode } = await tapi('/api/teacher/attempts/' + attemptId);
   const s = STATUS_META[attempt.status] || { label: attempt.status, cls: '' };
   const passages = {};
   (test.sections || []).forEach((x) => (passages[x.id] = x));
@@ -207,12 +210,14 @@ async function renderAttempt(attemptId) {
       <span class="spacer"></span>
       <button class="btn btn-soft btn-sm" id="regradeMissing">Run AI on unmarked</button>
       <button class="btn btn-soft btn-sm" id="regradeAll">Re-run AI (all)</button>
+      <button class="btn btn-danger btn-sm" id="deleteAttempt">Delete attempt (allow retake)</button>
       <button class="btn btn-primary btn-sm" id="markReviewed">${attempt.status === 'reviewed' ? '✓ Reviewed' : 'Mark as reviewed'}</button>
     </div>
     <div class="card card-pad" style="margin-bottom:18px">
       <div class="row" style="justify-content:space-between">
         <div>
-          <h2 style="font-size:19px">${esc(attempt.student.firstName)} ${esc(attempt.student.lastName)}</h2>
+          <h2 style="font-size:19px">${esc(attempt.student.firstName)} ${esc(attempt.student.lastName)}
+            ${studentCode ? `<span class="chip accent" style="font-family:ui-monospace,monospace;letter-spacing:.12em;vertical-align:3px">${esc(studentCode)}</span>` : ''}</h2>
           <div class="muted">${esc(test.title)} · ${esc(GRADE_LABEL(test.grade))} · started ${fmtDate(attempt.startedAt)}${attempt.submittedAt ? ' · submitted ' + fmtDate(attempt.submittedAt) : ''}</div>
         </div>
         <div style="text-align:right">
@@ -265,6 +270,7 @@ async function renderAttempt(attemptId) {
     const [scoreInput] = [card.querySelector('.score-input')];
     const fbInput = card.querySelector('textarea');
     card.querySelector('.btn-primary').onclick = async () => {
+      if (scoreInput.value.trim() === '') return toast('Enter a score before saving');
       const r = await tapi(`/api/teacher/attempts/${attempt.id}/grade`, {
         method: 'PUT',
         body: { questionId: q.id, score: Number(scoreInput.value), feedback: fbInput.value },
@@ -281,8 +287,16 @@ async function renderAttempt(attemptId) {
   async function regrade(mode) {
     await tapi(`/api/teacher/attempts/${attempt.id}/regrade`, { method: 'POST', body: { mode } });
     toast('AI grading started — refresh in a moment');
-    setTimeout(() => renderAttempt(attemptId), 6000);
+    setTimeout(() => {
+      if (location.hash === '#/attempt/' + attemptId) renderAttempt(attemptId);
+    }, 6000);
   }
+  document.getElementById('deleteAttempt').onclick = async () => {
+    if (!confirm('Delete this attempt? The student will be able to take the test again. This cannot be undone.')) return;
+    await tapi('/api/teacher/attempts/' + attempt.id, { method: 'DELETE' });
+    toast('Attempt deleted — the student can retake the test');
+    location.hash = '#/dashboard';
+  };
   document.getElementById('markReviewed').onclick = async () => {
     await tapi(`/api/teacher/attempts/${attempt.id}/status`, { method: 'PUT', body: { status: 'reviewed' } });
     toast('Marked as reviewed');
@@ -430,6 +444,166 @@ async function renderTestEditor(testId) {
   };
 }
 
+
+/* ---------- students ---------- */
+async function renderStudents() {
+  const [ov, students] = await Promise.all([
+    tapi('/api/teacher/overview'),
+    tapi('/api/teacher/students'),
+  ]);
+  overview = ov;
+  shell('students', `
+    <div class="card card-pad" style="margin-bottom:18px">
+      <h2 style="font-size:16px;margin-bottom:12px">Add a student</h2>
+      <form class="row" id="addStudent">
+        <input class="input" id="stFn" placeholder="First name" required style="max-width:220px">
+        <input class="input" id="stLn" placeholder="Last name" required style="max-width:220px">
+        <button class="btn btn-primary">Add student</button>
+        <span class="muted">Each student gets a personal access code to sign in with.</span>
+      </form>
+    </div>
+    <div class="card" style="overflow-x:auto"><table class="tbl" id="stTbl"></table></div>
+  `, 'Students', `${students.length} student${students.length === 1 ? '' : 's'} — give each their code, and choose which tests they can see.`);
+
+  document.getElementById('addStudent').onsubmit = async (e) => {
+    e.preventDefault();
+    const firstName = document.getElementById('stFn').value.trim();
+    const lastName = document.getElementById('stLn').value.trim();
+    if (!firstName || !lastName) return;
+    const st = await tapi('/api/teacher/students', { method: 'POST', body: { firstName, lastName } });
+    toast(`${st.firstName} added — code ${st.code}`);
+    location.hash = '#/student/' + st.id;
+  };
+
+  const tbl = document.getElementById('stTbl');
+  if (!students.length) {
+    tbl.innerHTML = '<tr><td class="empty">No students yet — add the applicants who will write tests.</td></tr>';
+    return;
+  }
+  tbl.innerHTML = `<tr><th>Student</th><th>Access code</th><th>Assigned tests</th><th>Progress</th><th></th></tr>` +
+    students.map((st) => {
+      const done = st.attempts.filter((a) => a.status !== 'in_progress').length;
+      return `<tr class="rowlink" data-id="${st.id}">
+        <td><b>${esc(st.firstName)} ${esc(st.lastName)}</b></td>
+        <td><span class="chip accent" style="font-family:ui-monospace,monospace;letter-spacing:.12em">${esc(st.code)}</span>
+            <button class="btn btn-ghost btn-sm" data-copy="${esc(st.code)}" style="margin-left:6px">Copy</button></td>
+        <td>${st.assignedTestIds.length ? `<span class="chip">${st.assignedTestIds.length}</span>` : '<span class="chip warn">none</span>'}</td>
+        <td class="muted">${done} / ${st.assignedTestIds.length} submitted</td>
+        <td><span class="btn btn-soft btn-sm">Manage</span></td>
+      </tr>`;
+    }).join('');
+  tbl.querySelectorAll('[data-copy]').forEach((b) => (b.onclick = (e) => {
+    e.stopPropagation();
+    navigator.clipboard.writeText(b.dataset.copy).then(() => toast('Code copied: ' + b.dataset.copy));
+  }));
+  tbl.querySelectorAll('tr.rowlink').forEach((tr) => (tr.onclick = () => (location.hash = '#/student/' + tr.dataset.id)));
+}
+
+async function renderStudentEdit(studentId) {
+  const [ov, students] = await Promise.all([
+    tapi('/api/teacher/overview'),
+    tapi('/api/teacher/students'),
+  ]);
+  overview = ov;
+  const st = students.find((x) => x.id === studentId);
+  if (!st) { toast('Student not found'); location.hash = '#/students'; return; }
+  const assigned = new Set(st.assignedTestIds || []);
+  const attemptByTest = {};
+  for (const a of st.attempts) attemptByTest[a.testId] = a;
+
+  const groups = [
+    ['Primary — Entrance', (t) => t.division === 'primary'],
+    ['Secondary — Entrance', (t) => t.division === 'secondary' && t.track === 'entrance'],
+    ['Secondary — Scholarship', (t) => t.division === 'secondary' && t.track === 'scholarship'],
+  ];
+
+  shell('students', `
+    <div class="row" style="margin-bottom:18px">
+      <a class="btn btn-ghost btn-sm" href="#/students">← All students</a>
+      <span class="spacer"></span>
+      <button class="btn btn-danger btn-sm" id="delStudent">Delete student</button>
+      <button class="btn btn-primary" id="saveStudent">Save changes</button>
+    </div>
+    <div class="card card-pad" style="margin-bottom:18px">
+      <div class="row" style="justify-content:space-between;align-items:flex-end">
+        <div class="row">
+          <div class="field" style="margin:0"><label>First name</label><input class="input" id="edFn" value="${esc(st.firstName)}"></div>
+          <div class="field" style="margin:0"><label>Last name</label><input class="input" id="edLn" value="${esc(st.lastName)}"></div>
+        </div>
+        <div style="text-align:right">
+          <div class="t-label" style="font-size:12px;color:var(--ink-3);font-weight:600">ACCESS CODE — give this to the student</div>
+          <div class="row" style="justify-content:flex-end;margin-top:6px">
+            <span class="chip accent" style="font-family:ui-monospace,monospace;font-size:19px;letter-spacing:.2em;padding:8px 18px">${esc(st.code)}</span>
+            <button class="btn btn-ghost btn-sm" id="copyCode">Copy</button>
+            <button class="btn btn-ghost btn-sm" id="regenCode">New code</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section-title"><span>Tests visible to ${esc(st.firstName)}</span>
+      <span class="muted" id="selCount"></span></div>
+    <div class="grid" id="assignGroups"></div>
+  `, `${esc(st.firstName)} ${esc(st.lastName)}`, 'Tick the tests this student should see when they sign in with their code.');
+
+  const wrap = document.getElementById('assignGroups');
+  const refreshCount = () =>
+    (document.getElementById('selCount').textContent = assigned.size + ' selected');
+  refreshCount();
+
+  for (const [label, fn] of groups) {
+    const list = overview.tests.filter(fn);
+    if (!list.length) continue;
+    const card = el(`<div class="card card-pad">
+      <div class="row" style="justify-content:space-between;margin-bottom:10px">
+        <h2 style="font-size:15px">${label}</h2></div>
+      <div class="grid" style="grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:8px" data-list></div>
+    </div>`);
+    const listEl = card.querySelector('[data-list]');
+    for (const t of list) {
+      const att = attemptByTest[t.id];
+      const row = el(`<label class="choice" style="padding:9px 12px ${att ? ';opacity:.85' : ''}">
+        <input type="checkbox" ${assigned.has(t.id) ? 'checked' : ''} style="accent-color:var(--accent);width:16px;height:16px;margin-top:2px">
+        <span style="font-size:13.5px"><b>${esc(t.title)}</b><br>
+          <span class="muted">${esc(GRADE_LABEL(t.grade))} · ${t.durationMinutes} min · ${t.totalPoints} pts</span>
+          ${att ? `<br><span class="chip ${att.status === 'in_progress' ? 'warn' : 'good'}" style="margin-top:4px">${att.status === 'in_progress' ? 'in progress' : 'submitted'}</span>` : ''}
+        </span>
+      </label>`);
+      row.querySelector('input').onchange = (e) => {
+        if (e.target.checked) assigned.add(t.id); else assigned.delete(t.id);
+        refreshCount();
+      };
+      listEl.appendChild(row);
+    }
+    wrap.appendChild(card);
+  }
+
+  document.getElementById('copyCode').onclick = () =>
+    navigator.clipboard.writeText(st.code).then(() => toast('Code copied: ' + st.code));
+  document.getElementById('regenCode').onclick = async () => {
+    if (!confirm('Generate a new code? The old code will stop working immediately.')) return;
+    const updated = await tapi('/api/teacher/students/' + st.id + '/regenerate-code', { method: 'POST' });
+    toast('New code: ' + updated.code);
+    renderStudentEdit(studentId);
+  };
+  document.getElementById('delStudent').onclick = async () => {
+    if (!confirm(`Delete ${st.firstName} ${st.lastName}? Their code stops working. Submitted attempts are kept.`)) return;
+    await tapi('/api/teacher/students/' + st.id, { method: 'DELETE' });
+    toast('Student deleted');
+    location.hash = '#/students';
+  };
+  document.getElementById('saveStudent').onclick = async () => {
+    await tapi('/api/teacher/students/' + st.id, {
+      method: 'PUT',
+      body: {
+        firstName: document.getElementById('edFn').value,
+        lastName: document.getElementById('edLn').value,
+        assignedTestIds: [...assigned],
+      },
+    });
+    toast('Student saved');
+  };
+}
+
 /* ---------- settings ---------- */
 async function renderSettings() {
   overview = await tapi('/api/teacher/overview');
@@ -473,6 +647,7 @@ function ico(name) {
     doc: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 2h9l5 5v15H6z"/><path d="M14 2v6h6"/><path d="M9 13h6M9 17h6"/></svg>',
     cog: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3.2"/><path d="M19 12a7 7 0 0 0-.1-1.2l2-1.5-2-3.4-2.3 1a7 7 0 0 0-2-1.2L14.2 3h-4l-.4 2.7a7 7 0 0 0-2 1.2l-2.3-1-2 3.4 2 1.5A7 7 0 0 0 5 12c0 .4 0 .8.1 1.2l-2 1.5 2 3.4 2.3-1a7 7 0 0 0 2 1.2l.4 2.7h4l.4-2.7a7 7 0 0 0 2-1.2l2.3 1 2-3.4-2-1.5c.1-.4.1-.8.1-1.2z"/></svg>',
     home: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 10.5 12 3l9 7.5"/><path d="M5 9.5V21h14V9.5"/></svg>',
+    users: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="8" r="3.5"/><path d="M2.5 20c.8-3.2 3.4-5 6.5-5s5.7 1.8 6.5 5"/><circle cx="17.5" cy="9.5" r="2.6"/><path d="M15.9 15.2c2.7.2 4.8 1.8 5.6 4.8"/></svg>',
   };
   return m[name] || '';
 }

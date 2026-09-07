@@ -5,3 +5,5 @@ node_modules/
 data/attempts/*
 !data/attempts/.gitkeep
 data/settings.json
+data/students/*
+!data/students/.gitkeep

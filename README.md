@@ -50,6 +50,26 @@ Everything is plain JSON on disk — no database needed:
 - `data/settings.json` — password, model, rules
 - `public/assets/<test>/…` — figures extracted from the original papers
 
+## Hosting on Railway
+
+The repo is deploy-ready. In the Railway dashboard:
+
+1. **New Project → Deploy from GitHub repo** → pick `st0ckitch/bga-tests`.
+2. Open the service → **Variables** and add:
+   - `DATA_DIR` = `/data` — where all state (tests, students, attempts, settings) lives
+   - `TEACHER_PASSWORD` = a strong password of your choice (overrides the stored one)
+   - `ANTHROPIC_API_KEY` = `sk-ant-…` *(optional — turns on AI marking; there is no Claude CLI in the cloud)*
+3. Service → **Settings → Volumes → Add volume**, mount path `/data`.
+   Without the volume, student data is wiped on every redeploy — do not skip this.
+4. Service → **Settings → Networking → Generate Domain** — that URL is the live platform.
+
+On the first boot with an empty volume the app seeds all 47 tests into it automatically;
+after that the volume copy is the single source of truth (teacher edits, students,
+attempts, settings all live there and survive redeploys). Redeploying code never
+touches the volume.
+
+Local runs are unchanged: without `DATA_DIR` the app uses the repo's `data/` folder.
+
 ## Re-importing tests
 
 Tests were parsed from the original .docx/.pdf papers by an AI pipeline. To re-import:

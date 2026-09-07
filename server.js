@@ -6,6 +6,7 @@ const { store, id } = require('./lib/store');
 const { gradeAttempt, computeTotals } = require('./lib/grader');
 
 const app = express();
+app.set('trust proxy', 1); // Railway/other proxies: real client IPs for the login throttle
 const PORT = process.env.PORT || 4310;
 app.use(express.json({ limit: '4mb' }));
 app.use(express.static(path.join(__dirname, 'public')));
@@ -101,6 +102,8 @@ function throttled(ip) {
 function noteFail(ip) {
   loginFails.get(ip).push(Date.now());
 }
+
+app.get('/api/health', (req, res) => res.json({ ok: true }));
 
 // ---------- student API ----------
 function attemptBrief(a) {
